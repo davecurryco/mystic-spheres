@@ -1,0 +1,7 @@
+# Pitcher of Purity
+
+_Wondrous item, rare_
+
+When you pour any liquid into the pitcher, it is instantly transformed into pure water. If you then pour the water into the six silver cups that accompany the pitcher, one of them will contain a _potion of greater healing_. It is impossible to tell which cup contains the blessed draught. Any attempt to rig the outcome, such as having a single creature drink all six cups, will result in the blessing being withheld -- none of the cups will contain the healing draught. You may only use this property once per day. The healing potion will turn into pure water if not consumed within 1 round of its creation.
+
+**Note:** The power of this item will favor lawful good behavior. If the party is acting in accordance with this alignment or is embarked on a quest that will advance the lawful good cause, the blessing will always go to the character who needs it most. If only some party members are behaving in a lawful good way, then the blessing will go to the one of them who most needs it. If none of the party is upholding lawfulness or good, the blessing will be bestowed randomly (1d6). The blessing may be withheld entirely if the adventurers have shown chaotic or evil behavior.
