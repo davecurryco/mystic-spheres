@@ -8,4 +8,4 @@ Nado is formed from two volcanoes, but neither is as tall as Naai Akapele. The s
 
 ### Cities
 
-[[Kadasha]]
+[Kadasha](Kadasha.md)

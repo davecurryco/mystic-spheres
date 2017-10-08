@@ -8,4 +8,4 @@ Honu is mountainous and rocky, but _Kalameda Bay_ is well-sheltered and rich in 
 
 ### Towns
 
-[[Lodakai]]
+[Lodakai](Lodakai.md)

@@ -8,4 +8,4 @@ Dasho has the most arable land of any of the islands of Ilshan.
 
 ### Cities
 
-[[Kodyo]]
+[Kodyo](Kodyo.md)

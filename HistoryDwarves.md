@@ -32,7 +32,7 @@ Dwarves of the Southern Kindred use a count called _Karan Krandul_ that observes
 
 ### The Sundering of the Kindreds
 
-The gemstone that was to become known as [[HeartOfAbbathor|The Heart of Abbathor]] was discovered by dwarven miners thousands of years ago in a vein of a strange, brittle ore at the roots of _Karad Nazarizim_, the Mountain of Mysteries. The enormous green stone was of no known type of gem and its shape defied normal geometry. It was claimed by King Dwairin II and given to Fearar son of Frar, the most skilled jewel smith of his time, to cut, mount and enchant.
+The gemstone that was to become known as [HeartOfAbbathor](HeartOfAbbathor.md) was discovered by dwarven miners thousands of years ago in a vein of a strange, brittle ore at the roots of _Karad Nazarizim_, the Mountain of Mysteries. The enormous green stone was of no known type of gem and its shape defied normal geometry. It was claimed by King Dwairin II and given to Fearar son of Frar, the most skilled jewel smith of his time, to cut, mount and enchant.
 
 Unfortunately, contemplating the alien geometry of the stone's crystalline structure drove the gem cutter mad. Convinced that the patterns formed a key by which the secrets of the elements might be revealed, Fearar was seized with the desire to keep it for himself. As he knew that this was impossible while Dwairin claimed the gem, the jeweler audaciously determined to overthrow the King.
 

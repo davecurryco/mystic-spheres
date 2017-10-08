@@ -2,16 +2,16 @@
 
 ## Campaign Artifacts
 
-[[CodexOfNarastur]]
+[CodexOfNarastur](CodexOfNarastur.md)
 
-[[EyeOfShadow]]
+[EyeOfShadow](EyeOfShadow.md)
 
-[[HeartOfAbbathor]]
+[HeartOfAbbathor](HeartOfAbbathor.md)
 
-[[NecklaceOfAutumn]]
+[NecklaceOfAutumn](NecklaceOfAutumn.md)
 
-[[RingOfStarlight]]
+[RingOfStarlight](RingOfStarlight.md)
 
 ## Adventure Artifacts
 
-[[ReliquaryOfArkrazKhalharzra]]
+[ReliquaryOfArkrazKhalharzra](ReliquaryOfArkrazKhalharzra.md)

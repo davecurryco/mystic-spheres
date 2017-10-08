@@ -1,3 +1,3 @@
 # Player Characters
 
-[[ArdomelAndarion]]
+[ArdomelAndarion](ArdomelAndarion.md)

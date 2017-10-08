@@ -24,7 +24,7 @@ Mines and smelting operations in the surrounding area operate under license from
 
 ### The Hall
 
-[[ZerengarHall]]
+[ZerengarHall](ZerengarHall.md)
 
 ## History
 

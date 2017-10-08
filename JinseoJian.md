@@ -41,4 +41,4 @@ Cantrips (at will): _light, sacred flame, thaumaturgy_
 
 (Experimentation, Critical, Dainty)
 
-**Jian, Jinseo** is the older sister of [[MulaoJian]] and was very stern and disapproving of Mulao's antics. After her sister's death, Jinseo attempted to take Mulao's place to fool Jaman Khal, but was discovered. In the attempt, she tasted the _ghoor_ given to Mulao by Xenadria and, in so doing, became an assassin of the cult of Shrivra.  
+**Jian, Jinseo** is the older sister of [MulaoJian](MulaoJian.md) and was very stern and disapproving of Mulao's antics. After her sister's death, Jinseo attempted to take Mulao's place to fool Jaman Khal, but was discovered. In the attempt, she tasted the _ghoor_ given to Mulao by Xenadria and, in so doing, became an assassin of the cult of Shrivra.  

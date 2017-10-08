@@ -36,7 +36,7 @@ Nevertheless, the castle is strong enough to secure its master as the law in Del
 
 Gorbast's Keep is the seat of power. It is here that the ogre-king lives, holds court, administers what passes for justice, plots shakedowns, and generally knocks heads as needed to keep things running smoothly.
 
-[[DelastarionKeep]]
+[DelastarionKeep](DelastarionKeep.md)
 
 ### The North Gate
 

@@ -8,4 +8,4 @@ Kalii is the smallest of the islands of Ilshan. It is dominated by a single volc
 
 ### Towns
 
-[[Akuua]]
+[Akuua](Akuua.md)

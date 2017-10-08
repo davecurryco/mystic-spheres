@@ -24,11 +24,11 @@ The Roamers are organized into a number of clans, each headed by a matriarch. Se
 
 Halflings have no written accounts that predate their Wandering. There are a few songs, stories, and myths that have origins prior to this.
 
-* [[HistoryHalflings]]
+* [HistoryHalflings](HistoryHalflings.md)
 
 ## Halfling Language
 
 Halflings originally spoke the language of the Firbolgs, who were their protectors during their wanderings in the Feywild. However, in Arestor, the halfings' contact with dwarves and humans caused them to adopt Common, although they retained many nouns and proper names from their original tongue. Once the halflings settled in the Downshire and ceased to have regular dealings with other races, their dialect diverged from standard Common. To the ears of modern Esslealoneans and Telenar colonists, the halfling dialect of Common sounds rustic, although it can still be understood.
 
-* [[LanguageHalflings]]
+* [LanguageHalflings](LanguageHalflings.md)
 

@@ -29,5 +29,5 @@ Neunazar is a city built along limestone bluffs at the head of Nasheel bay where
 
 ### Arcane
 
-**Wizard:** [[HadrazanTheSeer]], _Semi-retired_
+**Wizard:** [HadrazanTheSeer](HadrazanTheSeer.md), _Semi-retired_
 

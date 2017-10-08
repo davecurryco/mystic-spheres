@@ -21,13 +21,13 @@ The Telenar number years according to the reigns of the kings of Essealona since
 
 ### Establishment of Essealona
 
-Some fifteen-hundred years prior to the current time, the Telenar, refugees from a continent far to the west, arrived at the new island to the west of the continent of [[Arestor]] and christened it [[Essealona]]. The smaller island to the south they named [[Verunor]].
+Some fifteen-hundred years prior to the current time, the Telenar, refugees from a continent far to the west, arrived at the new island to the west of the continent of [Arestor](.md) and christened it [Essealona](.md). The smaller island to the south they named [Verunor](.md).
 
 ### The Reign of the Usurper
 
 The rightful king of Essealona was named Nessaran at birth. He took the name Allenar III on his ascension to the throne on attaining adulthood, three years after the death of his father Allenar II. In the interval, the Royal Council of Essealona appointed Caladron son of Celesor, an ambitious noble, as regent.
 
-Caladron used his time on the throne to form a secret alliance of noble families, powerful financiers, and wealthy merchants. The regent formed a royal society called [[GuardiansOfTheSceptre|The Guardians of the Scepter]] and appointed his co-conspirators to its chief posts. When, only a few months into the second year of his reign, Allenar disappeared during a hunting expedition, Caladron promptly reclaimed the title of regent. When the Council objected that they had not appointed him this second time, Caladron ordered the body disbanded and its members arrested. However, several of the Councilmen escaped capture. Aided by members of [[FellowesOfTheWhiteQuill|The Fellowes of the White Quill]] and by loyalist nobles, the fugitives raised public opposition to Caladron's reign.
+Caladron used his time on the throne to form a secret alliance of noble families, powerful financiers, and wealthy merchants. The regent formed a royal society called [GuardiansOfTheSceptre](GuardiansOfTheSceptre.md) and appointed his co-conspirators to its chief posts. When, only a few months into the second year of his reign, Allenar disappeared during a hunting expedition, Caladron promptly reclaimed the title of regent. When the Council objected that they had not appointed him this second time, Caladron ordered the body disbanded and its members arrested. However, several of the Councilmen escaped capture. Aided by members of [FellowesOfTheWhiteQuill](FellowesOfTheWhiteQuill.md) and by loyalist nobles, the fugitives raised public opposition to Caladron's reign.
 
 The usurper reacted with increasing brutality, culminating in a two-day reign of terror in the southwestern port city of Rhorne. The wanton bloodshed repulsed even Caladron's allies in the Order of the Guardians. Fearing that they could be next, the usurper's backers turned on him. In short order, Caladron the Despised, as he had come to be called, was dethroned and forced to flee into hiding.
 

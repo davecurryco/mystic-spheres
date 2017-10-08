@@ -1,11 +1,11 @@
 # Blackfane Spire
 
-[[BlackfaneRing]]
+[BlackfaneRing](BlackfaneRing.md)
 
-[[BlackfaneGates]]
+[BlackfaneGates](BlackfaneGates.md)
 
-[[BlackfaneSpireLower]]
+[BlackfaneSpireLower](BlackfaneSpireLower.md)
 
-[[BlackfaneSpireUpper1-4]]
+[BlackfaneSpireUpper1-4](BlackfaneSpireUpper1-4.md)
 
-[[BlackfaneSpireUpper5-7]]
+[BlackfaneSpireUpper5-7](BlackfaneSpireUpper5-7.md)

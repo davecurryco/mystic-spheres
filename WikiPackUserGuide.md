@@ -258,10 +258,10 @@ WikiWords are simply a title-case phrase with no spaces separating the words, fo
 To add a link to this page, you would use this WikiWord in one of two ways:
 
 * **Simple wiki links:** the rendered link simply shows the WikiWord
-    * Wiki link: `[[MyAwesomeFileOfAwesomeness]]`
+    * Wiki link: `[MyAwesomeFileOfAwesomeness](.md)`
     * Renders as: [MyAwesomeFileOfAwesomeness](#)
 * **Custom link text:** the rendered link is customised
-    * WikiLink: `[[MyAwesomeFileOfAwesomeness|my awesome page]]`
+    * WikiLink: `[MyAwesomeFileOfAwesomeness|my awesome page](.md)`
     * Renders as: [my awesome page](#)
 
 ### Using wiki links to create pages
@@ -270,11 +270,11 @@ There is a lovely shiny **New Page** button in the sidebar, but personally I cre
 
 I have a HomePage that links out to landing pages for my various projects & areas of interest, so I'll usually start by editing one of those pages to add the link, often formatted like:
 
-    **29-04-2012** - Creating a page about [[InterestingPage|something interesting]]
+    **29-04-2012** - Creating a page about [InterestingPage|something interesting](.md)
 
 I also sometimes preempt that I might one day  create a page about something I'm writing about, and insert a link to it but not create the page immediately. If at some point I do create the page, and following my personal naming convention manage to use the exact same WikiWord, the pages will be automatically linked together for me already, giving a pleasant surprise. For example, I might write:
 
-    Had some trouble today with my [[WiFiRouter|WiFi router]], but fixed it with a software update.
+    Had some trouble today with my [WiFiRouter|WiFi router](.md), but fixed it with a software update.
 
 I may not need to create a page for it at that time, but might come back at a later time and create the page, and the two pages would already be linked together for me.
 
