@@ -2,28 +2,28 @@
 
 ## Origins
 
-[[OriginsOfTheRaces]]
+[OriginsOfTheRaces](OriginsOfTheRaces.md)
 
 ## Major Humanoid Races
 
-[[Dwarves]]
+[Dwarves](Dwarves.md)
 
-[[Elves]]
+[Elves](Elves.md)
 
-[[Goblins]]
+[Goblins](Goblins.md)
 
-[[Halflings]]
+[Halflings](Halflings.md)
 
-[[Humans]]
+[Humans](Humans.md)
 
-[[Orcs]]
+[Orcs](Orcs.md)
 
 ## Minor Humanoid Races
 
 Dragonborn _(not in this campaign)_
 
-[[Gnomes]]
+[Gnomes](Gnomes.md)
 
-[[Half-Elves]]
+[Half-Elves](Half-Elves.md)
 
 Tiefling _(not in this campaign)_
