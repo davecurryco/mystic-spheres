@@ -2,8 +2,8 @@
 
 ## Plot Matrices
 
-[[PlotMatrixGothrogPentalyaTyriana]]
+[PlotMatrixGothrogPentalyaTyriana](PlotMatrixGothrogPentalyaTyriana.md)
 
-[[PlotMatrixQuetraRedMagesDuergar]]
+[PlotMatrixQuetraRedMagesDuergar](PlotMatrixQuetraRedMagesDuergar.md)
 
-[[PlotMatrixRashazerBarazanVarog]]
+[PlotMatrixRashazerBarazanVarog](PlotMatrixRashazerBarazanVarog.md)
