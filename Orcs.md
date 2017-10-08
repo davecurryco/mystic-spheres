@@ -12,10 +12,10 @@ As with savages everywhere, orcs are deeply impressed by the supernatural. They 
 
 Orcs keep no written records and even their oral traditions are short-lived. What is known of the history of orcs comes from their (usually negative) role in the histories of the other races.
 
-* [[HistoryOrcs]]
+* [HistoryOrcs](HistoryOrcs.md)
 
 ## Orc Language
 
 Orcs have their own language, which is derived from Goblin. However, Orcish is so debased from its original that the relationship is only apparent phonetically. Speakers of Orcish or Goblin can no more understand one another than can speakers of Finnish or Japanese.
 
-* [[LanguageOrcs]]
+* [LanguageOrcs](LanguageOrcs.md)
