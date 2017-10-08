@@ -40,12 +40,12 @@ Some thousands of years ago, a group of male Lingerer adventurers made their way
 
 The Aelvii lost much lore when their civilization collapsed in civil war. Nevertheless, the elves have the longest and most complete historical record among the humanoid races. Each of the divisions of their race has kept historical records, oral traditions, and literature from its own perspective.
 
-* [[HistoryAelvii]]
-* [[HistoryIlluvarin]]
-* [[HistoryDharovin]]
+* [HistoryAelvii](HistoryAelvii.md)
+* [HistoryIlluvarin](HistoryIlluvarin.md)
+* [HistoryDharovin](HistoryDharovin.md)
 
 ## Elven Language
 
 Elves are long-lived and culturally conservative. The millennia since the sundering of the Illuvarin and Dharovin have not sufficed for the divisons of elvendom to have evolved distinct languages from the Aelvii root. Although their dialects and accents differ, even individuals from the most isolated branches, the Drow and the Elesanni, can still understand one another. The only exception to this that the Daimojin, who are only half-elven, speak Ilshanese in daily use. However, even they preserve their mother tongue of their Dharovin ancestors for ceremonial, legal, religious, and scholarly use.
 
-* [[LanguageElves]]
+* [LanguageElves](LanguageElves.md)
