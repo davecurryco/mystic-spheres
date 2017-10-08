@@ -64,11 +64,11 @@ The upper class of women are highly cloistered and dress and act with extreme mo
 
 The intrinsic violence of goblin civilization has ensured periodic destruction of the oral traditions of the goblins and the records kept by hobgoblin rulers. For this reason, the goblinoid races have preserved far less history even than is known to humans.
 
-* [[HistoryGoblins]]
+* [HistoryGoblins](HistoryGoblins.md)
 
 ## Goblin Language
 
 All branches of goblinkind speak a common Goblin language. However, differences between the dialects spoken by different tribes, even of the same species, are often so profound that speakers of one dialect cannot understand speakers of another. For this reason, a trade dialect is used when members of different tribes interact in trade or warfare. This trade dialect is also used by other races, such as orcs, ogres, and trolls, in the same situations.
 
-* [[LanguageGoblins]]
+* [LanguageGoblins](LanguageGoblins.md)
 
