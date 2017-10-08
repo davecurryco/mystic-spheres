@@ -6,12 +6,12 @@ Certain organizations, such as secret societies, operate across boundaries of ra
 
 [AncientOrderOfTheBriar](AncientOrderOfTheBriar.md)
 
-[FellowesOfTheWhiteQuill](AncientOrderOfTheBriar.md)
+[FellowesOfTheWhiteQuill](FellowesOfTheWhiteQuill.md)
 
-[GuardiansOfTheSceptre](AncientOrderOfTheBriar.md)
+[GuardiansOfTheSceptre](GuardiansOfTheSceptre.md)
 
-[PhoenixCircle](AncientOrderOfTheBriar.md)
+[PhoenixCircle](PhoenixCircle.md)
 
-[CovenOfTheSevenSisters](AncientOrderOfTheBriar.md)
+[CovenOfTheSevenSisters](CovenOfTheSevenSisters.md)
 
-[BlackSun](AncientOrderOfTheBriar.md)
+[BlackSun](BlackSun.md)
