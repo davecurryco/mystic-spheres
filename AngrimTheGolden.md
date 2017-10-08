@@ -71,12 +71,12 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ## Equipment
 
-[[MaulOfMaiming|Maul of Maiming]]
+[MaulOfMaiming](MaulOfMaiming.md)
 
-[[HeartOfAbbathor|Heart of Abbathor]]
+[HeartOfAbbathor](HeartOfAbbathor.md)
 
 ---
 
-**Angrim** was once a living dwarf and a high priest of the cult of Abbathor, the dwarven God of Greed. He acquired the fabulous gem, the [[HeartOfAbbathor|Heart of Abbathor]], and used its power to establish himself as the virtual theocrat of the Southern Kinship. After Angrim’s avarice led to his downfall, his priests mummified his body and entombed him with the Heart of Abbathor laid on his breast. However, even they were unwilling to endure Angrim's despotism for centuries to come and so encased his mummy within a crystal sarcophagus sealed with runes of binding that kept it in stasis.
+**Angrim** was once a living dwarf and a high priest of the cult of Abbathor, the dwarven God of Greed. He acquired the fabulous gem, the [HeartOfAbbathor](HeartOfAbbathor.md), and used its power to establish himself as the virtual theocrat of the Southern Kinship. After Angrim’s avarice led to his downfall, his priests mummified his body and entombed him with the Heart of Abbathor laid on his breast. However, even they were unwilling to endure Angrim's despotism for centuries to come and so encased his mummy within a crystal sarcophagus sealed with runes of binding that kept it in stasis.
 
-As respects _The Heart of Abbathor_, Angrim's _avarice_ is to see Sheurazak restored to its former glory and power. Accordingly, the gem empowers Angrim to infect other dwarves with a dark obsession to this end. In Angrim's hands, the artifact's major beneficial property is to grant three uses of the [[Obsession|obsession]] spell each day. Angrim can only target dwarves with this spell and can only specify courses of action that align with his _avarice_.
+As respects _The Heart of Abbathor_, Angrim's _avarice_ is to see Sheurazak restored to its former glory and power. Accordingly, the gem empowers Angrim to infect other dwarves with a dark obsession to this end. In Angrim's hands, the artifact's major beneficial property is to grant three uses of the [Obsession](Obsession.md) spell each day. Angrim can only target dwarves with this spell and can only specify courses of action that align with his _avarice_.

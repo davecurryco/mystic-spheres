@@ -271,7 +271,7 @@ The guardroom is bare-floored and unfurnished except for a single large brazier 
 
 Day/Night: A **monk**, Pau Jaegar, and two **disciples** stand watch in the guardroom.
 
-**Treasure:** [[ChimeOfSwarmSummoning]]
+**Treasure:** [ChimeOfSwarmSummoning](ChimeOfSwarmSummoning.md)
 
 #### Bridge
 

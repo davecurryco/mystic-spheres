@@ -8,14 +8,14 @@ Palanor is the breadbasket of the Telenar colonies. Its interior is blessed with
 
 ### Cities
 
-[[Esseanir]]
+[Esseanir](Esseanir.md)
 
-[[Neranir]]
+[Neranir](Neranir.md)
 
-[[Plananir]]
+[Plananir](Plananir.md)
 
 ### Towns and Villages
 
 ### Citadels
 
-[[Haranir]]
+[Haranir](Haranir.md)

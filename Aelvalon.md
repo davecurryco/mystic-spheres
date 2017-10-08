@@ -16,13 +16,13 @@ The Fair Realm is a place of goodness and light, where nature shines forth in su
 
 ### Rulers
 
-[[CeliannorKingOfTheFairRealm]]
+[CeliannorKingOfTheFairRealm](CeliannorKingOfTheFairRealm.md)
 
 Titled the King of Aelvalon, Celiannor is a mortal Illuvarin who gained enough power and arcane lore to achieve a sort of immortality. His will and the disposition of the Fair Realm are essentially the same and he has broad influence over the other realms as well.
 
 Celiannor appears as an Aelvii male of exceptional height and handsomeness. A circlet of stars wreathes his brow over his long white hair and the gleam of starlight is in his violet eyes. He usually wears blue robes of richly-patterened silk and carries the Scepter of the Spheres, an Aelvii artifact of great power.
 
-[[FioryessaQueenOfTheFairRealm]]
+[FioryessaQueenOfTheFairRealm](FioryessaQueenOfTheFairRealm.md)
 
 The Queen of Aelvalon is a mortal Illuvarin elevated by Celiannor to rule alongside him. She is a match for her husband in beauty and stature. She is a patron of the arts and is the master of the Harp of the Spheres, an instrument that resonates with the tales of the Illuvarin race -- past, present and future.  A filagree of liquid gold encircles her golden hair and her eyes blaze with the brilliance of sapphires. She wears gowns of white gossamer spun from crystal that flash and sparkle in her radiance.
 
@@ -35,7 +35,7 @@ The Shadow Realm is a twisted place of darkness and cold, where the cruelty and 
 
 ### Rulers
 
-[[GothrogTheTyrant]]
+[GothrogTheTyrant](GothrogTheTyrant.md)
 
 Dubbed "The Tyrant", Gothrog is both an immensely mighty warrior and a terrifyingly powerful sorcerer. His reach is long and his whims are as life and death to any within the grasp of his power.
 
@@ -62,7 +62,7 @@ The sea that separates the mortal world from Aelvalon is trackless and unfathoma
 
 ### Rulers
 
-[[DasDanna]]
+[DasDanna](DasDanna.md)
 
 The King of Waters personifies the relentless character of water rushing downhill to join with the sea and the vast, unpredictable power of the oceans. He appears as a young, male Illuvarin with pale hair and sea-green eyes that never seem still. His mercurial nature and relentless drive make him a dangerous foe, particularly since he can command rivers to alter their course and the seas to roil in great tidal waves. The creatures of the lakes and the deeps obey his orders as well.
 
@@ -74,7 +74,7 @@ The Starlit Realm is a land of eternal twilight, where the enchanting but distan
 
 ### Rulers
 
-[[SeleannonaLadyOfStars]]
+[SeleannonaLadyOfStars](SeleannonaLadyOfStars.md)
 
 Unlike Celiannor and his lady, the Lady of Stars is not an elevated mortal, but an incarnation of Dialiannon the Eternal.
 
@@ -89,19 +89,16 @@ The Greenwood Realm is the archetype of all forests and is the wellspring of all
 
 ### Rulers
 
-[[ForlothFirlongin]]
+[ForlothFirlongin](ForlothFirlongin.md)
 
 The firstborn of the treants, Forloth's might is great and his memory is vast. He towers over normal treants as a giant redwood towers over even the largest of oaks. As strong as he is, Forloth is most to be feared for this ability to draw on the animate and command the plant-life wherever he may be in the Greenwood Realm.
 
-[[DryanniaLadyOfTheWood]]
+[DryanniaLadyOfTheWood](DryanniaLadyOfTheWood.md)
 
 The Lady of the Wood is a fey spirit, a physical manifestation of the entire Greenwood Realm in the same way that a dryad is a manifestation of the spirit of an individual tree. She usually takes the form of a beautiful nymph aged to ripe womanhood. Like her peer rulers  of the Greenwood Realm, Dryannia's personal power is not so great as her ability to draw on the aid of the animals within the domain.
 
-[[Laessedomon]]
+[Laessedomon](Laessedomon.md)
 
 The Firstroot is an sentient being within the Aelvalon construct, although its intelligence is incomprehensible to most humanoids. Its roots extend beneath the mountains of Aelvalon to the Elemental Chaos and its highest branches extend to the Astral Plane. From these sources, it channels primal power to Aelvalon.
 
 Just as some types of trees send out runners, so Laessodomon extends its being through offshoots. Wherever a sapling of the Firstroot is planted, a channel to the Deepwood opens, watched by the great tree's ancient intelligence.
-
-
-

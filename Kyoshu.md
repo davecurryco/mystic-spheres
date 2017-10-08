@@ -12,8 +12,8 @@ Kyoshu is the seat of government of Ilshan. The _Danyo_, an ancient Dharovin war
 
 ### Cities
 
-[[Oshino]]
+[Oshino](Oshino.md)
 
 ### Citadels
 
-[[Taiyamo Castle]]
+[TaiyamoCastle](TaiyamoCastle.md)

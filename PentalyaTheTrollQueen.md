@@ -101,7 +101,7 @@ On initiative count 20 (losing initiative ties), Pentalya can take a lair action
 
 ## Equipment
 
-[[CodexOfNarastur]]
+[CodexOfNarastur](CodexOfNarastur.md)
 
 **Minor Beneficial Properties.**
 
@@ -119,7 +119,7 @@ On initiative count 20 (losing initiative ties), Pentalya can take a lair action
 * Pentalya has goat horns.
 * Pentalya's face, arms, and chest are tattooed with blasphemous arcane symbols in a swirling design of fiery red ink.
 
-[[NecklaceOfAutumn]]
+[NecklaceOfAutumn](NecklaceOfAutumn.md)
 
 **Minor Beneficial Properties.**
 

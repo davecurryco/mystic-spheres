@@ -2,5 +2,4 @@
 
 # Campain Sentient Magic Items
 
-[[StarBrands]]
-
+[StarBrands](StarBrands.md)

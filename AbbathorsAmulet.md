@@ -14,7 +14,7 @@ Except as noted, the underground halls and chambers are sound, adequately ventil
 
 #### Dwarven Cultists
 
-The living dwarves who dwell in Sheurazak are under the influence of the [[Obsession|obsession]] spell that Angrim can cast using the _Heart of Abbathor_. They are not cultists in the usual sense, but they are nonetheless fanatical in their fervor to restore and protect the underground city. Angrim has indoctrinated them with the belief that uninvited outsiders are intruders who seek to interfere with The Restoration. They will lay down their lives in the defense of their cause.
+The living dwarves who dwell in Sheurazak are under the influence of the [Obsession](Obsession.md) spell that Angrim can cast using the _Heart of Abbathor_. They are not cultists in the usual sense, but they are nonetheless fanatical in their fervor to restore and protect the underground city. Angrim has indoctrinated them with the belief that uninvited outsiders are intruders who seek to interfere with The Restoration. They will lay down their lives in the defense of their cause.
 
 The cultists tolerate close cooperation with undead only because Angrim wills it. If the effect of the _obsession_ spell on a cultist ends, the affected dwarf will most probably want to leave Sheurazak immediately.
 

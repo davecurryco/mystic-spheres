@@ -2,11 +2,11 @@
 
 ## Islands
 
-[[Dasho]]  
-[[Honu]]  
-[[Kalii]]  
-[[Kyoshu]]  
-[[Nado]]  
+[Dasho](Dasho.md)  
+[Honu](Honu.md)  
+[Kalii](Kalii.md)  
+[Kyoshu](Kyoshu.md)  
+[Nado](Nado.md)  
 
 ## Ethnography
 

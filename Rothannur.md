@@ -6,8 +6,8 @@ Rothannur was founded after Palanor, but surpassed it in wealth and influence wh
 
 ### Cities
 
-[[Beleriad]]
+[Beleriad](Beleriad.md)
 
-[[Telenarion]]
+[Telenarion](Telenarion.md)
 
 ### Towns and Villages

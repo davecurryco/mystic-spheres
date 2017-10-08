@@ -2,20 +2,20 @@
 
 ## Coast
 
-[[ElderwoodForest]]
+[ElderwoodForest](ElderwoodForest.md)
 
-[[Brynn]]
+[Brynn](Brynn.md)
 
-[[BainwithyRiver]]
+[BainwithyRiver](BainwithyRiver.md)
 
-[[TheDownshires]]
+[TheDownshires](TheDownshires.md)
 
 ## Mountains
 
-[[Asherkarad]]
+[Asherkarad](Asherkarad.md)
 
-[[StonewatchPass]]
+[StonewatchPass](StonewatchPass.md)
 
 ## Celadonnin Valley
 
-[[Delastarion]]
+[Delastarion](Delastarion.md)

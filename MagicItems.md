@@ -2,8 +2,8 @@
 
 ## Campaign Magic Items A-Z
 
-[[MaulOfMaiming]]
+[MaulOfMaiming](MaulOfMaiming.md)
 
-[[PitcherOfPurity]]
+[PitcherOfPurity](PitcherOfPurity.md)
 
-[[StaffOfSickness]]
+[StaffOfSickness](StaffOfSickness.md)

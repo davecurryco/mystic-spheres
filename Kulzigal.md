@@ -6,4 +6,4 @@ The dwarves named the mountain range of south Arestor _Kulzigal_, the Iron Barri
 
 ### Villages and Towns
 
-[[Zerengar]]
+[Zerengar](Zerengar.md)

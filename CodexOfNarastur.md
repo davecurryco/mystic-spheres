@@ -46,24 +46,24 @@ _The artifact houses the bodiless life-force of its creator. Each time you use a
 
 ## Codex Rituals
 
-[[DirectedReincarnation]]
+[DirectedReincarnation](DirectedReincarnation.md)
 
-[[RaiseGreaterUndead]]
+[RaiseGreaterUndead](RaiseGreaterUndead.md)
 
-[[TransfuseYouth]]
+[TransfuseYouth](TransfuseYouth.md)
 
 ## Codex Spells
 
-[[ConjureAberrant]]
+[ConjureAberrant](ConjureAberrant.md)
 
-[[ConjureFiend]]
+[ConjureFiend](ConjureFiend.md)
 
-[[ConjureSeaMonster]]
+[ConjureSeaMonster](ConjureSeaMonster.md)
 
 ## Codex Lore
 
-[[NinePrincipalitiesOfHell]]
+[NinePrincipalitiesOfHell](NinePrincipalitiesOfHell.md)
 
-[[SevenPowersOfTheAbyss]]
+[SevenPowersOfTheAbyss](SevenPowersOfTheAbyss.md)
 
-[[ThreeEldersOfTheFarRealm]]
+[ThreeEldersOfTheFarRealm](ThreeEldersOfTheFarRealm.md)
