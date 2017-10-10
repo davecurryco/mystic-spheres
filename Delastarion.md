@@ -14,8 +14,6 @@ Since most denizens of Delastarion are uncomfortable in daylight, the town is mo
 
 ## Population and Governance
 
-
-
 ## Districts
 
 ### The West Wall

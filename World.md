@@ -1,8 +1,10 @@
 # Campaign World
 
-## Material Plane
+## Queya
 
-[Map of the Material Plane](https://www.dropbox.com/s/tu6mm9etvyh84gg/WorldMap.pdf)
+[Queya](Queya.md)
+
+[Queya Map](https://www.dropbox.com/s/tu6mm9etvyh84gg/WorldMap.pdf)
 
 ### Arestor
 
