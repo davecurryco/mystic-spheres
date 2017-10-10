@@ -2,7 +2,7 @@
 
 ## Origins
 
-[OriginsOfTheRaces](OriginsOfTheRaces.md)
+[RaceOrigins](RaceOrigins.md)
 
 ## Major Humanoid Races
 
