@@ -1,6 +1,6 @@
 # Timeline
 
-Master timeline of the world in years since the landing of the Aelvii (Epoch Year)
+Master timeline of the world in years since the arrival of the Aelvii (Epoch Year)
 
 | Epoch | Marzabul | Acalume | Downs | Calaperia | Location    | Event |
 | ----: | -------: | ------: | ----: | --------: | ----------- | ----- |
@@ -20,9 +20,8 @@ Master timeline of the world in years since the landing of the Aelvii (Epoch Yea
 | 15319 |     7853 |    1021 |       |           | Iaellon     | _Barok-Torad_, The Battle of the Wilderness (Elesanni drive the dwarves from Iaellon) |
 | 15140 |     7674 |     842 |       |           | Iaellon     | _Ilyonnamareyon_, The Lesser Sundering (Elesanni part from Alastarii) |
 | 14370 |     6960 |      72 |       |           | Elanarion   | Silyelin founded |
-| 14299 |     6889 |       1 |       |           | Elanarion   | _Acalumanye_, The Arrival (Illuvarin arrive in Elderenmanye) |
+| 14299 |     6889 |       1 |       |           | Elanarion   | _Acalumanye_, The Returning (Many Illuvarin leave Aelvalon for the Prime Material) |
 | 13606 |     6196 |         |       |           | Azenendal   | _Azerenkrandul_, The War of the Kindred (Dwarven civil war destroys Ahrazad) |
-| 12831 |     5421 |         |       |           | Aelvalon    | _Elennesilye_, The Returning (Many Illuvarin leave Aelvalon for the natural world) |
 | 10675 |     3265 |         |       |           | Azenendal   | Orlanazad founded |
 | 10154 |     2744 |         |       |           | Rothannur   | Sheurazak founded |
 |  9996 |     2586 |         |       |           | Rothannur   | Shalenharazad founded |
@@ -33,4 +32,4 @@ Master timeline of the world in years since the landing of the Aelvii (Epoch Yea
 |  5102 |          |         |       |           | Arestor     | _Sanedorune_, The Servant Mutiny (Dwarves lead rebellion that frees servant races) |
 |  4651 |          |         |       |           | Arestor     | _Nagoresme_, The Shattering (Aelvii civil war) |
 |  1121 |          |         |       |           | Arestor     | Aelvii create humans as first servant race |
-|     1 |          |         |       |           | Arestor     | _Geyonesse_, Sanctuary (Aelvii arrive on Arestor) |
+|     1 |          |         |       |           | Arestor     | _Elennesilye_, Sanctuary (Aelvii arrive on Queaya) |

@@ -1,16 +1,12 @@
 # Aelvalon (The Feywild)
 
-The equivalent of the Feywild, this parallel plane is a joint construct of the Angeanni Avalon and Shangri-la that was invaded by viral constructs created by Xanadu and Cimmeria.
+The equivalent of the Feywild, this plane parallels the Prime Material plane. Aelvalon resembles the natural world and mirrors its physics and geography, but as they were when the world was young. Aelvalon does not share the same time continuum with the world outside. Each day in Aelvalon is as 1-6 weeks in the mortal world.
 
-Aelvalon resembles the natural world and mirrors its physics and geography, but as they were when the world was young. Aelvalon does not share the same time continuum with the world outside. Each day in Aelvalon is as 1-6 weeks in the mortal world.
-
-Aelvalon is divided into several realms, each of which is dominated by the construct of a particular Angeanni and so has a different character.
-
-# Realms of Aelvalon
+Aelvalon is divided into six realms, each of which has its own character and rulers.
 
 ## Aulurinnya
 
-_The Fair Realm, Elfland (Avalon)_
+_The Fair Realm, Elfland_
 
 The Fair Realm is a place of goodness and light, where nature shines forth in summer glory under a bright sun. It is a land of pleasant groves, summer meadows, babbling brooks and majestic mountains. It is also home to fantastic landscapes such as the Crystal Forest and the Mirror Lake. Celiannor, the King of Aelvalon, rules here in the pristine splendor of Elyeanesse, the Pristine City, attended by an illustrious court of high-ranking Illuvarin. His wife, Queen Fioryessa reigns by his side.
 
@@ -29,7 +25,7 @@ The Queen of Aelvalon is a mortal Illuvarin elevated by Celiannor to rule alongs
 
 ## Cymmyrion
 
-_The Shadow Realm, Blightland (Cimmeria)_
+_The Shadow Realm, Blightland_
 
 The Shadow Realm is a twisted place of darkness and cold, where the cruelty and decay inherent in nature holds all the land in a relentless grip. Its mountains are jagged and practically impassible, its streams roar with the rage of ice-cold water and it is riddled with fetid bogs and howling wastes. Gothrog the Tyrant, the Great Warlord of the Fomorians rules here from the fastness of the Iron Tower of Carcrae, a many-spired fortress in an enormous underground cavern. Hags, goblins, trolls and other wicked creatures hold sway over various corners of the Dark Realm and plot to usurp Gothrog's throne.
 
@@ -68,7 +64,7 @@ The King of Waters personifies the relentless character of water rushing downhil
 
 ## Evenesse
 
-_The Starlit Realm, Starbright (Xanadu)_
+_The Starlit Realm, Starbright_
 
 The Starlit Realm is a land of eternal twilight, where the enchanting but distant character of a starry night holds sway. It is filled with moonlit lakes, shadowed glens, and grassy downs beneath the myriad stars. Seleannona, the Lady of the Stars holds court in a majestic pavilion that is magically raised in a different woodland meadow each "night". She is attended by a court that includes faerie folk such as pixies and gnomes as well as Illuvarin.
 
@@ -80,10 +76,9 @@ Unlike Celiannor and his lady, the Lady of Stars is not an elevated mortal, but 
 
 Seleanonna appears as an Illuvarin woman of unearthly beauty and majestic poise. Her simple gown is woven from strands of moonlight and her mithril crown is set with seven gems in each which is captured the light of a guiding star. This is the Crown of Stars, an Aelvii artifact that grants its wearer knowledge of anything visible under the sky. By this power, Seleannona drove Gothrog and his Fomorians underground, a defeat for which they hold a special grudge.
 
-
 ## Faelyon
 
-_The Greenwood Realm, Deepwood (Shangri-la)_
+_The Greenwood Realm, Deepwood_
 
 The Greenwood Realm is the archetype of all forests and is the wellspring of all that is wild and untouched. All the manifestations of wilderness are found here, from deep primeval forest to alpine meadows. Forloth Firlongin, an powerful and immortal treant, ranges here in eternal guardianship of Laessedomon, the Firstroot, an impossibly gargantuan and ancient tree. This realm is also the home of many wood-nymphs, satyrs, centaurs and other woodland fey creatures who pay allegiance to Dryannia, Lady of the Wood. The Greenwood Realm also extends to the sea, where Das Danna, King of Waters, rules over a court of sea elves, water-nymphs, mermen and mermaids.
 
