@@ -1,8 +1,8 @@
 # The Garden of the Nightingale
 
-Outside the Sunset Wall of the city of Nashal, a high stone wall set with sturdy gates and peaked towers encloses a cemetery used by the rulers and noble houses for centuries. Elaborate mausoleums and tomb monuments of rose-colored sandstone stand amid beautifully-maintained lawns, hedges and gardens. The necropolis is called the Garden of the Nightingale by the people of Nashal, and indeed the lamenting song of those birds can often be heard at nightfall amid the cypress and olive trees that shade the tombs by day. By all appearances, the cemetery is a place of peace and rest. But, within the white walls of the tombs, corruption creeps.
+Outside the Sunset Wall of the city of [Nashal](Nashal.md), a high stone wall set with sturdy gates and peaked towers encloses a cemetery used by the rulers and noble houses for centuries. Elaborate mausoleums and tomb monuments of rose-colored sandstone stand amid beautifully-maintained lawns, hedges and gardens. The necropolis is called the Garden of the Nightingale by the people of Nashal, and indeed the lamenting song of those birds can often be heard at nightfall amid the cypress and olive trees that shade the tombs by day. By all appearances, the cemetery is a place of peace and rest. But, within the white walls of the tombs, corruption creeps.
 
-Members of an underground cult of Kushyth are using the mausoleums as secret meeting places for their dark rituals. They have raised a few Spawn of Kyuss, which they plan to unleash on the Shambles as soon as they have enough of them. The cultists know that the Smugglers' Syndicate keeps warehouses in the cemetery, but both are unaware that it is also the haunt of a baital -- a vampiress. The adventurers, bearing the Relic of Arkraz Khalharzra on an unrelated mission, could well upset the balance between these factions -- knowingly or unknowingly.
+Members of an underground cult of Kushyth are using the mausoleums as secret meeting places for their dark rituals. They have raised a few Spawn of Kyuss, which they plan to unleash in the city as soon as they have enough of them. The cultists know that the Smugglers' Syndicate keeps warehouses in the cemetery, but both are unaware that it is also the haunt of a baital -- a vampiress. The adventurers, bearing the [Reliquary of Arkraz Khalharzra](ReliquaryOfArkrazKhalharzra.md) on an unrelated mission, could well upset the balance between these factions -- knowingly or unknowingly.
 
 ## The Grounds
 
@@ -28,21 +28,21 @@ A **spy** hides on the top floor of the tower, waiting for a signal from a band 
 
 ### 2. House Qaiqati Mausoleum
 
-This mausoleum was selected by the smugglers as a clandestine warehouse because it is large and close to the North Gate. The current heir of the house, Ni'hy Rooqib bal-Qaiqati, has a weakness for gambling that left him open for extortion by the smugglers.
+This mausoleum was selected by the smugglers as a clandestine warehouse because it has a large annex to the east and is close to the North Gate. The current heir of the house, Ni'hy Rooqib bal-Qaiqati, has a weakness for gambling that left him open for extortion by the smugglers.
 
 ### 3. The Northeast Tower
 
 ### 4. Tomb of Am'na baz Laamee bal-Sa
 
-This rose-colored sandstone tomb is unusual for its design -- an octagonal structure with pillars at each corner atop a stepped base and surmounted by a pointed dome. Lancet arches pierced by latticework designs adorn each face of the octagon. On the north face, a roofed portico supported by four columns protects the door, an ornately-decorated affair of iron sheathed in bronze plates.
+This rose-colored sandstone tomb is unusual for its design -- an octagonal structure with pillars at each corner atop a stepped base and surmounted by a onion-shaped dome. Lancet arches pierced by latticework designs adorn each face of the octagon. On the north face, a roofed portico supported by four columns protects the door, an ornately-decorated affair of iron sheathed in bronze plates.
 
-Am'na herself was a witch who consorted with many lovers, human and demon alike, sometime in the very presence of her husband, the Chief Magistrate Rashyaa Jalee bal-Sa, who she had bewitched. Unexpectedly released from this enchantment through a chance blessing from a wandering holy man, Rashyaa exacted revenge on the monster he had married. To prevent shame to his house, he covered up the killing and constructed this elaborate tomb as an outward sign of extreme grief. However, Am'na's debts to the powers of darkness remained outstanding and her damned soul was returned to her body to haunt the cemetery as a **baital**.
+Am'na herself was a witch who consorted with many lovers, human and demon alike, sometime in the very presence of her husband, the Chief Magistrate Rashyaa Jalee bal-Sa, who she had bewitched. Unexpectedly released from this enchantment through a chance blessing from a wandering holy man, Rashyaa exacted revenge on the monster he had married. To prevent shame to his house, he covered up the killing and constructed this elaborate tomb as an outward sign of extreme grief. However, Am'na's debts to the powers of darkness remained outstanding and her damned soul was returned to her body to haunt the cemetery as a _baital_.
 
-Am'na takes shelter in her tomb during the day and emerges at night to inflict suffering on the people of the city. She takes form as a woman veiled and cloaked in black and steals through the western gates to inflict suffering on lunatics and other unfortunates abroad in the South Gate Ward after dark. Sometimes, she inhabits the corpses newly interred in the cemetery, but she does so cunningly, so as to avoid suspicion that might lead to discovery. 
+Am'na takes shelter in her tomb during the day and emerges at night. She takes form as a woman veiled and cloaked in black and steals through the western gates to inflict suffering on lunatics and other unfortunates abroad in the South Gate Ward after dark. Sometimes, she inhabits the corpses newly interred in the cemetery, but she does so cunningly, so as to avoid suspicion that might lead to discovery. 
 
 ### 5. House Saiqali Mausoleum
 
-This unpreposessing mausoleum of a minor noble house is the meeting-place for members of the cult of Kushyth. A secret tunnel connects it to a warehouse outside the wall of the cemetery and to the mausoleum to the south, which houses the Spawn of Kyuss.
+This unpreposessing mausoleum of a minor noble house is the meeting-place for members of the cult of Kushyth. A secret tunnel connects it to the mausoleum to the south, which houses three **spawn of kyuss**.
 
 A **cultist** watches from the shadows of the door to this mausoleum. He will not interfere with the adventurers unless they seem to be on the verge of discovering the cult's presence here. 
 
@@ -50,7 +50,7 @@ A **cultist** watches from the shadows of the door to this mausoleum. He will no
 
 ### 7. House Ghyaa Mausoleum
 
-The adventurers have been instructed to conceal the Relic of Arkraz Khalharzra inside one of the crypts in this mausoleum.
+The adventurers have been instructed to conceal the Reliquary of Arkraz Khalharzra inside one of the crypts in this mausoleum.
 
 As they go about their mission, the adventurers will notice a woman, cloaked and veiled in black, step out of the shadows of the gate to the south of this mausoleum and walk up the path toward the northeast. This is the **baital** Am'na returning from one of her forays into the city.
 
@@ -73,3 +73,11 @@ Qat'yah was the scion of a noble house and a poet of considerable accomplishment
 ### 14. The Southeast Tower
 
 Built to the same dimensions as the North Tower, this tower also houses guardrooms. However, this tower's chambers are in daily use by the guards. At night, there will be five **guards** here and, perhaps, the **guard commander**, if he is not out with the grounds patrol.
+
+## Updates
+
+The adventurers placed the Reliquary of Arkraz Khalharzra in the House Ghyaa Mausoleum as instructed. However, the cultist watching from the shadows of the Saiquali Mausoleum found and retrieved the relic soon thereafter -- only to be possessed by Am'na as soon as he exited. Keenly aware of the relic's nature, but unable to divine its powers, Am'na used the cultist's body to hide the relic in her own tomb and then walked him into a patrol of guards, who took him under custody. Abandoning the imprisoned cultist the next night, Am'na went in search of the adventurers to learn more about their motives before making her way back to the Garden.
+
+Informed that one of their own had been arrested, the Cult of Kushyth feared that its activities had been discovered and moved their plans forward prematurely. In their haste, the three cultists who were sent to retrieve the Spawn were seen by smuggler scouts. Under the misapprehension that they were dealing with a rival gang, the smugglers trailed the cultists and their undead charges through the warehouse district of the Shambles and ambushed them. In the ensuing brawl, all of the cultists and two of the smugglers were killed. The remaining smugglers fled in horror and the three Spawns wandered off -- followed ten minutes later by two more raised from the worm-infested corpses of a cultist and a smuggler.
+
+In daylight and trapped in the sparsely-inhabited warehouse district, the Spawn did not reproduce as quickly as they might have had the cults' plans come to fruition. People locked themselves within doors when the hue and cry went up and the gates of the city were shut. After much uproar and some few dozen casualties, priests hastily summoned from the Temple of Eleazzar were able to contain the outbreak and aid the Watch to destroy the Spawn. In the end, the horror spawned many more rumors than actual Spawn.
