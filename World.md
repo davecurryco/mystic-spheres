@@ -1,14 +1,14 @@
 # Campaign World
 
-## Queya
+## Queya (World)
 
 [Queya](Queya.md)
 
 [Queya Map](https://www.dropbox.com/s/tu6mm9etvyh84gg/WorldMap.pdf)
 
-### Arestor
+## Arestor (Continent)
 
-#### North Arestor
+### North Arestor
 
 [Azenendhal](Azenendhal.md)
 
@@ -16,7 +16,7 @@
 
 [Elanarion](Elanarion.md)
 
-#### Western Arestor
+### Western Arestor
 
 [Rhunnur](Rhunnur.md)
 
@@ -24,11 +24,11 @@
 
 [Rothannur](Rothannur.md)
 
-#### Central Arestor
+### Central Arestor
 
 [Dhoar](Dhoar.md)
 
-#### East Arestor
+### East Arestor
 
 [Beranur](Beranur.md)
 
@@ -38,7 +38,7 @@
 
 [Hannesh](Hannesh.md)
 
-#### South Arestor
+### South Arestor
 
 [Pashan](Pashan.md)
 
@@ -46,16 +46,16 @@
 
 [Khanashar](Khanashar.md)
 
-### Western Islands
+## Western Islands
 
 [Essealona](Essealona.md)
 
 [Verunor](Verunor.md)
 
-### Southern Islands
+## Southern Islands
 
 [Ilshan](Ilshan.md)
 
-## Other Planes
+## The Planes
 
 [Aelvalon](Aelvalon.md)
