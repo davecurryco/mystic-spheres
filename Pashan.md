@@ -12,6 +12,6 @@ The city-states of Pashan are populated overwhelmingly by the Alhrain ethnic gro
 
 [Basrul](Basrul.md)
 
-[Nashal](Nashal.md)
+[NashalCityState](NashalCityState.md)
 
 [Masheer](Masheer.md)
