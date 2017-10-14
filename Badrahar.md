@@ -1,6 +1,6 @@
 # Badrahar
 
-_Map: Dodecahedron 2014 - Cliffstable on Kerstal (page 92)_
+_Map:_ [Badrahar Map](BadraharMap.pdf)
 
 Badrahar is a bustling hub for the trade in copper and silver from the mines in eastern Nashal and gold from the dwarven mines of Kulzigal. It lies at the confluence of the upper Ghalez River and a smaller tributary, the Harzed River, that flows from the foothills to the south.
 

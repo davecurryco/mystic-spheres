@@ -6,7 +6,7 @@ Members of an underground cult of Kushyth are using the mausoleums as secret mee
 
 ## The Grounds
 
-_Map: Maps for Your Adventures Set 3 (page 10)_
+_Map:_ [Garden of the Nightingale Map](GardenOfTheNightingaleMap.pdf)
 
 The Garden of the Nightingale is surrounded by a 15-foot high, 5-foot thick wall of smooth, closely-set sandstone blocks (DC 15 to climb) filled with rubble. Square towers 25 feet tall are set at 40-foot intervals along the north, south, and west walls. On the east side, the wall borders the ditch that runs along the city walls. The towers on this side are round and their spires reach 35 feet in height. Gates of wrought iron secure the entrances at gatehouses set between square towers in a number of places, mostly along the west wall.
 

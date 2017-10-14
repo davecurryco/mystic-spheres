@@ -4,7 +4,7 @@
 
 [Queya](Queya.md)
 
-[Queya Map](https://www.dropbox.com/s/tu6mm9etvyh84gg/WorldMap.pdf)
+[Queya Map](WorldMap.pdf)
 
 ## Arestor (Continent)
 

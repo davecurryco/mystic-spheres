@@ -1,6 +1,6 @@
 # Nashal
 
-_Map: Dodecahedron 2015 - Alderbridge (page 9) (inverted north/south)_
+_Map:_ [Nashal Map](NashalMap.pdf)
 
 Nashal is a prosperous walled city near the headwaters of the Ghalez River. It is famed as the source of the finest wines on the continent of Arestor, but it is also important as the northern terminal of the river trade between Pashan and Khanashar.
 
