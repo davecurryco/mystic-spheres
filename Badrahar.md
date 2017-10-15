@@ -86,7 +86,7 @@ _Magical Wares:_ 4 Potion of Healing _A green admixture, contained in a square c
 #### Molor
 
 **High Priest:** Meena baz Wafiy bal-Uq (F, 42, Ahlrain, high priest, LE, Revenge, Cowardly, Beautiful)
- 
+
 ## Organizations
 
 ### Wine Merchants' Cartel

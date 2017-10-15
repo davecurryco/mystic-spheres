@@ -213,6 +213,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [NesseyaTheWillowMaid](NesseyaTheWillowMaid.md)
 
+[TemayTheMonk](TemayTheMonk.md)
+
 [TiamarDhanbai](TiamarDhanbai.md)
 
 [TyrianaTheCruel](TyrianaTheCruel.md)
