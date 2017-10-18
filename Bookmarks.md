@@ -102,7 +102,7 @@
 [TechSoup](http://www.techsoup.org)
 
 ### Web Development
-
+[MDN Web Docs](https://developer.mozilla.org/en-US/)  
 [A visual vocabulary](http://www.jjg.net/ia/visvocab/) | [Javascript browser fingerprinting](https://www.corephp.com/blog/hardcore-javascript-browser-and-computer-fingerprinting/)
 
 ## Education
