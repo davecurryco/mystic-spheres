@@ -42,6 +42,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [GhostBell](GhostBell.md)
 
+[GhostMine](GhostMine.md)
+
 [JadeSerpent](JadeSerpent.md)
 
 [MonasteryOfTheSilverFalls](MonasteryOfTheSilverFalls.md)
