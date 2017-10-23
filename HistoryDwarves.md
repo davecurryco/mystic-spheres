@@ -6,26 +6,15 @@ Dwarves of the Northern Kindred count the years from the founding of the city of
 
 Dwarves of the Southern Kindred use a count called _Karan Krandul_ that observes the War of the Kindred as the beginning of an epoch. This system divides the years as being _Farad-Krandul_ (Before the War) and _Balun-Krandul_ (After the War). Dwarven scribes usually abbreviate this in the fashion F.K. 1025 and B.K. 12095.
 
-| Marzabul | Krandul   | Event |
-| -------: | --------: | ----- |
-|    14064 | B.K. 7869 | The Blood Moon Uprising  |
-|    14048 | B.K. 7853 | Goblins invade Shalenharazad |
-|    13965 | B.K. 7770 | Essealonans begin trade with dwarves at Brynn |
-|    13176 | B.K. 6981 | Angrim is betrayed; The Cataclysm; Sheurazak made uninhabitable |
-|    13175 | B.K. 6979 | _Krandul-Morakunmaror_, The War of Shadowed Halls, roils Sheurazak and almost escalates to another civil war |
-|    13094 | B.K. 6862 | Angrim the Golden becomes High Priest of the Temple of Abbathor at Sheurazak |
-|     7853 | B.K. 1658 | _Barok-Torad_, The Battle of the Wilderness; Elesanni drive the dwarves from Iaellon |
-|     6757 |  B.K. 562 | _Barok-Mhaurdwolankhul_, The Battle of Bane Wolf Cliff; Goblins drive the dwarves from Karaden-Azrenadoran (Mountains of the Sunrise, Elanarion) |
-|     6196 |    B.K. 1 | _Azerenkrandul_, The War of the Kindred; Dwarven civil war; Destruction of Ahrazad; Sundering of Northern and Southern Kindred |
-|     3265 | F.K. 2931 | Orlanazad founded |
-|     2744 | F.K. 3452 | Sheurazak founded |
-|     2586 | F.K. 3610 | Shalenharazad founded |
-|      334 | F.K. 5862 | Darid I dies |
-|        1 | F.K. 6195 | Darid I founds Ahrazad |
-|       -1 | F.K. 6194 | |
-|      -52 | F.K. 6245 | _Barok-Shenardhan_, The Battle of the Bloody Rocks; Darid I defeats the goblins at _Shir-Khelgashak_, Knifeslash Pass |
-|     -450 | F.K. 6643 | Darid I leads dwarves across the Gap of Watch (Gate of Asarial) |
-|     -567 | F.K. 6760 | Darid I born |
+Angrim is betrayed; The Cataclysm; Sheurazak made uninhabitable
+
+_Krandul-Morakunmaror_, The War of Shadowed Halls, roils Sheurazak and almost escalates to another civil war
+
+Angrim the Golden becomes High Priest of the Temple of Abbathor at Sheurazak
+
+_Barok-Shenardhan_, The Battle of the Bloody Rocks; Darid I defeats the goblins at _Shir-Khelgashak_, Knifeslash Pass
+
+Darid I leads dwarves across the Gap of Watch (Gate of Asarial)
 
 ## Major Events
 

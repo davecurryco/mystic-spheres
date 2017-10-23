@@ -4,19 +4,6 @@
 
 The Telenar number years according to the reigns of the kings of Essealona since its foundation. For example, Telenar scribes might record that a certain event happened _calaperia_ Aranor I, "in the reign of" Aranor I.
 
-| Year | Calaperia      | Event |
-| ---: | -------------- | ----- |
-| 1477 | Allenar III (Regency): 3 | Blood Moon uprising drives Telenar settlers from lands north of the Shield Wall. |
-| 1476 | Allenar III: 2 | Allenar III disappears. Caladron assumes regency. King's Own Borderers disbanded. |
-| 1475 | Allenar III: 1 | Allenar III assumes the throne of Essealona. |
-| 1471 | Allenar II: 9  | Goblins overrun Delastarion. |
-| 1463 | Allenar II: 1  | Allenar II assumes the throne of Essealona. |
-| 1257 | Palancar I: 3  | Telenar settlers found Telenarion in Arestor. |
-| 1255 | Palancar I: 1  | Palancar I assumes the throne of Essealona. |
-|  389 | Faralon I: 9   | The Cataclysm |
-|  381 | Faralon I: 1   | Faralon I assumes the throne of Essealona. |
-|    1 | Denarion I: 1  | Denarion I founds Essealona. |
-
 ## Major Events
 
 ### Establishment of Essealona

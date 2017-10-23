@@ -5,5 +5,3 @@
 [PlotMatrixGothrogPentalyaTyriana](PlotMatrixGothrogPentalyaTyriana.md)
 
 [PlotMatrixQuetraRedMagesDuergar](PlotMatrixQuetraRedMagesDuergar.md)
-
-[PlotMatrixRashazerBarazanVarog](PlotMatrixRashazerBarazanVarog.md)
