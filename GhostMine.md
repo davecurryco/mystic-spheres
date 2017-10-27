@@ -25,7 +25,7 @@ Typical boarded-up mine entrance at the top of a pile of tailings.
 
 ### B) Entrance Tunnel
 
-This tunnel curls around to the west following a vein of ore. At its midpoint, a natural cavern opens on the wall to the north. A wooden ladder -- old and discolored, but more-or-less sound, leads down a 20-foot drop to the floor below.
+This tunnel curls around to the west following a vein of ore. At its midpoint, a natural cavern opens on the wall to the north. 
 
 ### C) Mine Office
 
@@ -47,3 +47,38 @@ This passage could be called a chute, so steep is its descent from the passage a
 
 ### G) Landing Chamber
 
+The Entrance Tunnel intersects with this large natural chamber. The chamber ceiling is 15 feet above the level of the tunnel and the chamber floor is 20 feet below the level of the tunnel. Consequently, the floor of the tunnel forms a sheer ledge overlooking the chamber.
+
+A wooden ladder -- old and discolored, but more-or-less sound, leans against the wall of the ledge. The ladder is trapped in that a rope is tied at the bottom of one of its legs - Wisdom(Perception) DC 15 to notice. The rope leads down to the bottom of the stairs west of the chamber, where three **goblins** wait for someone to try to descend the ladder. When this happens, they will grab their end of the rope and run with it into the passage to the Central Cavern. This will pull the ladder out from under the hapless target, who must make a DC 15 Dexterity saving throw. A successful saving throw indicates that the target manages to cling to the ledge and may attempt to climb back up on the target's next turn. A failure indicates that the target falls 20 feet and, in addition to the usual consequences of a fall, must succeed on a DC 15 Dexterity saving throw or drop anything it is holding. A dropped lantern has an 80% chance of going out and a dropped torch has a 10% chance of going out. Immediately after the rope team does their bit, six more **goblins** will charge to the top of the stairs, shoot arrows at the target, and retreat to take their places with the others behind the barricade in the Central Cavern.
+
+### H) Central Cavern
+
+The ceiling of this large natural cavern rises 20 feet above the floor.
+
+If they survive, the three **goblins** from the Landing Chamber rope team will station themselves behind the projecting section of wall to the east of the entrance passage, ready to spring a trap on pursuers. The six **goblins** from the Landing Chamber hit-and-run team will station themselves behind a barricade of old timbers and other oddiments set 60 feet from the elbow in the passage to the Landing Chamber. They will shoot their bows at anyone who rounds the bend and will signal the goblins at the trap when a target is at the mouth of the passage.
+
+When they are signaled, the goblins behind the projection will pull a rope that releases a spiked wooden deadfall grate that is hinged above the doorway. Any creatures in the doorway when the deadfall swings down must make a DC 15 Dexterity saving throw. On a failed save, a target takes 2d4 of piercing damage and 1d6 of bludgeoning damage and is knocked back into the passageway. On a successful save, a target takes half as much damage and can choose whether to end up in the passageway or in the cavern. After it swings down, the deadfall grate will lock into place in a frame of rough timbers set on either side of the mouth of the passageway, effectively forming a portcullis. The portcullis has AC 15 and 27 (5d10) hit points.
+
+Once they spring their trap, the goblins will hurl clay pots full of green slime at the area in front of the portcullis and will run north to release the cave bear from its cage if necessary. Each pot will cover a 5' x 5' area with **green slime**.
+
+#### I) Great Entry
+
+In the southwest corner of the Central Cavern, a shelf 20 feet deep is raised 15 feet above floor level. A pair of doors are set into the north face of the shelf. The doors are set side-by-side in archways 12 feet high flanked by narrow, fluted columns. Doors, arches, and columns all seem to have been  carved in place from the dark basalt of the cavern. Each door is decorated with a delicate curvilinear pattern of silver inlay, but is otherwise featureless, with no handle, pull, or knob.
+
+The doors are protected by an improved _arcane lock_. In addition to the usual effects of _arcane lock_, this permanent enchantment is a 5th level spell and adds a damage threshold of 10 to the door it protects. The doors will open by themselves if touched by a creature of Dharovin descent.
+
+#### J) New Tunnel
+
+The floor drops 10 feet to the opening of a tunnel that was excavated by Aroor and Bu'jy, who were following a vein of silver. It was this excavation that woke the forces that brought about the brother's doom. An air of unease lingers in this tunnel and the goblins shun it.
+
+The tunnel is the haunt of a _will o' wisp_. Its pale light will be visible in the darkness just beyond lantern-light. It will retreat before anyone who advances down the tunnel.
+
+#### L) Residence Hall
+
+The dwarves started to build a residence hall in this section of the mine, but the floor in the northwest corner collapsed as the miners excavated space for a chamber due to the floor having been undermined by an underground stream. The gap is 5 feet deep and the rubble at its bottom is perpetually wet from water seepage.
+
+#### M) Cave Bear Cage
+
+The dwarves excavated this square chamber and fitted it with an iron portcullis. They intended this to serve as a strong-room to store rich ore, but the goblins have repurposed it as a cage for their guardian cave bear.
+
+#### N) 
