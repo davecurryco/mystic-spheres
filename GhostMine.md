@@ -69,9 +69,15 @@ The doors are protected by an improved _arcane lock_. In addition to the usual e
 
 #### J) New Tunnel
 
-The floor drops 10 feet to the opening of a tunnel that was excavated by Aroor and Bu'jy, who were following a vein of silver. It was this excavation that woke the forces that brought about the brother's doom. An air of unease lingers in this tunnel and the goblins shun it.
+The floor drops 10 feet to the opening of a tunnel that was excavated by Aroor and Bu'jy, who were following a vein of silver. The tunnel slopes gradually downward so that at its furthest extent it is 20 feet below the level of the Central Chamber. It was this excavation that brought about the brother's doom. An air of unease lingers in this tunnel and the goblins shun it.
 
-The tunnel is the haunt of a _will o' wisp_. Its pale light will be visible in the darkness just beyond lantern-light. It will retreat before anyone who advances down the tunnel.
+The tunnel is the haunt of 6 _will o' wisps_. Their pale light will be visible in the darkness just beyond lantern-light. They will retreat before anyone who advances down the tunnel, attempting to lure victims to the pocket of poison gas at the end.
+
+_Trap_ Poison gas. Constitution DC 16 or affected as by _confusion_ spell, except that saves are Constitution and 9 is "The creature falls unconscious until the start of its next turn".
+
+#### K) Rubble-Filled Chasm
+
+This chasm in the floor has been used to dump mine tailings. It is filled to within 15 feet of the top. 
 
 #### L) Residence Hall
 
