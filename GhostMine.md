@@ -1,8 +1,5 @@
 # The Ghost Mine
 
-Ancient Dharovin compound discovered by dwarven miners.
-Aboleth in subterranean lake.
-
 ## Introduction
 
 In the mountains east of Badrahar, two prospectors, brothers named Aroor and Bu'jy, discovered a long-abandoned silver mine. Finding a vein of silver ore that had not been played out, the pair staked a claim and began to excavate. At first, things went well and the brothers even hired workers from town to help them. Then strange things started happening. Miners started hearing tapping sounds coming from tunnels that no one was working. Bizarre accidents, some of them fatal, began to plague the site. Petty disputes among the workers flared into violence, occasionally with fatal results. The mine gained an ill name and before long, the brothers were forced to work their claim by themselves, since they could not find anyone willing to hire on.
@@ -11,13 +8,13 @@ After no one had seen Aroor or Bu'jy in town for many months, the Miner's Guild 
 
 Out of pity for the brothers' widows, An'na bought the claim to the mine when no one else would. She curses her own soft-heartedness though, as a visit to the mine convinced her that the place is both cursed and worthless. However, An'na suspects that the adventurers murdered Yasreena and has decided that the mine would be a fitting end for them. Accordingly, she will offer to deed half of the claim to the adventurers if they will rid it of the curse. To whet their interest, she will show them a silver nugget that she will claim (falsely) that Aroor gave to her to assay.
 
-An'na does not know that the mine was once worked by dwarves, who discovered an ancient Dharovin compound inside and came to ruin exploring it. Nor did the dwarves even guess of the cause of their downfall -- an aboleth laired in a subterranean lake beneath the compound. 
+An'na does not know that the mine was originally excavated by dwarves, who discovered an ancient Dharovin compound inside and came to ruin exploring it. Nor did the dwarves even guess of the cause of their downfall -- an aboleth laired in a subterranean lake beneath the compound. The mine was lost for hundreds of years, but was re-discovered by Aroor and Bu'jy. After the brothers met their tragic end, a band of goblins rifled their abandoned campsite and found the mine entrance. The goblins have learned to avoid the hazards of the place and have scarcely even noticed the dissention and strife, since this is pretty much normal for them. However, they carry their personal treasure and melee weapons with them at all times, not knowing when they might have to fight or flee for their lives.
 
 ## The Mine
 
 _Map:_ [Ghost Mine Map](GhostMineMap.pdf)
 
-The mine has been excavated from the hard basalt of a mountainside. Accordingly, the tunnels are narrow and low -- 5'x5' in most places. The tunnels generally follow veins of silver ore, but are interrupted in places by natural caverns, one of which is very large. The influence of the aboleth causes the rock surfaces to be wet and slimy, except as noted.
+The mine has been excavated from the hard basalt of a mountainside. Accordingly, the tunnels are narrow and low -- 5'x5' in most places. The tunnels generally follow veins of silver ore, but are interrupted in places by natural caverns, one of which is very large. The influence of the aboleth causes the rock surfaces of the tunnels and chambers of the mine to be wet and slimy. The Dharovin compound (areas S-GG) is not affected by this.
 
 ### A) The Mine Entrance
 
@@ -25,7 +22,14 @@ Typical boarded-up mine entrance at the top of a pile of tailings.
 
 ### B) Entrance Tunnel
 
-This tunnel curls around to the west following a vein of ore. At its midpoint, a natural cavern opens on the wall to the north. 
+This tunnel curls around to the west following a vein of ore. At its midpoint, a natural cavern opens on the wall to the north.
+
+The tunnel runs 50 feet from the entrance to a 15 foot long section that widens to 10 feet. Just after this section, 15 feet before the door to the Mine Office, the tunnel narrows to a little over 3 feet wide. The ceiling of this wide section is unstable. The dwarves shored it up with rough timbers, but these have deteriorated over time. Aroor and Bu'jy did not have enough mining experience to recognize the danger. The goblins did, but decided to make it a feature. They drove spikes into the vertical supports, six inches above the floor. Their plan was that goblins fleeing the mines could attach ropes to the spikes and collapse the tunnel so as to cut off pursuit. For this purpose, the goblins keep two 50-foot coils of hemp rope carefully hidden beneath a pile of rubble along the east wall near the middle of the collapsing section. A successful DC 15 Wisdom(Perception) check will discover the rope.
+
+##### Collapsing Roof
+_Mechanical trap_
+
+Three shores support an unstable roof in this 15 foot section of the tunnel. If a rope is attached to the spikes driven in the vertical timbers of the shores, a successful DC 15 Strength check will pull out the timber. When both vertical timbers of a shore are removed, the shore will collapse. Once all three shores are removed, the tunnel roof will collapse. Any creature in the area beneath the unstable section must succeed on a DC 15 Dexterity saving throw, taking 22 (4d10) bludgeoning damage on a failed save, or half as much damage on a successful one. Once the trap is triggered, the area is filled with rubble and becomes impassable.
 
 ### C) Mine Office
 
@@ -61,19 +65,26 @@ When they are signaled, the goblins behind the projection will pull a rope that 
 
 Once they spring their trap, the goblins will hurl clay pots full of green slime at the area in front of the portcullis and will run north to release the cave bear from its cage if necessary. Each pot will cover a 5' x 5' area with **green slime**.
 
-#### I) Great Entry
+#### I) Porch Shelf
 
-In the southwest corner of the Central Cavern, a shelf 20 feet deep is raised 15 feet above floor level. A pair of doors are set into the north face of the shelf. The doors are set side-by-side in archways 12 feet high flanked by narrow, fluted columns. Doors, arches, and columns all seem to have been  carved in place from the dark basalt of the cavern. Each door is decorated with a delicate curvilinear pattern of silver inlay, but is otherwise featureless, with no handle, pull, or knob.
+In the southwest corner of the Central Cavern, a shelf 20 feet deep is raised 15 feet above floor level. A pair of doors are set into the north face of the shelf. The doors are set side-by-side in archways 10 feet high flanked by narrow, fluted columns. Doors, arches, and columns all seem to have been  carved in place from the dark basalt of the cavern. Each door is decorated with a delicate curvilinear pattern of silver inlay, but is otherwise featureless, with no handle, pull, or knob.
 
-The doors are protected by an improved _arcane lock_. In addition to the usual effects of _arcane lock_, this permanent enchantment is a 5th level spell and adds a damage threshold of 10 to the door it protects. The doors will open by themselves if touched by a creature of Dharovin descent.
+The doors are protected by an improved _arcane lock_. In addition to the usual effects of _arcane lock_, this permanent enchantment is a 5th level spell and adds a damage threshold of 5 to the door it protects. The doors will open by themselves if touched by a creature of Dharovin descent.
+
+The goblins use the ledge above the entry as a lookout. They have secured a rough hemp rope in the northwest corner of the ledge. Bedding of skins laid atop piles of rushes and moss and other detritus litters the area. The goblins also keep shortbows, flint-headed javelins, and clay pots full of **green slime** on hand to discourage intruders. At least one **goblin** is stationed here at all times and he may be joined by others who flee from the Landing Chamber.
+
+_Treasure:_ 4 x Shortbow (fair condition); 31 x Arrow (fair condition); 6 x Javelin (poor quality); 4 x Green slime (in clay pots)
 
 #### J) New Tunnel
 
 The floor drops 10 feet to the opening of a tunnel that was excavated by Aroor and Bu'jy, who were following a vein of silver. The tunnel slopes gradually downward so that at its furthest extent it is 20 feet below the level of the Central Chamber. It was this excavation that brought about the brother's doom. An air of unease lingers in this tunnel and the goblins shun it.
 
-The tunnel is the haunt of 6 _will o' wisps_. Their pale light will be visible in the darkness just beyond lantern-light. They will retreat before anyone who advances down the tunnel, attempting to lure victims to the pocket of poison gas at the end.
+The tunnel is the haunt of 6 **will o' wisps** -- the spirits of Dharovin who died in misery as slaves to the aboleth. Their pale light will be visible in the darkness just beyond lantern-light. They will retreat before anyone who advances down the tunnel, attempting to lure victims to the pocket of poison gas at the end.
 
-_Trap_ Poison gas. Constitution DC 16 or affected as by _confusion_ spell, except that saves are Constitution and 9 is "The creature falls unconscious until the start of its next turn".
+##### Poison Gas
+_Mechanical hazard_
+
+Creatures that must breathe who enter the final 30 feet of this tunnel must succeed on a DC 16 Constitution saving throw or be affected as by the _confusion_ spell -- except that the saves are against Constitution and an Effect roll of 9 is treated as: "The creature falls unconscious until the start of its next turn".
 
 #### K) Rubble-Filled Chasm
 
@@ -85,6 +96,59 @@ The dwarves started to build a residence hall in this section of the mine, but t
 
 #### M) Cave Bear Cage
 
-The dwarves excavated this square chamber and fitted it with an iron portcullis. They intended this to serve as a strong-room to store rich ore, but the goblins have repurposed it as a cage for their guardian cave bear.
+The dwarves excavated this square chamber and fitted it with an iron portcullis. They intended this to serve as a strong-room to store rich ore, but the goblins have repurposed it as a cage for their guardian cave bear. If the fight in the Central Cavern is going against the goblins, the goblin boss will open the cage and set the bear on the intruders, even if a few of his miners will end up in the way. 
 
-#### N) 
+The goblin boss also keeps a rusty iron strongbox in this room. As he is the bear's trainer, he is the only goblin among the miners who can access the strongbox with any safety. It is fitted with a rusty iron padlock of crude construction (DC 10 to open). The goblin boss wears the key on a leather strap around his neck.
+
+_Treasure:_ Silver nuggets (1100 sp), Dwarven coins (30 gp), Azurite (10 gp), Banded agate (10 gp), 2 x Blue quartz (10 gp), Hematite (10 gp), Malachite (10 gp), Moss agate (10 gp), Obsidian (10 gp), Tiger eye (10 gp)
+
+#### N) Break Room
+
+The goblin miners use this chamber to cook and rest between shifts. The north wall is lined with bedding - vermin-ridden furs laid atop piles of moss and leaves. In a corner of the south wall, a cook-fire is laid within ring of stones. The fire has died away to embers, in which several loaves of crude bread have been laid. A few rusty pots stand atop the stones, but they are empty except for black residue at the bottom. Crude graffiti is scrawled on the walls and the ceiling above the fire-ring is black with soot.
+
+There are no goblins in this room, as they are all at work guarding or mining. They carry their melee weapons at all times, but have left their shortbows and arrows in this chamber.
+
+_Treasure:_ 6 x Shortbow (fair condition); 54 x Arrow (fair condition);
+
+#### O) Well Chamber
+
+The dwarves dug a well 15 feet deep in the west wall of this chamber in an attempt to supply fresh water, but to no avail. The influence of the aboleth soon fouled the water. Enemies of the aboleth that drink the water of the well will vomit it out 1d10 rounds later.
+
+#### P) Branching Tunnels
+
+A set of steps roughly carved into the stone lead to a set of four tunnels that branch off a main hall. These were orignally begun by the dwarves and have since been the focus the goblins' efforts. Evidence of their sloppy work is everywhere. Broken and discarded mining tools are scattered in profusion, sections of walls and ceilings are crumbling, and a half-hearted attempt to follow an unproductive vein resulted in a collapsed tunnel in the southwest corner of the main hall. This has resulted in dangerous working conditions.
+
+Six **goblins** and their **goblin boss** are working in the tunnels. At the sound of an alarm or conflict, they will drop their tools and rush to the Central Chamber, pausing to snatch their shortbows and a handful of arrows from the Break Room along the way. It will take them 3 rounds to arrive and this group will have its own initiative in any combat that may be in progress.
+
+_Treasure:_ 6 x Miners's tools (poor condition)
+
+##### Collapsing Roof
+_Mechanical hazard_
+
+The use of spells that produce loud sounds or waves of force creates a 10% risk that a random 10' x 10' section of tunnel within 30 feet of the effect will collapse. Any creature in the area beneath the unstable section must succeed on a DC 15 Dexterity saving throw, taking 22 (4d10) bludgeoning damage on a failed save, or half as much damage on a successful one. Once the trap is triggered, the floor of the area is filled with rubble and becomes difficult terrain.
+
+#### Q) Twin Tunnels
+
+These tunnels were also started by the dwarves, although they stopped excavating when the vein petered out. The goblins have abandoned a rusted-out mining cart in the excavation that joins the two tunnels.
+
+#### R) Forked Tunnel
+
+This tunnel was being actively worked by the dwarves when they were driven out of the mine. In the last-straw incident, a crew was drilling at the back of the eastern branch when it caved in, trapping two miners beneath the rubble. As their cohorts tried to rescue them, two will-o'-wisps appeared, consumed their lives, and drove the rescuers away. Their bones are still visible in the rubble at the end of the tunnel and the spirit of one haunts the area as a **ghost (poltergeist)**.
+
+The poltergeist roams the dungeon making sounds like the tapping of a hammer on stone in order to lure creatures here. If anyone comes to the end of the eastern branch of this tunnel, the poltergeist will suddenly attack. It will pursue intruders as far as the hall between the Break Room and the Well Chamber, but no further.
+
+#### S) Entry Hall
+
+This hall is finished in polished grey stone and floored in black marble. The 12 -foot-high cross-vaulted ceiling is held aloft by slender pillars and arches, also of black stone, inlaid with tracery of silver. At the peak of each vault, a delicate lamp of silver and crystal depends from a silver chain affixed to the ceiling. The architecture continues in the style of the great doors -- graceful, curved lines that meet at sharp angles. Between the pillars, shallow, lancet-arched niches set into the walls are bare except for a row of silver hooks affixed to the wall near the beginning of each arch. The decayed shreds of tapestries hang from some of these.
+
+An archway off the hall near the doors opens on a small, empty guard-chamber. Further down the hall, other archways contain doors sheathed in an unusual hard, dark metal with a slightly purplish cast. This is adamantine steel, which the Dharovin used extensively. The Drow method of forging it uses necrotic energy channeled from the Negative Plane. Items forged of Drow adamantine are diamond-hard, extremely durable, and practically unbreakable, but rust rapidly into uselessness when exposed to sunlight.
+
+The doors at the far south end of the hall are the same size as the doors at the north end, but are wrought from adamantine. They are incised with the same silver filigree borders, but the center panels are occupied with bas-relief figures of Drow warriors -- helmed, cloaked, and resting their hands chest-high on the hilts of gracefully-curved swords. These are **stone watchers**, but their armor class is 20 due to the material of which they are made. The watchers will admit an elf or half-elf of Dharovin ancestry who speaks the password (_laessma_, "leave" or "permission" in the Dharovin tongue). They will bar the way to others. Once the watchers are destroyed, the doors will still be shut by the same improved _arcane lock_ spell that seals the north doors, although their adamantine construction gives them an additional 5 hit point damage threshold (for a total of 10), immunity to damage from non-magical attacks, and resistance to magical cold, fire, force, and lightning damage.
+
+#### T) Spa
+
+A rectangular pool with a carved marble fountain occupies the center of this large chamber. Both are dry. At the north end of the room, a dark marble statue stands on a low dias. The statue is a carving of two elven women dressed in simple, flowing gowns. One of the women turns away with the back of her hand lifted to her forehead in a gesture of sorrow, while the other catches at her trailing hand.
+
+A secret drawer is built into the dias. A successful DC 20 Wisdom(Perception) check will find it, while a successful DC 15 Intelligence(Investigation) check will reveal that it can be opened by means of two hidden latches. The drawer is lined in adamantine and contains several compartments, most of which are filled with dust. However, a black-lacquered wooden box has survived. The box is 24' x 12' x 4' and has a simple clasp and hinges of silver. Inside are compartments that contain three ungent jars filled with _healing salve_ (like a _potion of healing_ except that it is applied to the skin, rather than drunk) and an ivory whip-handle with silver fittings (the leather thongs of the whip have rotted away).
+
+  
