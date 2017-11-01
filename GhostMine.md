@@ -45,7 +45,7 @@ A rusty iron-plated door stands open at the entrance to this chamber. Its constr
 
 This natural chamber at the end of a tunnel was used for storage. It still contains six empty oak barrels and the remains of a dozen pine crates. Although the barrels are in better shape than the crates, their wood is black with decay, their hoops are rusty, and their lids are missing. Among the litter of the crates are a few broken chain-links, several iron nails, and a broken pick-head, all covered in rust.
 
-### F) Secret Passage
+### F) Secret Stairs
 
 This passage could be called a chute, so steep is its descent from the passage above. The secret doors on either end require a DC 15 Wisdom(Perception) check to find from the outside.
 
@@ -150,5 +150,27 @@ The doors at the far south end of the hall are the same size as the doors at the
 A rectangular pool with a carved marble fountain occupies the center of this large chamber. Both are dry. At the north end of the room, a dark marble statue stands on a low dias. The statue is a carving of two elven women dressed in simple, flowing gowns. One of the women turns away with the back of her hand lifted to her forehead in a gesture of sorrow, while the other catches at her trailing hand.
 
 A secret drawer is built into the dias. A successful DC 20 Wisdom(Perception) check will find it, while a successful DC 15 Intelligence(Investigation) check will reveal that it can be opened by means of two hidden latches. The drawer is lined in adamantine and contains several compartments, most of which are filled with dust. However, a black-lacquered wooden box has survived. The box is 24' x 12' x 4' and has a simple clasp and hinges of silver. Inside are compartments that contain three ungent jars filled with _healing salve_ (like a _potion of healing_ except that it is applied to the skin, rather than drunk) and an ivory whip-handle with silver fittings (the leather thongs of the whip have rotted away).
+
+#### U) Massage Room
+
+The door to this room is made of dark wood, heavily laquered and fitted with silver-plated bronze hardware. The lacquer treatment has preserved the wood over the centuries, but it is still quite deteriorated (1/4 normal hit points). It has no lock, but can be latched from the inside. However, it stands slightly open.
+
+The remains of two gilded wooden couches lie on the floor near the middle of this room. A lacquered wooden chest of drawers lies collapsed in ruins at the north end of the room. Two large, but empty, alabaster amphorae in silver stands occupy the south end of the room. Wispy tatters of once rich tapestries hang on silver hooks mounted in the walls. The floor is adorned with an intricate mosaic of ceramic tiles and small squares of black onyx, but it is covered in dust.
+
+_Treasure:_ 2 Alabaster amphorae in silver stands (50 GP)
+
+#### V) Vestibule
+
+This room was once used for residents to shed their outer garments and wash up after trips to the outside. It is now quite empty.
+
+#### W) Greeting Room
+
+This chamber was used to greet guests. The remains of a gilded couch occupy the northeast corner. It is fronted by a black marble table set on an adamantine frame styled in graceful curves. The table-top is decorated with the now-familiar curvilinear motif. A broad, but shallow, niche in the south wall was once adorned with a mural, but only flecks of faded color remain.
+
+#### X) Storage Room
+
+The wooden door of this room is dark-stained, lacquered, and fitted with silvered hinges, pull, and lock. It is in good condition, having been protected by an _arcane lock_ spell. The lock would normally require a successful DC 15 check with thieve's tools to open, but the _arcane lock_ raises this to DC 25. The key is long lost and the _arcane lock_ will not open except for the bearer of the key.
+
+This room was used for storage, but the costly goods once kept here are now fragments and dust that is mingled with mud from seepage under the secret door. For this reason, the secret door is fairly easy to find -- DC 10 Wisdom(Perception), but it still requires a DC 15 Intelligence(Investigation) check to figure out the hidden latch that allows it to be opened.
 
   
