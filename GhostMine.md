@@ -173,4 +173,11 @@ The wooden door of this room is dark-stained, lacquered, and fitted with silvere
 
 This room was used for storage, but the costly goods once kept here are now fragments and dust that is mingled with mud from seepage under the secret door. For this reason, the secret door is fairly easy to find -- DC 10 Wisdom(Perception), but it still requires a DC 15 Intelligence(Investigation) check to figure out the hidden latch that allows it to be opened.
 
-  
+#### Y) Antechamber
+
+The adamintine-sheathed door to this room is barred from the inside, but the wood of the beam is rotten and will yield to a successful DC 10 Strength check. The room is completely dark and is empty except for two **drow elite warriors** who stand guard beside each of the doors. Their wills are enslaved by the aboleth and they will immediately attack any non-ally that comes into the room. If they have had any warning, they will have prepared actions triggered by the appearance of an enemy in the doorway: one to cast _faerie fire_ on the first enemy he sees and the other to cast _darkness_ immediately afterward, centered on the door. The two will then retreat behind the door to the Sleeping Chamber to warn their mistress.
+
+This room is affected by a twisting of reality caused by the presence of the aboleth. Creatures looking on the room will perceive it to be as it was centuries ago. The walls will appear to be painted in pastel shades and hung with silken banners. The floors will appear carpeted with richly-woven carpets, also of silk. A creature in the room may make a DC 14 Wisdom(Perception) on its turn. On a successful save, the creature perceives the room as it is -- barren and dingy. 
+
+#### Z) Sleeping Chamber
+
