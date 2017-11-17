@@ -179,12 +179,41 @@ The adamantine-sheathed door to this room is barred from the inside, but the woo
 
 This room is affected by a twisting of reality caused by the presence of the aboleth. Creatures looking on the room will perceive it to be as it was centuries ago. The walls will appear to be painted in pastel shades and hung with silken banners. The floors will appear carpeted with richly-woven carpets, also of silk. A creature in the room may make a DC 15 Wisdom(Perception) on its turn. On a successful save, the creature perceives the room as it is -- barren and dingy, but may still physically interact with the illusion, as with _mirage arcane_.
 
-#### Z) Sleeping Chamber
+#### Z) Bed Chamber
 
-Both doors of this chamber are sheathed in adamantine, but are unlocked. The interior of the chamber is dressed in white marble with black pillars and arches supporting the cross-vaulted ceiling. Elegant lamps of purple crystal suspended from silver chains cast an exotic, dim glow that is reflected in the polished black marble of the floor. A circular dais of white marble occupies the western end of the room. A small, marble-topped table with a graceful adamantine frame stands in the middle of the east wall. Atop it is a silver tray piled with unfamiliar danties, a silver pitcher filled with a clear, but somewhat earthy-tasting, wine, and four silver goblets chased with elegant designs.
+Both doors of this chamber are sheathed in adamantine, but are normally unlocked (the guards from the Antechamber will bar the door if they retreat behind it). The interior of the chamber is dressed in white marble with black pillars and arches supporting the cross-vaulted ceiling. Elegant lamps of purple crystal suspended from silver chains cast an exotic, dim glow that is reflected in the polished black marble of the floor. A circular dais of white marble occupies the western end of the room. A small, marble-topped table with a graceful adamantine frame stands in the middle of the east wall. Atop it is a silver tray piled with unfamiliar danties, a silver pitcher filled with a clear, but somewhat earthy-tasting, wine, and four silver goblets chased with elegant designs.
 
 Like the Antechamber, this room is covered by a glamor of its past glory. Rich furnishings and decorations seem to cover the bare floors and walls. The dais is graced by a round bed piled with coverlets and cushions of silk and draped with a gauzy silk canopy -- all illusory. Four silver cressets fitted with purple crystals are fitted into the west wall. They illuminate the bed-canopy from behind at different angles, forming confused, but decidedly feminine, silhouettes within.
 
 A **drow priestess**, a female **drow mage**, and two other female **drow** lounge within the room -- all dressed in the flimsiest of silk garments (AC 12) and adorned with ornaments of silver set with precious and semi-precious stones. They too are slaves of the aboleth and will attack intruders on sight, although they are unarmed.
 
-If the drow are taken by surprise, they will be in the bed together and will be the actual source of the silhouettes. If they have warning, the mage will cast _greater invisibility_ on herself and then use _minor illusion_ to cast similar shadows on the canopy. If she has time, she will cast _mage armor_ on the priestess (AC 15). The other drow will hide behind illusory draperies on the walls. Because they are unarmed, the drow will first use _web_, _darkness_, and _Evard's black tentacles_ to pin down their enemies. If this succeeds, the mage will use _cloudkill_ and the priestess will use _conjure animals_ (2 **giant spiders**) to try to kill them.
+If the drow are taken by surprise (not likely if there is combat in the Antechamber), they will be in the bed together and will be the actual source of the silhouettes. If they have warning, the mage will cast _greater invisibility_ on herself and then use _minor illusion_ to cast similar shadows on the canopy. If she has time, she will cast _mage armor_ on the priestess (AC 15). The other drow will hide behind illusory draperies on the walls. Because they are unarmed, the drow will first use _web_, _darkness_, and _Evard's black tentacles_ to pin down their enemies. If this succeeds, the mage will use _cloudkill_ and the priestess will use _conjure animals_ (2 **giant spiders**) to try to kill them.
+
+#### AA) Boudoir
+
+This chamber, which is also affected by the glamor, looks to be well-appointed with chairs, end-tables and a plush couch, but it is actually bare except for a chest of carved alabaster with legs and fittings of black-enameled, silver-chased adamantine. The chest has three drawers, each of which is locked (DC 18) with a key that the priestess keeps in a locket on her belt. The bottom drawer is additionally protected by a poison-needle trap (DC 18). Each of the three drawers contains a _glyph_ that stores a spell that is triggered when any creature other than the priestess opens it. From top to bottom, the spell glyphs are: _contagion_  (flesh rot), _insect plague_, and _geas_ (seek out a female drow and follow her commands). The top drawer contained goods that have perished, the middle drawer contains magic items, and the bottom drawer contains valuables.
+
+A _quasit_ idles about this room. It is the familiar of the drow mage in the Bed Chamber and will seek to warn her if intruders visit this room before they find the Bed Chamber. If it has warning (for example, if there is combat in the Antechamber) it will already be invisible.
+
+_Treasure:_ Wand of Binding
+
+_Treasure:_ 2800 gp, 140 pp, 2 x Chalcedony (50 gp), Chrysoprase (50 gp), Moonstone (50 gp), Onyx (50 gp), 2 x Quartz (50 gp), 3 x Sardonyx (50 gp), Star rose quartz (50 gp), Zircon (50 gp)
+
+#### BB) Parlor
+
+#### CC) Great Hall
+
+This long hallway has a high cross-vaulted ceiling supported by black marble carytid columns in the shape of female drow cavorting with demons. The figures seem to writhe in the flickering, purplish light shed by the large crystal and silver lamps hung from the ceiling on silver chains. This hall is the very center of the glamor and the illusory carpets, tapestries, and other furnishings seem richer and more luxurious than in any other chamber.
+
+At the far end of the hall, a black marble fountain trickles endlessly. The noisome water in the basin glows with a pale, greenish light. Any creature within 5 feet of the basin must make a DC 16 Charisma saving throw at the start of each of its turns or be compelled to gaze into the water. The aboleth will be aware of creatures so compelled and can use its _probing telepathy_ ability through the water in the basin to gauge their intent.
+
+The door to the Ramp is made of solid adamantine and is locked with an _arcane lock_ subject to the will of the aboleth. The creature may very well allow the adventurers to pass if it thinks that they might make good slaves.
+
+#### DD) Shrine
+
+#### EE) Dining Chamber
+
+#### FF) Storage Chamber
+
+#### GG) Ramp
+
