@@ -211,6 +211,8 @@ The door to the Ramp is made of solid adamantine and is locked with an _arcane l
 
 #### DD) Shrine
 
+A smaller chamber with a vaulted roof. At the far end, a triptych of ebony with silver fittings . The central panel depicts a demoness queen attended by other demons, male and female, that spread across .
+
 #### EE) Dining Chamber
 
 #### FF) Storage Chamber
