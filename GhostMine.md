@@ -241,3 +241,8 @@ Noticeable slope downward and 120 feet long. Alcoves at cross intersection are p
 
 _Map:_ [Ghost Mine 2 Map](GhostMine2Map.pdf)
 
+### A) Entry Chamber
+
+_Trap:_ Mirror with _phantasmal killer_
+
+### B) 
