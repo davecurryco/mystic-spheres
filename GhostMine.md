@@ -245,4 +245,6 @@ _Map:_ [Ghost Mine 2 Map](GhostMine2Map.pdf)
 
 _Trap:_ Mirror with _phantasmal killer_
 
-### B) 
+### V) Aboleth Pool
+
+The **aboleth** usually stays in this pool. It will attempt to deter intruders by using _phantasmal force_ to create the illusion of a  
