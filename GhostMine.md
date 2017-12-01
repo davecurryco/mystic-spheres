@@ -227,15 +227,15 @@ _Treasure:_ Silver basin (10 GP), Magic Weapon (+1, dagger), Silver-alloy hand-c
 
 ### EE) Dining Chamber
 
-Glamor of carpets, wall hangings, low couches, and tables -- all dust now.
+The glamor that affects this room makes it seem to be furnished with rich carpets, wall hangings, low couches, and tables, but these have decayed to dust long ago.
 
 ### FF) Guard Chamber
 
-Guarded by **drow elite warrior** and four **drow**. All are under the aboleth's influence.
+Guarded by four **drow** under the aboleth's influence.
 
 ### GG) Ramp
 
-Noticeable slope downward and 120 feet long. Alcoves at cross intersection are portals, but they are under the control of the aboleth.
+Noticeable slope downward and 120 feet long. The alcoves at cross intersection each contain an archway of polished black stone in which a silver mist swirls. These are interplanar portals, but they are under the control of the aboleth -- they cannot be traversed except as it wills.
 
 ## The Manor - Level 2
 
@@ -243,8 +243,34 @@ _Map:_ [Ghost Mine 2 Map](GhostMine2Map.pdf)
 
 ### A) Entry Chamber
 
-_Trap:_ Mirror with _phantasmal killer_
+This chamber is brightly lit by a hanging lamp of enchanted crystal in the center of the cross-vaulted ceiling. The crystal can be turned off by speaking the Dharovin phrase "light dies, darkness lives". The drow do this to safely pass the mirror.
+
+##### Phantasimal Killer Mirror
+_Magical trap_
+
+A large, octagonal, obsidian mirror hangs on the diagonal wall. This mirror has the property that it does reflects only the normal visible spectrum -- not the darkvision spectrum. When a creature that can see the mirror starts its turn within 10 feet of the mirror, the creature must make a DC 14 Wisdom saving throw. On a failed save, the target becomes frightened for 1 minute. At the start of each of the target's turns while it is frightened, the target must succeed on a DC 14 Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends.
+
+A successful DC 16 Intelligence (Arcana) check reveals that the mirror is enchanted with a spell of illusion. The mirror has AC 10, 5 hit points, and is vulnerable to bludgeoning and force damage.
+
+### B) Guard Chamber
+
+Guarded by a **drow elite warrior** under the aboleth's influence.
+
+### C) Chamber of the Obelisk
+
+In the northwest corner of this high-ceilinged chamber stands an obelisk of shiny, black stone. It is 5 feet wide at the base and tapers to a point over 25 feet above the floor. Although it is generally square at the base, the obelisk is unsettlingly irregular in its geometry. Its surface is covered with curving characters of some alien script.
+
+##### Obelisk of Forbidden Knowledge
+_Magical trap_
+
+A sinister-looking obelisk stands before you. When a creature that can see the obelisk and can read Deep Speech comes within 10 feet of the obelisk, or (worse) attempts to use any form of divination magic on it, the creature's mind is assailed by a rush of eldrich, alien knowledge. The creature must make a DC 15 Intelligence saving throw. On a failure, it takes 6d6 psychic damage and is insane until it finishes a long rest. While insane, the creature can't take actions, can't understand what other creatures say, can't read, and speak only in gibberish, A _greater restoration_ spell cast on the target ends this effect.
+
+On a successful save, the target can direct its will glean answers to up to five questions. You must ask your questions within 1 minute. The DM answers each question with one word, such as "yes," "no," "maybe," "never", "irrelevant", or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
+
+A successful DC 16 Intelligence (Arcana) check reveals that the obelisk is something unearthly and unwholesome.  The mirror has AC 10, 5 hit points, and is vulnerable to bludgeoning and force damage.
 
 ### V) Aboleth Pool
 
-The **aboleth** usually stays in this pool. It will attempt to deter intruders by using _phantasmal force_ to create the illusion of a  
+The **aboleth** usually stays in this pool, lurking beneath the surface except on those rare occasions when it surfaces to deal with visitors or key henchmen. It will attempt to hinder intruders by using _phantasmal force_ to create the illusion of a **drider** blocking the Aboleth Balcony. The illusory drider is female and wears rich ornaments of mithril and wields a mithril sceptre -- all designed to create the impression that it may be Lolth or one of her handmaidens.
+
+The aboleth will fight from beneath the surface of the pool whenever possible, using its "grasping tide" lair action to pull enemies into the water and "rage conduit" and other attacks to kill them. It will focus its attacks on creatures who are not fooled by the illusion.
