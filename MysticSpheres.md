@@ -30,35 +30,35 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 ## Adventures
 
-[AbbathorsAmulet](AbbathorsAmulet.md)
+[Abbathors Amulet](AbbathorsAmulet.md)
 
-[BlackfaneSpire](BlackfaneSpire.md)
+[Blackfane Spire](BlackfaneSpire.md)
 
-[BlightedAsarial](BlightedAsarial.md)
+[Blighted Asarial](BlightedAsarial.md)
 
-[FaneOfTheSerpentMaiden](FaneOfTheSerpentMaiden.md)
+[Fane of the Serpent Maiden](FaneOfTheSerpentMaiden.md)
 
-[GardenOfTheNightingale](GardenOfTheNightingale.md)
+[Garden of the Nightingale](GardenOfTheNightingale.md)
 
-[GhostBell](GhostBell.md)
+[Ghost Bell](GhostBell.md)
 
-[GhostMine](GhostMine.md)
+[Ghost Mine](GhostMine.md)
 
-[JadeSerpent](JadeSerpent.md)
+[Hunt for the Black Dawn](HuntForTheBlackDawn.md)
 
-[MonasteryOfTheSilverFalls](MonasteryOfTheSilverFalls.md)
+[Jade Serpent](JadeSerpent.md)
 
-[PiratesOfTheKherazCoast](PiratesOfTheKherazCoast.md)
+[Monastery of the Silver Falls](MonasteryOfTheSilverFalls.md)
 
-[PirateRevenant](PirateRevenant.md)
+[Pirates of the Kheraz Coast](PiratesOfTheKherazCoast.md)
 
-[PrisonerOfTheFeywild](PrisonerOfTheFeywild.md)
+[Prisoner of the Feywild](PrisonerOfTheFeywild.md)
 
-[QueenOfTheTrollfells](QueenOfTheTrollfells.md)
+[Queen of the Trollfells](QueenOfTheTrollfells.md)
 
-[RunawayTribute](RunawayTribute.md)
+[Runaway Tribute](RunawayTribute.md)
 
-[StonewatchPass](StonewatchPass.md)
+[Stonewatch Pass](StonewatchPass.md)
 
 
 ## Classes
@@ -67,13 +67,13 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 ## Encounters
 
-[EncounterBalance](EncounterBalance.md)
+[Encounter Balance](EncounterBalance.md)
 
 [Weather](Weather.md)
 
 ## Equipment
 
-[MountsAndVehicles](MountsAndVehicles.md)
+[Mounts and Vehicles](MountsAndVehicles.md)
 
 [Weapons](Weapons.md)
 
@@ -85,182 +85,182 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 ## Monsters
 
-[AnimatedStrongbox](AnimatedStrongbox.md)
+[Animated Strongbox](AnimatedStrongbox.md)
 
 [Arachnaed](Arachnaed.md)
 
 [Archmage](Archmage.md)
 
-[ArcticWyrm](ArcticWyrm.md)
+[Arctic Wyrm](ArcticWyrm.md)
 
 [Baital](Baital.md)
 
 [Battlebriar](Battlebriar.md)
 
-[BloodWeird](BloodWeird.md)
+[Blood Weird](BloodWeird.md)
 
-[BloodleechVine](BloodleechVine.md)
+[Bloodleech Vine](BloodleechVine.md)
 
-[CentaurVariants](CentaurVariants.md)
+[Centaur Variants](CentaurVariants.md)
 
-[CerberusHound](CerberusHound.md)
+[Cerberus Hound](CerberusHound.md)
 
-[CarnivorousApe](CarnivorousApe.md)
+[Carnivorous Ape](CarnivorousApe.md)
 
 [Cyanosphinx](Cyanosphinx.md)
 
-[DevilFlamethorn](DevilFlamethorn.md)
+[Devil, Flamethorn](DevilFlamethorn.md)
 
-[DuergarArtificer](DuergarArtificer.md)
+[Duergar Artificer](DuergarArtificer.md)
 
-[ElvenHuntingCatSian](ElvenHuntingCatSian.md)
+[Elven Hunting Cat Sian](ElvenHuntingCatSian.md)
 
-[ElvenWight](ElvenWight.md)
+[Elven Wight](ElvenWight.md)
 
-[FeyLingerer](FeyLingerer.md)
+[Fey Lingerer](FeyLingerer.md)
 
-[FeyLingererIncanter](FeyLingererIncanter.md)
+[Fey Lingerer Incanter](FeyLingererIncanter.md)
 
-[FeyLingererLady](FeyLingererLady.md)
+[Fey Lingerer Lady](FeyLingererLady.md)
 
-[FeyLingererLord](FeyLingererLord.md)
+[Fey Lingerer Lord](FeyLingererLord.md)
 
 [Firbolg](Firbolg.md)
 
-[FireBat](FireBat.md)
+[Fire Bat](FireBat.md)
 
-[FomorianWarrior](FomorianWarrior.md)
+[Fomorian Warrior](FomorianWarrior.md)
 
-[FomorianWitch](FomorianWitch.md)
+[Fomorian Witch](FomorianWitch.md)
 
-[GolemOgre](GolemOgre.md)
+[Golem Ogre](GolemOgre.md)
 
-[GreaterLamia](GreaterLamia.md)
+[Greater Lamia](GreaterLamia.md)
 
 [Hags](Hags.md)
 
-[IronHellhound](IronHellhound.md)
+[Iron Hellhound](IronHellhound.md)
 
-[JackalwerePriest](JackalwerePriest.md)
+[Jackalwere Priest](JackalwerePriest.md)
 
-[LesserWight](LesserWight.md)
+[Lesser Wight](LesserWight.md)
 
-[LycanthropeWeremuskrat](LycanthropeWeremuskrat.md)
+[Lycanthrope Weremuskrat](LycanthropeWeremuskrat.md)
 
-[MummifiedMonk](MummifiedMonk.md)
+[Mummified Monk](MummifiedMonk.md)
 
 [Naiad](Naiad.md)
 
-[PetrifiedTreant](PetrifiedTreant.md)
+[Petrified Treant](PetrifiedTreant.md)
 
-[PriestOfTheBlackFane](PriestOfTheBlackFane.md)
+[Priest of the Black Fane](PriestOfTheBlackFane.md)
 
-[ShadowUnicorn](ShadowUnicorn.md)
+[Shadow Unicorn](ShadowUnicorn.md)
 
-[ShadowWeird](ShadowWeird.md)
+[Shadow Weird](ShadowWeird.md)
 
-[SnakePriestess](SnakePriestess.md)
+[Snake Priestess](SnakePriestess.md)
 
 [Stalker](Stalker.md)
 
-[StoneWatcher](StoneWatcher.md)
+[Stone Watcher](StoneWatcher.md)
 
 [Tennyo](Tennyo.md)
 
-[TrollBladeRager](TrollBladeRager.md)
+[Troll Blade Rager](TrollBladeRager.md)
 
-[TrollFell](TrollFell.md)
+[Troll, Fell](TrollFell.md)
 
-[TrollWar](TrollWar.md)
+[Troll, War](TrollWar.md)
 
-[VampireSpawnVariants](VampireSpawnVariants.md)
+[Vampire Spawn Variants](VampireSpawnVariants.md)
 
-[VultureHarpy](VultureHarpy.md)
+[Vulture Harpy](VultureHarpy.md)
 
 ## NPCs
 
-[NPCGeneration](NPCGeneration.md)
+[NPC Generation](NPCGeneration.md)
 
-[AndredTheHighDruid](AndredTheHighDruid.md)
+[Andred the High Druid](AndredTheHighDruid.md)
 
-[AngrimTheGolden](AngrimTheGolden.md)
+[Angrim the Golden](AngrimTheGolden.md)
 
-[BerendilTheRiverSage](BerendilTheRiverSage.md)
+[Berendil the River Sage](BerendilTheRiverSage.md)
 
-[BrarinSonOfTharlin](BrarinSonOfTharlin.md)
+[Brarin son of Tharlin](BrarinSonOfTharlin.md)
 
-[DestranTheDeathKnight](DestranTheDeathKnight.md)
+[Destran the Death Knight](DestranTheDeathKnight.md)
 
-[ElwyssTheWarlock](ElwyssTheWarlock.md)
+[Elwyss the Warlock](ElwyssTheWarlock.md)
 
-[GlazdrinaTheWild](GlazdrinaTheWild.md)
+[Glazdrina the Wild](GlazdrinaTheWild.md)
 
-[GothrogTheTyrant](GothrogTheTyrant.md)
+[Gothrog the Tyrant](GothrogTheTyrant.md)
 
-[HadrazanTheSeer](HadrazanTheSeer.md)
+[Hadrazan the Seer](HadrazanTheSeer.md)
 
-[JamanKhal](JamanKhal.md)
+[Jaman Khal](JamanKhal.md)
 
-[JergarKwo](JergarKwo.md)
+[Jergar Kwo](JergarKwo.md)
 
-[JinseoJian](JinseoJian.md)
+[Jinseo Jian](JinseoJian.md)
 
-[MalarynnHighPriestOfTheBlackFane](MalarynnHighPriestOfTheBlackFane.md)
+[Malarynn High Priest of the Black Fane](MalarynnHighPriestOfTheBlackFane.md)
 
-[MordwynTheArchDruid](MordwynTheArchDruid.md)
+[Mordwyn the Arch Druid](MordwynTheArchDruid.md)
 
-[MulaoJian](MulaoJian.md)
+[Mulao Jian](MulaoJian.md)
 
-[PentalyaTheTrollQueen](PentalyaTheTrollQueen.md)
+[Pentalya the Troll Queen](PentalyaTheTrollQueen.md)
 
-[NesseyaTheWillowMaid](NesseyaTheWillowMaid.md)
+[Nesseya the Willow Maid](NesseyaTheWillowMaid.md)
 
-[TemayTheMonk](TemayTheMonk.md)
+[Temay the Monk](TemayTheMonk.md)
 
-[TiamarDhanbai](TiamarDhanbai.md)
+[Tiamar Dhanbai](TiamarDhanbai.md)
 
-[TyrianaTheCruel](TyrianaTheCruel.md)
+[Tyriana the Cruel](TyrianaTheCruel.md)
 
-[VarogTheDestroyer](VarogTheDestroyer.md)
+[Varog the Destroyer](VarogTheDestroyer.md)
 
 ## Spells
 
-[BeaconOfDespair](BeaconOfDespair.md)
+[Beacon of Despair](BeaconOfDespair.md)
 
-[CurseFocus](CurseFocus.md)
+[Curse Focus](CurseFocus.md)
 
-[EternalDarkness](EternalDarkness.md)
+[Eternal Darkness](EternalDarkness.md)
 
-[EtherealTunnel](EtherealTunnel.md)
+[Ethereal Tunnel](EtherealTunnel.md)
 
-[EvilEye](EvilEye.md)
+[Evil Eye](EvilEye.md)
 
-[HellBriar](HellBriar.md)
+[Hell Briar](HellBriar.md)
 
-[MordenkainensBafflingPassage](MordenkainensBafflingPassage.md)
+[Mordenkainens Baffling Passage](MordenkainensBafflingPassage.md)
 
-[MinorDarkness](MinorDarkness.md)
+[Minor Darkness](MinorDarkness.md)
 
 [Obsession](Obsession.md)
 
-[RainOfTerror](RainOfTerror.md)
+[Rain of Terror](RainOfTerror.md)
 
-[StankEye](StankEye.md)
+[Stank Eye](StankEye.md)
 
-[SummonSwarm](SummonSwarm.md)
+[Summon Swarm](SummonSwarm.md)
 
-[ThornStrike](ThornStrike.md)
+[Thorn Strike](ThornStrike.md)
 
-[UnholyFlame](UnholyFlame.md)
+[Unholy Flame](UnholyFlame.md)
 
-[WreathOfHellfire](WreathOfHellfire.md)
+[Wreath of Hellfire](WreathOfHellfire.md)
 
-[ZoneOfDeception](ZoneOfDeception.md)
+[Zone of Deception](ZoneOfDeception.md)
 
 ## Treasure
 
 [Artifacts](Artifacts.md)
 
-[MagicItems](MagicItems.md)
+[Magic Items](MagicItems.md)
 
-[SentientMagicItems](SentientMagicItems.md)
+[Sentient Magic Items](SentientMagicItems.md)
