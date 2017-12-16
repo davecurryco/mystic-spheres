@@ -225,6 +225,8 @@ On the table are ceremonial items related to the worship of Azura -- a silver ba
 
 _Treasure:_ Silver basin (10 GP), Magic Weapon (+1, dagger), Silver-alloy hand-chime (10 GP), Chime of Demon Summoning (silver)
 
+**Special Note:** If the drow high priestess survives her first encounter with the adventurers, the aboleth will recall her to level 2 of the dungeon. She will first visit the shrine and take the _chime of demon summoning_ with her. A character who makes a successful DC 14 Wisdom(Perception) check near the table will notice 
+
 ### EE) Dining Chamber
 
 The glamor that affects this room makes it seem to be furnished with rich carpets, wall hangings, low couches, and tables, but these have decayed to dust long ago.
@@ -241,6 +243,8 @@ Noticeable slope downward and 120 feet long. The alcoves at cross intersection e
 
 _Map:_ [Ghost Mine 2 Map](GhostMine2Map.pdf)
 
+The rooms and corridors on this level are closer to the aboleth's influence on time. As a result, this area of the dungeon effectively exists in the past. The most noticeable manifestation of this is that objects that otherwise would have decayed by now are instead intact.
+
 ### A) Entry Chamber
 
 This chamber is brightly lit by a hanging lamp of enchanted crystal in the center of the cross-vaulted ceiling. The crystal can be turned off by speaking the Dharovin phrase "light dies, darkness lives". The drow do this to safely pass the mirror.
@@ -252,9 +256,9 @@ A large, octagonal, obsidian mirror hangs on the diagonal wall. This mirror has 
 
 A successful DC 16 Intelligence (Arcana) check reveals that the mirror is enchanted with a spell of illusion. The mirror has AC 10, 5 hit points, and is vulnerable to bludgeoning and force damage.
 
-### B) Guard Chamber
+### B) Illusory Chamber
 
-Guarded by a **drow elite warrior** under the aboleth's influence.
+This room is enchanted with a 
 
 ### C) Chamber of the Obelisk
 
@@ -265,9 +269,69 @@ _Magical trap_
 
 A sinister-looking obelisk stands before you. When a creature that can see the obelisk and can read Deep Speech comes within 10 feet of the obelisk, or (worse) attempts to use any form of divination magic on it, the creature's mind is assailed by a rush of eldrich, alien knowledge. The creature must make a DC 15 Intelligence saving throw. On a failure, it takes 6d6 psychic damage and is insane until it finishes a long rest. While insane, the creature can't take actions, can't understand what other creatures say, can't read, and speak only in gibberish, A _greater restoration_ spell cast on the target ends this effect.
 
-On a successful save, the target can direct its will glean answers to up to five questions. You must ask your questions within 1 minute. The DM answers each question with one word, such as "yes," "no," "maybe," "never", "irrelevant", or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
+On a successful save, the target can direct its will glean answers to up to five questions. The target must ask its questions within 1 minute. The DM answers each question with one word, such as "yes," "no," "maybe," "never", "irrelevant", or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
 
-A successful DC 16 Intelligence (Arcana) check reveals that the obelisk is something unearthly and unwholesome.  The mirror has AC 10, 5 hit points, and is vulnerable to bludgeoning and force damage.
+A successful DC 16 Intelligence (Arcana) check reveals that the obelisk is something unearthly and unwholesome. The mirror has AC 10, 5 hit points, and is vulnerable to bludgeoning and force damage.
+
+### D) Antechamber
+
+The northwest corner of this room is occupied by two tall archways with a central pillar. Each archway is inscribed with Dharovin script:
+
+_From Darkness all things began_
+
+_To Darkness all things return_
+
+This has ceremonial significance to the Drow, but no actual practical effect.
+
+### E) Stairway Hall
+
+This high-ceilinged hall is decorated with long banners, each of which bears a crest.
+
+### F) Guardroom
+
+This is the base for the guards on this level -- a **drow elite warrior** and two **drow**. There are four beds with silk linens and coverlets of velvet-like black fur.
+
+### G) The Great Hall
+
+This was the audience-chamber of the Drow matriarch. Its high ceiling is supported by pointed, cross-vaulted arches and it is lit by the dim glow of hundreds of small crystal lamps of pale blue and purple hung from the ceiling on delicate silver chains. The walls are hung with silk draperies and the floors are covered in fine silk carpets. 
+
+Life-sized statues in black marble line both sides of the hall, every 10 feet. These represent the high priestesses and matriarchs of the drow house. The statues are inert.
+
+At the west end of the hall is a raised dais on which stands a throne carved of jet and inlaid with silver filigree and set with precious stones. In the top center of the backrest is a large black onyx. The gemstone flickers with reflections of the pale light of the lamps, even though it is fixed in place. This gem is a shard of the [Eye of Shadow](EyeOfShadow.md).
+
+If she has not been killed elsewhere, the **drow high priestess** will confront the adventurers in this hall, aided by any surviving drow and a **shadow demon** she has summoned with the _chime of demon summoning_.
+
+_Treasure:_ 4 x Amethyst (100 gp), 3 x Chrysoberyl (100 gp), 2 x Spinel (100 gp), 4 x Tourmaline (100 gp)
+
+### H) Library
+
+This library is used by the high priestess and the mage. Journals written in the Dharovin tongue indicate that the two stopped keeping records over 300 years ago. A successful DC 15 Investigation(Intelligence) check by a creature that can read Dharovin will reveal this.
+
+_Tomes:_ Sharhendria's Compendium of the Underdark: _This cryptic compendium is written in illuminated script upon vellum and bound in hazel plates inlaid with brass. Whenever it is opened, any other magic items worn by the reader cease functioning. When used in research, this tome provides advantage on Intelligence(Nature) checks on subjects related to its subject._; Dhrahaga's Parchments of Magical Fungi: _This compendium is written in green ink upon silk pages and bound in leather with iron hinges and fittings. It is locked by magic, and can be opened only by a Mage Hand spell. When used in research, it provides advantage on Intelligence(Nature) checks related to its subject._; The Phersedran Tablets: _This folio of parchments is contained in a leather case. It is written in an archaic form of Undercommon. When used in larceny, this tome provides a +1 bonus to checks using thieves' tools._
+
+_Magical Treasure:_ Scroll of Protection (aberrations) (rare, dmg 199); Spell Scroll (Beast Sense) (uncommon, dmg 200); Spell Scroll (Create or Destroy Water) (common, dmg 200); Spell Scroll (Knock) (uncommon, dmg 200)
+
+_Treasure:_ Silver box etched with a portrait of the night sky (250 gp); Crystal vial of exotic perfume (250 gp); Obsidian pendant on a silver chain (250 gp); Idyllic pastoral landscape painting on a silk scroll -- a masterwork by a famous Juchin artist (250 gp); Copper pot with dragon-head handle -- an Azruun antique once used in preparing arcane inks (250 gp)
+
+### I) Closet
+
+This room is used to store vestiments, armaments, and refreshments.
+
+_Treasure:_ 5 x Clothes, fine; 4 x Spear; Rapier, adamantine; 4 x Shortsword, adamantine; 3 x Shield, adamantine; 4 x Chain shirt, adamantine; 1 x Silver flask containing _sedhronour_ cordial; 4 x fine porcelain amphorae containing a thick, black wine with a very sweet taste;
+
+### J) Chamber of the High Priestess
+
+This room is richly appointed. At the far end is a large bed of carved ebony inlaid with silver topped with silk mattresses, cushions, and bedclothes and canopied with silk netting. A dresser and chair of the same workmanship stands in the northeast corner.
+
+_Treasure:_ You find a small silver case with a tiny, intricate lock [Average lock; case, 90 gp]. Inside the case is a woman’s vanity set. It contains two small silver brushes, one with small carved ebony teeth, its back set with mother of pearl and lapis in an intricate pattern [175 gp]. The other brush has ivory teeth and its back is studded with five small peridots [70 gp]. A set of four hair combs, made from polished, cut dragon scales [25 gp each], a small silvered hand mirror [15 gp], four small crystal phials [5 gp each], and a silver ring [40 gp] on a small, raised oval, round out the vanity set. The raised oval has tiny hinges and opens to reveal an empty compartment [poisoner’s ring]. [Total 510 gp]
+
+### K) Bridge
+
+Guarded by two **drow**.
+
+### L) Ceremonial Landing
+
+
 
 ### V) Aboleth Pool
 
