@@ -8,14 +8,23 @@ On her last foray to the Keraz Coast, the Black Dawn overhauled a merchant dao c
 
 The statue was stolen from an ancient temple in the deep jungles of the Opanala River valley in Ophar. Anyone who possesses it, even briefly, is cursed until the statue is returned to the temple.
 
-The adventurers get news of the Black Dawn from Jhiraz Qian, the galley's former carpenter, who was cast adrift after a dispute with Captain Makala. Jiraz believes that Makala intends to visit a witch who lives in the swamps of Ykriz Bay.
+The adventurers get news of the Black Dawn from Jhiraz Qian, the galley's former carpenter, who was cast adrift after a dispute with Captain Makala. Jiraz believes that Makala intends to visit a witch who lives in the swamps that lie at the mouth of the Khourhal River on Ykriz Bay.
 
 ## Ships
 
 ### The Black Dawn
 
-**Captain:** Makala-Koho (Pirate Veteran, Aili) (Amusement/Condescending/Olive)  
+**Captain:** Makala-Koho (M, 35, Aili, veteran, NE, Amusement/Condescending/Olive)  
 _Maka is dark-skinned even for an Aili. He is intelligent and easily bored, which led him to a life of adventure on the seas. He slakes his thirst for excitement with mayhem in combat and acts of torture and rape afterward. Without Captain Kishina's restraining hand, there is little to stop him from slaughtering everyone aboard a captured vessel these days. On shore leave, he is the type to pick a fight that results in the burning of a tavern, or an entire village. The hands aboard the ship regard Maka with a mixture of awe and fear._
+
+**First Mate:** Jenlang Kwo (M, 21, Juchin, veteran, N, Recognition/Bitter/Brown-eyed) 
+_Jenlang took ship with Kishina in the hope of an opportunity to become known as an explorer, a charter of the uncharted. He was navigator under Captain Kishina, but he is currently first mate under Captain Makala, with whom he shares a tendency to bloodlust. Jenlang has a deep resentment of the money-grubbing merchants who were his previous employers. If it were up to him, no merchantman would come off an encounter with The Black Dawn without being burned down to the waterline. His light brown eyes are unusual for a Juchin. The suggestion that he is of mixed ancestry makes Jenlan feel even more an outcast. He is easily slighted, but as he is a man of no great courage, he wreaks revenge in backdoor ways._  
+
+**Bosun:** Kaheera Zhulha (M, 31, Kwanshali, veteran, LN, Revenge/Sincere/Pimply)  
+_Formerly chief gunner, Kaheera has been promoted to bosun. He still thirsts for revenge against the slavers who destroyed his village and took him captive in his youth. His face is deeply pockmarked from a disease he contracted aboard the slave vessel and his back is scarred from the lash. He is blunt, callous, and ruthless, but he always says what he means and does what he says._
+
+**Marine Sergeant:** Obea Nghuwa (M, 25, Kwanshali, veteran, N, Acceptance/Offensive/Strong)  
+_Obea was captured by slavers before he was old enough to undergo his rite of passage. Although he is now an accomplished fighter, he is ashamed at his lack of the ritual scars that mark warriors in his tribe and so constantly seeks to prove himself to his companions. He lusts for combat and when no prey is at hand he often tries to goad others into a fight. Obea strikes an imposing figure so he gets few takers, but many of the crew resent him._  
 
 **Galley (Bireme)**
 
@@ -32,3 +41,11 @@ _Maka is dark-skinned even for an Aili. He is intelligent and easily bored, whic
 _Jhiraz was a passenger aboard a vessel that was captured by pirates. The pirates eagerly pressed him into service and the thoroughly cowed Jhiraz readily took the oath. He is terrified by the sea and is constantly busy to make the ship as seaworthy and combat-ready as possible as a mather of self-preservation. As a result of the stress and overwork, he is in poor health and ill spirits. He coughs constantly between caustic comments about anything and everything._
 
 Jiraz can be found at an opium den in Khanengul called _The Four Petals of Paradise_. When lucid enough to speak, but drugged enough to bear the memory, he can tell of his misfortunes aboard The Black Pearl and of his escape in a raft made of barrels he had carefully waterproofed.
+
+## Swamp of the Bog Witch
+
+_Map:_ [Swamp of the Bog Witch](SwampOfTheBogWitch.pdf)
+
+## The Cypress Tower
+
+_Map:_ [Cypress Tower](CypressTower.pdf)
