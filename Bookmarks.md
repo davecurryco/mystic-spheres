@@ -36,7 +36,8 @@
 
 ### Finances
 
-[ADP Retirement Services](https://www.mykplan.com/participantsecure_net/login.aspx)
+[ADP Retirement Services](https://www.mykplan.com/participantsecure_net/login.aspx)  
+[College Invest](https://www.collegeinvest.org)
 
 ## Reference
 
@@ -46,7 +47,7 @@
 
 ### Entertainment
 
-[IMSLP Music Library](http://imslp.org/wiki/Main_Page) | [Saturday Night Live Transcripts](http://snltranscripts.jt.org)
+[IMSLP Music Library](http://imslp.org/wiki/Main_Page) | [Saturday Night Live Transcripts](http://snltranscripts.jt.org) | [Internet Archive: Warren Zevon](https://archive.org/details/WarrenZevon)  
 
 ### Language
 
@@ -80,6 +81,14 @@
 
 [DB2 for Linux UNIX and Windows 10.5.0](http://www.ibm.com/support/knowledgecenter/SSEPGG_10.5.0/com.ibm.db2.luw.kc.doc/welcome.html)
 
+### Games
+
+[Internet Arcade](https://archive.org/details/internetarcade)
+
+### Internet
+
+[Internet Health Test](http://internethealthtest.org/)
+
 ### Java
 
 [Oracle Java Archive Downloads](http://www.oracle.com/technetwork/java/archive-139210.html)
@@ -96,6 +105,10 @@
 [JSF 2.0 for the Cloud](http://www.oracle.com/technetwork/articles/java/jsf-2-cloud-part1-1562825.html) | [Using JasperReports in JSF](http://inventasoft.blogspot.com/2009/07/using-jasperreports-in-jsf-applicatio.html)  
 [How to Use JSF IDs in CSS](http://stackoverflow.com/questions/5878692/how-to-use-jsf-generated-html-element-id-in-css-selectors) | [Why jQuery Selector Can't Find ID](http://stackoverflow.com/questions/5873880/why-my-jquery-selector-cant-find-my-element-by-id/5873886#5873886) | [PDF Handling in JSF](http://balusc.blogspot.com/2006/05/pdf-handling.html)  
 [JSF Custom Components](http://onlysoftware.wordpress.com/category/java/) | [JMeter: Handling JSF ViewState](http://sqa.stackexchange.com/questions/3239/handling-jsf-viewstate-errors-using-jmeter) | [JSF by BalusC](https://jsf.zeef.com/bauke.scholtz)  
+
+### Mac OS
+
+[Mac OS Keyboard Shortcuts](https://www.danrodney.com/mac/index.html)
 
 ### Resources
 
@@ -114,6 +127,7 @@
 ### Development
 
 [DZone Java](https://dzone.com/java-jdk-development-tutorials-tools-news) | [InfoQ](http://www.infoq.com/) | [IBM developerWorks Java](http://www.infoq.com/)  
+[Pragmatic Bookshelf](https://pragprog.com/)  
 
 ### User Groups
 
