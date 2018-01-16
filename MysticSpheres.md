@@ -101,11 +101,15 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Bloodleech Vine](BloodleechVine.md)
 
+[Bog Wight](BogWight.md)
+
+[Carnivorous Ape](CarnivorousApe.md)
+
 [Centaur Variants](CentaurVariants.md)
 
 [Cerberus Hound](CerberusHound.md)
 
-[Carnivorous Ape](CarnivorousApe.md)
+[Chain of Binding](ChainOfBinding.md)
 
 [Cyanosphinx](Cyanosphinx.md)
 
@@ -152,6 +156,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 [Naiad](Naiad.md)
 
 [Petrified Treant](PetrifiedTreant.md)
+
+[Pirate Veteran](PirateVeteran.md)
 
 [Priest of the Black Fane](PriestOfTheBlackFane.md)
 
