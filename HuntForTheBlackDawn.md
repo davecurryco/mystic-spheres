@@ -60,6 +60,8 @@ Blackened skulls and bones in the cinders of the stone-ringed fire-pit at the ce
 
 The local Quetalpa tribesmen who destroyed the stockade keep an intermittent watch on the river from the vantage of the bluff. During the day, there is a 50% chance that 1d6 **tribal warriors** will be on the site. If the watchers spy intruders, they will attempt to keep them under observation without being observed themselves. Thier superior woodcraft gives them advantage on Dexterity(Stealth) checks made while in natural cover. If the adventurers camp in the area after slaying any of the watchers, they will be attacked at night by a raiding party of 20 **tribal warriors** led by two **berserkers** and a **chieftain**. The tribesmen will not enter into the swamp itself for any reason.
 
+Soon after taking one of the channels into the swamp, the adventurers will see a small creature swimming toward their craft. As it draws near, they will see that it is a **raccoon** (same stats as a giant rat). If it gets close enough, the raccoon will attempt to clamber aboard. The creature is rabid and might infect someone it bites. 
+
 ### B) Hippo Wallows
 
 During the day, 4d6 hippopotamus lie half-submerged along the banks of the channel in these spots. At least one is always an alpha bull, which will very likely attack any craft the size of a launch or smaller.
@@ -68,7 +70,7 @@ During the day, 4d6 hippopotamus lie half-submerged along the banks of the chann
 
 A foul, stinking fog lingers here in all but the windiest weather. This reduces visibility to a mere 10 feet. Hidden stumps in the shallow waters of the channel pose a navigation hazard for vessels that are not guided by someone intimately familar with the waters. Since the main channel bears right, it is also likely that an unguided vessel will miss the side channel that leads more directly to the bog witch's lair.
 
-The bog witch often posts a lookout here. During the day, her pet buzzard is 70% likely to be perched in a tree above the fog. If the bird hears the approach of intruders, it will fly directly to the witch's lair to give warning.
+The bog witch often posts a lookout here. During the day, her pet buzzard is 70% likely to be perched in a tree above the fog. If the bird hears the approach of intruders, it will fly directly to the witch's lair to give warning, emitting a series of harsh croaks as it flies.
 
 ### D) The Gauntlet
 
@@ -82,9 +84,9 @@ There is nothing to explore here as any chambers or passages in the buildings fe
 
 ### F) Jaws
 
-This small, shallow lake is the territory of a **giant crocodiles**. The beast lurks mostly submerged near the western shore. It will attempt to capsize any vessels that come near and eat anything that falls out.
+This small, shallow lake is relatively deep, although the water is murky. The marshy area on the northeast is roost to a large number of ill-tempered black swans that hiss and threaten any creature that comes too close. The lake and surrounding shores are the territory of a **giant crocodiles**. The beast lurks mostly submerged near the western shore. It will attempt to capsize any vessels that come near and eat anything that falls out. It has advantage on Dexterity(Stealth) checks made to surprise, although its attack will be presaged when the nearby swans suddenly take wing.
 
-The crocodile lairs beneath a huge half-submerged cypress trunk at the south end of the lake. It will drag its victims there as it prefers to them rot a bit before it eats them. It will also retreat there if its attack is beaten off. Odd bones and a number of items from the crocodile's previous kills lie in the muck beneath 5 feet of murky water, where a diver might find them with considerable effort.
+The crocodile lairs beneath a huge half-submerged cypress trunk at the south end of the lake. It will drag its victims there, as it prefers to let them rot for a few days before it eats them. It will also retreat there if its attack is beaten off. Odd bones and items from the crocodile's previous kills lie in the muck beneath 5 feet of murky water, where a diver might find them -- with considerable effort.
 
 **Treasure:** 40 gp, 12 pp; Ring of Water Walking
 
@@ -96,7 +98,31 @@ The ground here is spongy and the air smells strongly of sulfur. For each 10 min
 
 In the center of the fen, a jagged monolith of mottled red stone leans crookedly. The stone is strangely free of moss and lichen and is unnaturally warm to the touch. Its uppermost edge is carved with a curious series of horizontal and diagonal notches. If a creature runs its finger along the notches, a **fire elemental** will appear at a random location 5-30 feet away and will immediately attack.
 
-### H) 
+### H) Lair O' the Glare
+
+The north end of this weed-grown, muddy shallow has been sectioned off with a loose stake-and-wattle fence. In the center of the fence, a single gate rises between thick timber posts driven deep in the mud and adorned with hanging clusters of weathered human skulls. Within the fence, the swamp-water is fetid and clotted with algae. The water near the bank is thick with high rushes, amid which a **catoblepas** cow ranges.
+
+The bog hag keeps the catoblepas for its rancid milk, which she drinks and makes into a virulently malodorous cheese. The fence is intended to keep the bog hag's minions out, rather than to keep the catoblepas in. The rushes give the monstrosity advantage on Dexterity(Stealth) checks, although any creature with a working nose will be able to smell it before seeing it.
+
+The catoblepas will bellow as it attacks. This will draw a random encounter 1d10 turns after the combat ends.
+
+### I) Island of Snares
+
+This small island is infested with scores of **giant spiders**, which have filled the spaces between the trees with their webs. They are semi-intelligent: INT 6 (-2), but cannot swim so they are trapped on the island. The bog hag planted the spiders here and she occasionally sends them prisoners to supplement their diet of birds, lizards, snakes, and unwary tribesmen. The spiders believe the bog hag to be a goddess and eagerly obey her commands.
+
+### J) Lake of the Clan
+
+If the adventurers have raised the alarm, they will be set on by 4 war canoes, each manned by 6 **tribal warriors**. Otherwise, during the day there will be 1d6 log canoes each with 1d4 **tribesmen** out on the water, fishing for their sustanence.
+
+Along the northeast bank of the lake, a beehive-shaped hut on stilts juts precariously out of the rushes. A sunken, moss-grown canoe is tied up to a rickety pier made of driftwood lashed together with bark rope. A wisened tribesman sits quietly in the open door of the hut. He appears to be meditating, but is actually tending a fishing line.
+
+**Witch Doctor:** Tlaqui (M, 73, Quetalpa, shaman, N, Greed, Bitter, Unkempt)
+
+Tlaqui was once held in awe by the tribesmen, but the bog witch played on his avarice and stole his spirit-stick, which she tauntingly planted in the middle of the Island of Snares. Without his focus, Tlaqui cannot cast spells and bears the full burden of his advanced years. He knows that he could not survive an attempt to recover his spirit-stick and has resigned himself to living out the remainder of his days in bitterness and melancholy trapped in his hut on the lake.
+
+### K) Tribal Village
+
+Approximately 80 tribal Quetalpa live in crude conical huts on this, the largest area of relatively dry land in the whole swamp. The bog witch has drugged their well, which provides the only potable water for miles around. The villagers are completely under the witch's mind control. Their gaze is glassy and vacant and they behave like zombies, although they move much faster.
 
 ## The Cypress Tower
 
