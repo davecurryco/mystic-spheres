@@ -50,7 +50,7 @@ _Map:_ [Swamp of the Bog Witch](SwampOfTheBogWitch.pdf)
 
 The Opanala River drains into Yrkiz Bay by means of a hundred channels that wind through a delta. Near the head of the delta, a tributary stream runs past a fetid swamp of rush-choked marshes, moss-grown cypress and mangroves, treacherous quicksands, and scum-covered ponds. Narrow, twisting waterways thread through the bog.
 
-At the rotten heart of the swamp is the lair of the Bog Witch, whose domain this is.
+Tucked into a corner of the swamp behind multiple wards and obstacles is the lair of the Bog Witch, whose domain this is.
 
 ### A) Stockade Ruins
 
@@ -114,7 +114,7 @@ This small island is infested with scores of **giant spiders**, which have fille
 
 If the adventurers have raised the alarm, they will be set on by 4 war canoes, each manned by 6 **tribal warriors**. Otherwise, during the day there will be 1d6 log canoes each with 1d4 **tribesmen** out on the water, fishing for their sustanence.
 
-Along the northeast bank of the lake, a beehive-shaped hut on stilts juts precariously out of the rushes. A sunken, moss-grown canoe is tied up to a rickety pier made of driftwood lashed together with bark rope. A wisened tribesman sits quietly in the open door of the hut. He appears to be meditating, but is actually tending a fishing line.
+Along the northeast bank of the lake, a beehive-shaped hut on stilts juts precariously out of the rushes. A sunken, moss-grown canoe is tied up to a rickety pier made of driftwood lashed together with bark rope. A wisened tribesman sits quietly in the open door of the hut. He appears to be tending a fishing line, but he is actually in a spirit-trance. If woken from his trance, he will be cooperative if a bit sullen, and will tell his story in pidgin Common. He rarely leaves his hut, though, and cannot offer any information about the bog witch's defenses or whereabouts. He will say that the witch's name is Malancalxoch (Twisted Heart Woman), but she went by the nickname Huztli Mala (Auntie Ugly). He will readily admit that the bog witch was more than a match for him, saying "She great huixo (sorceror). See many things. I little huixo. Now no stick. No magic."
 
 **Witch Doctor:** Tlaqui (M, 73, Quetalpa, shaman, N, Greed, Bitter, Unkempt)
 
@@ -124,19 +124,35 @@ Tlaqui was once held in awe by the tribesmen, but the bog witch played on his av
 
 Approximately 80 tribal Quetalpa live in crude conical huts on this, the largest area of relatively dry land in the whole swamp. The bog witch has drugged their well, which provides the only potable water for miles around. The villagers are completely under the witch's mind control. Their gaze is glassy and vacant and they behave like zombies, although they move much faster.
 
+If no alarm has been raised, the 4 war canoes will be drawn up on the shore and the 24 **tribal warriors** that would otherwise occupy them will take 2d6 turns to muster a response to the presence of intruders.
+
+If the bog witch has been killed, the tribesfolk will silently line the bank of the lake. As the adventurers approach, a boy about 10 years of age will step forward and announce, in pidgin Common, "Auntie Ugly... she dead!"
+
+### L) The Gore
+
+The channel makes a sharp bend here and at the tip of the triangle of land so formed, the bog witch advertises that she is not lightly to be disturbed. A jagged line of six sharpened stakes runs along the top of the bank, each impaling a dessicated corpse. A wooden rack of human skulls stands in front of them. These are the moral remains of the tribesfolk who backed the shaman Tlaqui in his power-struggle with the bog witch.
+
+A **buzzard** perches on the rack. It is another of the bog witch's pets and will fly off to warn her of the approach of any intruders.
+
+### M) The Bog Witch's Lair
+
+The bog witch's stronghold is the Cypress Tower. The enormous canopy of this tree rises above the swamp and is an obvious destination, but the channels wind around it in a bewildering maze and it is not at all obvious how to get there by water. Unless the adventurer take some shortcut, they will arrive at one of the 4 entry channels chosen at random.
+
 ## The Cypress Tower
 
 _Map:_ [Cypress Tower](CypressTower.pdf)
 
-A collosal cypress tree rises above the surrounding swamp. The approaches are guarded by the bog witch's minions and her familiar, an **imp**, watches invisibly from the great tree's branches.
+A collosal cypress tree rises above the surrounding swamp. The approaches are guarded by the bog witch's minions. Her familiar, an **imp**, watches invisibly from the great tree's branches and will hurry to inform his mistress if intruders approach.
 
-### A) Swamp Water
+If the adventurers get to this point bearing Captain Kishina's sword, the revenant will cause a fog to gather on the area. The fog will get more dense as time goes by and after an hour will reduce visibility to 30 feet.
 
-The murky swamp water surrounding the cypress tower is patrolled by five **bog wights**. A wight lurks beneath the surface at each of the channels on the approach to the cypress and another haunts the tangled weeds surrounding a half-submerged fallen tree-trunk in the northeast corner of the area. The wights will ambush intruders who come within range of their tremorsense. Once one wight has engaged, the others will swim beneath the surface to join in on the attack.
+### A) Lurkers Below
+
+The murky swamp water surrounding the cypress tower is patrolled by five **bog wights**. A wight lurks beneath the surface at each of the channels on the approach to the cypress and another haunts the tangled weeds surrounding a half-submerged fallen tree-trunk in the northeast corner of the area. The wights will ambush intruders who come within range of their tremorsense. Once one wight has engaged, the others will swim beneath the surface to join in on the attack. The canopy of the great tree and the surrounding jungle canopy are so dense that the bog wights are not in the least inconvenienced by the sun, even at noon.
 
 ### B) Waterside Pier
 
-A ship's longboat is tied up on the south side of the pier. The _Black Dawn_ is tied up on the north side, mast unshipped and oars stowed. It is unmanned, as the pirates are all either in the bunk house or the cypress tower. The idol, wrapped in a piece of sailcloth tied up with rope, lies on the deck waiting for Captain Makala to call for it.
+A ship's longboat is tied up on the south side of the pier. The _Black Dawn_ is tied up on the north side -- mast unshipped and oars stowed. It is unmanned, as the pirates are all either in the bunk house or the cypress tower. The idol, wrapped in a piece of sailcloth tied up with rope, lies on the deck waiting for Captain Makala to call for it.
 
 **Treasure:** Jade idol (7,500 GP) _A statue four feet high carved of a single piece of exquisite mottled jade in the image of a snake-headed king wearing a feathered kilt and adorned with feathered ornaments. The idol is cursed. Any creature who possesses it, even briefly, will suffer disadvantage on encounter rolls until it is returned to the temple from which it was stolen. The statue weighs 500 lbs., which is light for its size due to the design being pierced and hollowed in many places with considerably mastery and artistry._
 
@@ -178,9 +194,13 @@ An enormous, ancient cypress tree stands in the midst of the islet. The trunk di
 
 Inside the hollow, a floor has been built up with packed earth covered in filthy mats woven of rushes. The embers of a fire-pit lined with stones lend a constant dim illumination to the room -- a backdrop to the flashes of green and purple that burst at intervals through the door-curtain to the bog witch's chamber. The walls are hung with the skins of various small creatures stretched on drying-racks made of willow branches. Most of the pelts are those of muskrats, weasels, and voles, but there are also two python skins and the back-skin of a goblin.
 
-A rusty, but sturdy iron cage stands in the corner of the room. Inside the cage a Kwanshali **cultist**, a girl of some 13 years of age named Kalya, crouches in the corner with her head bowed to her knees in despair. Her hair is straight as is typical of aristocrats of her people, but she is naked except for a loincloth twisted from scraps of finery.
+A rusty, but sturdy iron cage stands in the corner of the room. Inside the cage a Kwanshali **cultist**, a girl of some 14 years of age named Kalya, crouches in the corner with her head bowed to her knees in despair. Her hair is straight as is typical of aristocrats of her people, but she is naked except for a loincloth twisted from scraps of finery.
 
-Captain Makala sits half-sprawled on the steps to the Conjuration Platform with a crystal goblet of fortified wine at his elbow. He leers at the girl in the cage and idly twists the point of a wicked-looking dagger into the wooden step nearest to hand. However, although he has cruelly abused her already, the girl is not here for Maka's delictation. She is a slave, captured from a Kwanshali vessel off the coast of Hannesh, that he has tendered to the bog witch in consideration of her services.
+Captain Makala sits half-sprawled on the steps to the Conjuration Platform with a crystal goblet of fortified wine at his elbow. He leers at the girl in the cage and idly twists the point of a wicked-looking dagger into the wooden step nearest to hand. However, although he has cruelly abused her already, the girl is not here for Maka's delictation. She is a slave, captured from a Kwanshali vessel off the coast of Hannesh, that he has tendered to the bog witch in consideration of her services. While he waits, Maka taunts the girl in pidgin Common:
+
+_No speak me, eh? Me'd think you be'n nice me. Youn't black altar go, com'at may. Me'n me seen that, sure! Har, har! You jus' gon' Auntie Ugly's slave, soon's she break ship kapu. Me'n she swap dat 'n she do what she say do. Auntie make strong juju, sure. Charm dis'ere strong juju init? Zombie-man keep gone an'ee? She break cap'n kapu, she break stone-man kapu, sure! Belay dat cry, lil' wench! Cry you gon' need soon'nuf!_
+
+The charm Maka refers to is an affair of bones, shells, and feathers on a leather thong about his neck. He flicks it with the fingers of his left hand as he speaks of it. It is indeed a magical item made by the bog witch. It has a spell set on it that prevents Captain Kishina's revenant from using _vengeful tracker_ or _vengeful glare_ on its wearer.
 
 ### F) Conjuration Platform
 
@@ -206,7 +226,7 @@ The witch carries a bundle of keys at her belt, but no treasure. She does have a
 
  **Blowgun.** _Ranged Weapon Attack:_ +6 to hit, range 25/100 ft., one target. _Hit:_ 1 piercing damage and the target must succeed on a DC 18 Constitution saving throw or be poisoned for 1 minute. Poisoned creatures are paralyzed for 3 rounds, beginning at the start of the witch's next turn, and have disadvantage on Strength and Dexterity checks and saving throws while poisoned in this way.
 
- The witch might also avail herself of the items in her sea-chest depending on the tactical situation.
+ The witch might also avail herself of the items in her sea-chest depending on the tactical situation. If she is reduced to 0 hit points, her last words will be, "The horror...the horror! Kill them all!"
 
 The witch's sea-chest is bound with a **chain of binding**, which appears as a rusty iron chain locked with padlocks. This animated object will attack anyone who attempts to open the chest.
 
