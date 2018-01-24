@@ -83,6 +83,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Nautical](Nautical.md)
 
+[Nautical Simplified](NauticalSimplified.md)
+
 ## Monsters
 
 [Animated Strongbox](AnimatedStrongbox.md)

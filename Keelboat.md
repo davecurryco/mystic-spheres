@@ -7,14 +7,14 @@ _Gargantuan waterborne vehicle_
 **Armor Class** 15/12
 **Hit Points** 100/30
 **Damage Threshold** 10/5
-**Speed** oar 10 ft. (45°/45°/90°/-10), sail 10 ft. (45°/-/45°/-)
+**Speed** oar 10 ft. (average 45°/45°/90°/-10), sail 10 ft. (poor45°/-/45°/-)
 **Travel** oar 1 mph, sail 1 mph
 
 --- 
 
-|  Length  |  Beam  |  Draft  | Seaworthiness | Decks | Masts |      Rig     |
-| -------- | ------ | ------- | ------------- | ----- | ----- | ------------ |
-|   60 ft. | 15 ft. |   2 ft. |           +12 |     1 |     1 | either       |
+|  Length  |  Beam  |  Draft  | Seaworthiness | Decks | Masts |      Rig      |
+| -------- | ------ | ------- | ------------- | ----- | ----- | ------------- |
+|   60 ft. | 15 ft. |   2 ft. |           +12 |     1 |     1 | square/lateen |
 
 |    Cost   | Crew | Passengers | Cargo (tons) |
 | --------- | ---- | ---------- | ------------ |
@@ -37,4 +37,4 @@ _Gargantuan waterborne vehicle_
 
 ---
 
-A keelboat is a small, single-masted sailing vessel that can also row or sail down rivers (thanks to its shallow draft and flat bottom). A sailing ship’s main method of attack is with small arms distributed to the crew, as the ship itself is typically unarmed. Keelboats have poor speed, poor hit points and average Seaworthiness.
+A keelboat is a small, single-masted sailing vessel that can also row or sail down rivers (thanks to its shallow draft and flat bottom). A keelboat’s main method of attack is with small arms distributed to the crew, as the ship itself is typically unarmed. Keelboats have poor speed, poor hit points and average Seaworthiness.

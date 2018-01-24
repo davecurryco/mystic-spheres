@@ -82,4 +82,38 @@ The minimum number of skilled crew members necessary to operate the vehicle at f
 
 [Longship](Longship.md)
 
+[Rowboat](Rowboat.md)
+
 [Sailing Ship](SailingShip.md)
+
+[Warship](Warship.md)
+
+## Naval Combat
+
+Combat between waterborne vehicles follows much the same rules as regular combat, with the vehicles being treated as combatants. Naval combat rules are extended or amended as follows.
+
+A vehicle's **captain** is the creature in overall command of the vehicle. The **helmsman** is the creature in control of the vehicle's movement. A **gunner** is in control of the vehicle's attacks with fixed armament. A **bosun** is in charge of the vehicle's attacks with ranged melee weapons. A creature may act in multiple roles, especially on smaller vehicles.
+
+### The Order of Combat
+
+#### Initiative
+
+A vehicle's place in the initiative order is determined by a Wisdom or Charisma check made by the vehicle's captain. It is the captain's choice which ability to use.
+
+### Movement and Position
+
+A vehicle moves according to the regular rules, with the following special cases.
+
+### Difficult Terrain
+
+Each foot of movement that a vessel under sail moves into the wind (close reach or close hauled) costs 1 extra foot of movement. Likewise, each foot of movement that a vessel of any type moves against a strong current costs 1 extra foot of movement. Heavy seas also count as difficult terrain. These penalties to movement are cumulative so that a ship sailing into the wind against a strong current in heavy seas would spend 4 feet of movement for each foot it moves.
+
+### Movement Into the Wind
+
+A vessel under sail may not move directly into the wind. A vessel may only sail to windward if it has the **Close Reach** or **Close Hauled** attribute.
+
+## Reference
+
+[Ancient Ports](http://www.ancientportsantiques.com)
+
+[Rob Ossian's Pirate Cove](http://www.thepirateking.com/index.htm)

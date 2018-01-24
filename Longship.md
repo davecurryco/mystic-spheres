@@ -7,7 +7,7 @@ _Colossal waterborne vehicle_
 **Armor Class** 15/12
 **Hit Points** 300/40
 **Damage Threshold** 15/10
-**Speed** oar 30 ft. (45°/45°/90°/-10 ft.), sail 30 ft. (45°/-/45°/-)
+**Speed** oar 30 ft. (average 45°/45°/90°/-10 ft.), sail 30 ft. (poor 45°/-/45°/-)
 **Travel** oar 3 mph, sail 3 mph
 
 --- 
@@ -31,7 +31,7 @@ _Colossal waterborne vehicle_
 
 **Multiattack.** The longship makes one shortbow attack for each band of crew not occupied with the longship's movement. The longship cannot multiattack on the round it makes a ram attack. 
 
-**Ram.** _Melee Weapon Attack:_ +6 to hit, range 5 ft., one target (hull only) 0° forward. _Hit:_ 13 (3d8) bludgeoning damage for each 10 ft. of relative speed. The attacking ship takes half of the damage dealt to the target.
+**Ram.** _Melee Weapon Attack:_ +6 to hit, range 5 ft., one target (hull only) 0° forward. _Hit:_ 17 (5d6) bludgeoning damage for each 10 ft. of relative speed. The attacking ship takes half of the damage dealt to the target.
 
 **Shortbow.** _Ranged Weapon Attack:_ +3 to hit, range 80/320 ft., one target (band only). _Hit:_ 4 (1d6 + 1) piercing damage.
 
