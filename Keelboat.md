@@ -22,6 +22,7 @@ _Gargantuan waterborne vehicle_
 
 ---
 
+**Damage Resistances** fire (wet the sails)  
 **Skills** Perception +2  
 **Senses** Passive perception 14
 

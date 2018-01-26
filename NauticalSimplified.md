@@ -86,6 +86,8 @@ The minimum number of skilled crew members necessary to operate the vehicle at f
 
 [Sailing Ship](SailingShip.md)
 
+[Small Galley](SmallGalley.md)
+
 [Warship](Warship.md)
 
 ## Naval Combat
@@ -202,7 +204,7 @@ The captain can direct the crew to change sail by one level as an action.
 
 #### Extinguish Fire
 
-Fire deals damage as usual for the source of the fire, except that ships do not get a Dexterity save to avoid damage. However, fire attacks deal half damage (divide the damage dealt by 2 before applying the damage threshold) the first round and each subsequent round. The fire continues until it is extinguished.
+Fire deals damage as usual for the source of the fire, except that ships do not get a Dexterity save to avoid damage. However, a vessel's hull has resist fire (divide the damage dealt by 2 before applying the damage threshold) the first round and each subsequent round. The rigging may also have resist fire if the crew wet the sails (see below). The fire continues until it is extinguished.
 
 A fire can be extinguished by covering the area with water, sand, wet tarps and so on. A character needs 2 gallons of water or sand (or a wet tarp of appropriate size), as well as a Dexterity check (DC 12) to extinguish a single 5-foot section of hull or rigging.
 

@@ -5,8 +5,8 @@ _Colossal waterborne vehicle_
 ---
 
 **Armor Class** 15/12
-**Hit Points** 300/80
-**Damage Threshold** 15/10
+**Hit Points** 300/100
+**Damage Threshold** 15/5
 **Speed** sail 40 ft. (poor 45°/-/45°/-)
 **Travel** sail 4 mph
 
@@ -22,6 +22,7 @@ _Colossal waterborne vehicle_
 
 ---
 
+**Damage Resistances** fire (wet the sails)  
 **Skills** Perception +2  
 **Senses** Passive perception 14
 

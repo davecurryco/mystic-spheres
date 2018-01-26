@@ -6,7 +6,7 @@ _Colossal waterborne vehicle_
 
 **Armor Class** 15/12
 **Hit Points** 500/40
-**Damage Threshold** 20/10
+**Damage Threshold** 20/5
 **Speed** oar 60 ft. (average 45°/45°/90°/-10 ft.), sail 30 ft. (poor 45°/-/45°/-)
 **Travel** oar 6 mph, sail 3 mph
 
@@ -22,6 +22,7 @@ _Colossal waterborne vehicle_
 
 ---
 
+**Damage Resistances** fire (wet the sails)  
 **Skills** Perception +2  
 **Senses** Passive perception 14
 
@@ -29,9 +30,13 @@ _Colossal waterborne vehicle_
 
 ## Actions
 
-**Multiattack.** The galley makes one shortbow attack for each band of crew not occupied with the galley's movement plus one ballista attack. The galley cannot multiattack on the round it makes a ram attack. 
+**Multiattack.** The galley makes one shortbow attack for each band of crew not occupied with the galley's movement plus one ballista attack every third round. The galley cannot multiattack on the round it makes a ram attack. 
 
 **Ballista (shot).** _Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target (hull only) 90° forward. _Hit:_ 14 (3d8 + 1) bludgeoning damage.
+
+**Ballista (bolt).** _Ranged Weapon Attack:_ +3 to hit, range 120/480 ft., one target 90° forward. _Hit:_ 14 (3d8 + 1) piercing damage.
+
+**Ballista (flaming bolt).** _Ranged Weapon Attack:_ +3 to hit, range 60/240 ft., one target 90° forward. _Hit:_ 10 (2d8 + 1) piercing damage plus 3 (1d6) fire damage.
 
 **Ramming Prow.** _Melee Weapon Attack:_ +8 to hit, range 5 ft., one target (hull only) 0° forward. _Hit:_ 28 (8d6) bludgeoning damage for each 5 ft. of relative speed.
 

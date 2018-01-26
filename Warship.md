@@ -29,7 +29,7 @@ _Colossal waterborne vehicle_
 
 ## Actions
 
-**Multiattack.** The warship makes one shortbow attack for each band of crew not occupied with the galley's movement plus one ballista attack, or plus four ballista attacks in a broadside. The galley cannot multiattack on the round it makes a ram attack. 
+**Multiattack.** The warship makes one shortbow attack for each band of crew not occupied with the galley's movement plus one ballista attack every third round, or plus four ballista attacks every third round in a broadside or raking maneuver. The galley cannot multiattack on the round it makes a ram attack. 
 
 **Ballista (shot).** _Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target (hull only) 90° forward or 45° side. _Hit:_ 14 (3d8 + 1) bludgeoning damage.
 

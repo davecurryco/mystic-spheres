@@ -6,7 +6,7 @@ _Colossal waterborne vehicle_
 
 **Armor Class** 15/12
 **Hit Points** 300/40
-**Damage Threshold** 15/10
+**Damage Threshold** 15/5
 **Speed** oar 30 ft. (average 45°/45°/90°/-10 ft.), sail 30 ft. (poor 45°/-/45°/-)
 **Travel** oar 3 mph, sail 3 mph
 
@@ -22,6 +22,7 @@ _Colossal waterborne vehicle_
 
 ---
 
+**Damage Resistances** fire (wet the sails)  
 **Skills** Perception +2  
 **Senses** Passive perception 14
 
