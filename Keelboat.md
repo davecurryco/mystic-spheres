@@ -35,7 +35,9 @@ _Gargantuan waterborne vehicle_
 
 **Ram.** _Melee Weapon Attack:_ +4 to hit, range 5 ft., one target (hull only) 0° forward. _Hit:_ 10 (3d6) bludgeoning damage for each 10 ft. of relative speed. The attacking ship takes half of the damage dealt to the target.
 
-**Shortbow.** _Ranged Weapon Attack:_ +3 to hit, range 80/320 ft., one target (band only). _Hit:_ 4 (1d6 + 1) piercing damage.
+**Shortbow.** _Ranged Weapon Attack:_ +3 to hit, range 80/320 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage.
+
+**Shortbow (flaming arrow).** _Ranged Weapon Attack:_ +3 to hit, range 80/320 ft., one target (band only). _Hit:_ 4 (1d6 + 1) piercing damage.
 
 ---
 
