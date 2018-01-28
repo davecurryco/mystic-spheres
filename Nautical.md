@@ -1,4 +1,4 @@
-# Simplified Nautical Rules
+# Nautical Rules
 
 ## Vehicles
 
