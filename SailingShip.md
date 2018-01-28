@@ -8,6 +8,7 @@ _Colossal waterborne vehicle_
 **Hit Points** 300/100
 **Damage Threshold** 15/5
 **Speed** sail 40 ft. (poor 45°/-/45°/-)
+**Acceleration/Deceleration** sail 5/5 ft.
 **Travel** sail 4 mph
 
 --- 

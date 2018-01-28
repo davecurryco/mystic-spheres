@@ -33,7 +33,11 @@ _Colossal waterborne vehicle_
 
 **Ballista (shot).** _Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target (hull only) 90° forward or 45° side. _Hit:_ 14 (3d8 + 1) bludgeoning damage.
 
-**Ram.** _Melee Weapon Attack:_ +8 to hit, range 5 ft., one target (hull only) 0° forward. _Hit:_ 21 (6d6) bludgeoning damage for each 10 ft. of relative speed.
+**Ballista (bolt).** _Ranged Weapon Attack:_ +3 to hit, range 120/480 ft., one target 90° forward. _Hit:_ 14 (3d8 + 1) piercing damage.
+
+**Ballista (flaming bolt).** _Ranged Weapon Attack:_ +3 to hit, range 80/240 ft., one target 90° forward. _Hit:_ 10 (2d8 + 1) piercing damage plus 3 (1d6) fire damage.
+
+**Ram.** _Melee Weapon Attack:_ +8 to hit, range 5 ft., one target (hull only) 0° forward. _Hit:_ 21 (6d6) bludgeoning damage for each 10 ft. of relative speed. The attacking ship takes half of the damage dealt to the target.
 
 **Shortbow.** _Ranged Weapon Attack:_ +3 to hit, range 80/320 ft., one target (band only). _Hit:_ 4 (1d6 + 1) piercing damage.
 

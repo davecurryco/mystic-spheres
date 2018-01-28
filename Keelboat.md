@@ -8,6 +8,7 @@ _Gargantuan waterborne vehicle_
 **Hit Points** 100/30
 **Damage Threshold** 10/5
 **Speed** oar 10 ft. (average 45°/45°/90°/-10), sail 10 ft. (poor45°/-/45°/-)
+**Acceleration/Deceleration** oar 5/5 ft., sail 5/5 ft.
 **Travel** oar 1 mph, sail 1 mph
 
 --- 

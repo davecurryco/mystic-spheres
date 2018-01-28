@@ -48,6 +48,10 @@ This is the maximum amount a vehicle can turn in any one round of movement.
 
 The amount of movement a vehicle sacrifices to move backward.
 
+#### Acceleration/Deceleration
+
+Acceleration is the number of feet of speed a vehicle can gain each round up to its maximum speed. Deceleration is the number of feet of speed it can lose each round down to its minimum speed or a complete stop. 
+
 #### Travel
 
 A vehicle's Travel is its average hourly rate of travel at normal pace, assuming the vehicle is in Average Condition and is operated by a crew of Average Proficiency.

@@ -8,6 +8,7 @@ _Large waterborne vehicle_
 **Hit Points** 50
 **Damage Threshold** -
 **Speed** oar 10 ft. (average 45°/45°/90°/-10)
+**Acceleration/Deceleration** oar 5/5 ft., sail 5/5 ft.
 **Travel** oar 1 mph
 
 --- 

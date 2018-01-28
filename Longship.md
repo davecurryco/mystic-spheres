@@ -8,6 +8,7 @@ _Colossal waterborne vehicle_
 **Hit Points** 300/40
 **Damage Threshold** 15/5
 **Speed** oar 30 ft. (average 45°/45°/90°/-10 ft.), sail 30 ft. (poor 45°/-/45°/-)
+**Acceleration/Deceleration** oar 10/10 ft., sail 5/5 ft.
 **Travel** oar 3 mph, sail 3 mph
 
 --- 

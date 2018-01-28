@@ -8,6 +8,7 @@ _Gargantuan waterborne vehicle_
 **Hit Points** 400/40
 **Damage Threshold** 15/5
 **Speed** oar 40 ft. (average 45°/45°/90°/-10 ft.), sail 30 ft. (poor 45°/-/45°/-)
+**Acceleration/Deceleration** oar 10/10 ft., sail 5/5 ft.
 **Travel** oar 4 mph, sail 3 mph
 
 --- 
@@ -36,7 +37,7 @@ _Gargantuan waterborne vehicle_
 
 **Ballista (bolt).** _Ranged Weapon Attack:_ +3 to hit, range 120/480 ft., one target 90° forward. _Hit:_ 14 (3d8 + 1) piercing damage.
 
-**Ballista (flaming bolt).** _Ranged Weapon Attack:_ +3 to hit, range 60/240 ft., one target 90° forward. _Hit:_ 10 (2d8 + 1) piercing damage plus 3 (1d6) fire damage.
+**Ballista (flaming bolt).** _Ranged Weapon Attack:_ +3 to hit, range 80/240 ft., one target 90° forward. _Hit:_ 10 (2d8 + 1) piercing damage plus 3 (1d6) fire damage.
 
 **Ramming Prow.** _Melee Weapon Attack:_ +8 to hit, range 5 ft., one target (hull only) 0° forward. _Hit:_ 21 (6d6) bludgeoning damage for each 5 ft. of relative speed.
 
