@@ -2,14 +2,19 @@
 
 _Map:_ [Tortukal Map](TortukalMap.pdf)
 
-Stariphos Bay DDH2014 pg. 11  
-The Walls of Spur DDH2014 pg. 33
+Tortukal is a raucous town serving pirates and smugglers who sail the Kheraz Coast. It is built at the head of a sheltered harbor on the ruins of an ancient walled city. Tortukal is bordered on two sides by jungle and on one side by swamp. It is, for practical purposes, only accessible by the harbor. The jungle that surrounds the town on three sides teems with native Quetalpa tribesmen. Their chief accepts tribute to allow the town to operate unmolested. Boatmen from the town trade game and other staples along the river, but the tribesmen do not suffer intruders on their territory.
 
-Tortukal is a raucous town serving pirates and smugglers who sail the Kheraz Coast. It is built at the head of a sheltered harbor on the ruins of an ancient town. Tortukal is bordered on two sides by jungle and on one side by swamp. It is, for practical purposes, only accessible by the harbor. The jungle trails to the town are watched by native Quetalpa tribesmen. Their chief accepts tribute to allow the town to operate unmolested, but the tribesmen do not suffer intruders on their territory. 
+There are surprisingly few Quetalpa among the town's population, but there are many Khemez, Juchen, and even Ahlrain residents. Ahlrain and Kwanshali are commonly found in the crews of pirate and smuggler ships and Aili are not infrequently among them. Slaves, mostly Kwanshali and Khemez, perform most of the laborious tasks.
 
 **Settlement Name:** Tortukal
 **Population:**	4,778
 **Size** The town of Tortukal covers an area of approximately 179 acres, with a total population of 4778 people.
+
+## Government and Politics
+
+**Form of Government:** Democracy
+
+The town of Tortukal is governed by a form of democracy established in the Article of the Town. An Assembly meets once a week at the Great Hall. The electors to the Assembly are divided into three bodies: Merchants, Captains, and Harbormasters -- each with its own criteria for membership. At high noon on Assembly Day, the attendees from each body are counted. The number of delegates to that day's Assembly is fixed at one quarter of the attendance of the smallest representation among the three bodies. Delegates to each body are chosen by lot. A Speaker for the Assembly is elected by the body that had the highest attendance. Everyone else is sent away and the Speaker convenes the Assembly. Matters great and small are decided by a simple majority vote of the delegates. Delegates are sequestered and are compensated with 2 GP a day from the public treasury and free drinks from all the local taverns once the proceedings conclude.    
 
 ## Professions
 
@@ -21,3 +26,64 @@ Bakers 6, Coopers 3, Locksmiths 2, Copyists 1, Magic Shops 1, Armorers 3, Bather
 
 ## Districts
 
+Tortukal is a town mostly of ramshackle buildings and thatched huts sprung up like weeds between the massive but crumbled works of a city that had long been abandoned before the rise of the Azruun Empire. The jungle grows right up to the outer walls, which were built of cut limestone filled with rubble. Even in their decay, the vine-grown towers, platforms, and foundations of the ancient city stand in sharp contrast to the newer structures in their height and solidity. Only the mansions, offices, and strongholds of the town's power brokers are well-built and in good repair.
+
+### A) The Beacon Towers
+
+The ruins of a pair of large, round towers stand on a ridge overlooking the north end of the harbor. Although their materials are similar to those of the walls and towers of the ancient city, their architecture and construction is quite different. But in any event, only the foundations and rings of broken stones remain.
+
+A new beacon-hut 20 feet high has been built from reclaimed limestone blocks on the foundation of the southernmost tower. It too is round, but it is much narrower than the original tower. A watchman is on duty at all times, ready to fire a wood pyre atop the hut in the event of an attack or other emergency. A ship's bell is mounted on an iron scaffold near the hut. It and a flag-mast close by are used to give notice of the approach of vessels by way of the harbor.
+
+### B) The Bilge (Slum)
+
+**Brothel:** The Copper Nail (Atrocious), Proprietor: Nyamau M'okom (F, 31, Kwanshali, commoner, CG, Fear, Matter-of-Fact, Rounded)
+
+**Inn:** The Spear of Vihyndra Inn (Poor), Proprietor: Bisha Babhrava (M, 20, Khemez, commoner, CE, Money, Malicious, Buxom)
+
+**Tavern:** Pavillion of the Monkey King (Poor), Proprietor: Asajan Puraprana (M, 49, Khemez, guard, CN, Experimentation, Bitter, Sweaty)
+
+**Tavern:** The Viridian Chalice (Poor), Proprietor: Buddhadka Bhaydeep (M, 32, Khemez, commoner, CG, Amusement, Matter-of-Fact, Bulging)
+
+### C) Temple Ruins
+
+### D) The Lee Ward (Businesses and Inns)
+
+**Inn:** Vihyndra's Lightning Inn (Good), Proprietor: Dyoti Dhavarati (F, 38, Khemez, commoner, LE, Friendship, Brave, Olive)
+
+**Inn:** A Thief's Luck Inn (Medium), Proprietor: Aranan Drupchandra (M, 16, Khemez, commoner, LN, Recognition, Matter-of-Fact, Ugly)
+
+### E) The North Ward (Brothels and Taverns)
+
+**Brothel:** The Maiden's Hut (Medium), Proprietor: Anot Na'Sekki (F, 25, Kwanshali, commoner, N, Self-improvement, Offensive, Shaggy)
+
+**Brothel:** The Devi's Welcome (Medium), Proprietor: Atsanar Bhululata (M, 20, Khemez, thug, LE, Loyalty, Haughty, Manly)
+
+**Brothel:** The House of Delightful Follies (Medium), Proprietor: Baladha Havaswani (M, 31, Khemez, veteran, CE, Curiosity, Informed, Freckled)
+
+**Brothel:** The Crossed Palms (Good), Proprietor: Tumaha Akono (M, 31, Aili, thug, LE, Money, Fanciful, Rosy)
+
+**Tavern:** Thirst of the Hydra (Atrocious), Proprietor: Pana Jityahani (F, 22, Khemez, commoner, NG, Greed, Confused, Scarred)
+
+**Tavern:** The Jade Flagon (Poor), Proprietor: Fumisho Hima (F, 36, Daimojin, martial arts adept, LN, Honor, Reflective, Buxom)
+
+### F) The North Docks (Warehouses and Wharves)
+
+### G) Assembly Square
+
+### H) Scrivener's Row
+
+### I) Crossroads (Businesses and Boarding Houses)
+
+### J) The South Docks (Warehouses and Wharves)
+
+### K) Moneybag End (Mansions)
+
+### L) Citadel Heights (High-end Businesses and Taverns)
+
+**Brothel:** The Threefold Treasures (Excellent), Proprietor: Lishao Qiu (F, 27, Juchen, cult fanatic, CE, Loyalty, Bitter, Brunette)
+
+### M) Fisherman's Beach
+
+### N) Southgate (Wealthy Residence)
+
+### O) Lower Southbridge (River Docks and Rivermen's Taverns)
