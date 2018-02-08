@@ -66,7 +66,17 @@ A new beacon-hut 20 feet high has been built from reclaimed limestone blocks on 
 
 **Tavern:** The Jade Flagon (Poor), Proprietor: Fumisho Hima (F, 36, Daimojin, martial arts adept, LN, Honor, Reflective, Buxom)
 
+**Tavern:** The Black Spear (Good), Proprietor: Kahlan Mabhabra (M, 23, Kwanshali, spy, CN, Friendship, Matter-of-Fact, Wild)
+
 ### F) The North Docks (Warehouses and Wharves)
+
+**Ship:** The Lotus Vengance (Pirate Galley, Excellent), Proprietor: Saleet Mahrana (F, 33, Khemez, bandit captain, CN, Revenge, Solemn, Gaunt)
+
+**Ship:** The Twilight Rendevous (Smuggler Sailing Ship, Poor), Proprietor: Bokalee Nguru (M, 26, Kwanshali, bandit captain, CN, Power, Malicious, Clean)
+
+**Ship:** The Saffron Dragon (Pirate Sailing Ship, Poor), Proprietor: Kwan Tanlon (M, 31, Juchen, bandit captain, CN, Destiny, Confused, Homely)
+
+**Ship:** The Tides of Chaos (Pirate Small Galley, Medium), Proprietor: Bokalee Nguru (F, 31, Kwanshali, pirate captain, CN, Curiosity, Cheerful, Plain)
 
 ### G) Assembly Square
 
