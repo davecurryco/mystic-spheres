@@ -26,7 +26,10 @@ _Jenlang took ship with Kishina in the hope of an opportunity to become known as
 _Formerly chief gunner, Kaheera has been promoted to bosun. He still thirsts for revenge against the slavers who destroyed his village and took him captive in his youth. His face is deeply pockmarked from a disease he contracted aboard the slave vessel and his back is scarred from the lash. He is blunt, callous, and ruthless, but he always says what he means and does what he says._
 
 **Marine Sergeant:** Obea Nghuwa (M, 25, Kwanshali, gladiator, N, Acceptance/Offensive/Strong)  
-_Obea was captured by slavers before he was old enough to undergo his rite of passage. Although he is now an accomplished fighter, having been trained as a gladiator, he is secretly ashamed at his lack of the ritual scars that mark warriors in his tribe. In compensation, Obea constantly seeks to prove himself to his companions. He lusts for combat and when no prey is at hand he readily takes and gives offense in order to goad others into a fight. Obea strikes an imposing figure so he gets few takers, but almost all of the crew resent him._  
+_Obea was captured by slavers before he was old enough to undergo his rite of passage. Although he is now an accomplished fighter, having been trained as a gladiator, he is secretly ashamed at his lack of the ritual scars that mark warriors in his tribe. In compensation, Obea constantly seeks to prove himself to his companions. He lusts for combat and when no prey is at hand he readily takes and gives offense in order to goad others into a fight. Obea strikes an imposing figure so he gets few takers, but almost all of the crew resent him._ 
+
+**Marine Sergeant:** Chien Su-Yeeh (M, 23, Juchen, swashbuckler, CE, Power/Sarcastic/Elegant)
+_Chien is the youngest son of a wealthy bureaucrat in Khanengul. He was educated as befits a gentleman in the arts, social graces, and latest styles of swordsmanship. However, his prospects did not match his ambitions. Chien's profligate life and wanton cruelty eventually became the source of too much scandal for the family to tolerate. Consequently, he put to sea and was soon swept up into a pirate's life. Chien regards his lower class shipmates with arch amusement and condescension. His tongue is almost as sharp as his sword and he uses both freely._
 
 **Galley (Bireme)**
 
