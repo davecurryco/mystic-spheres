@@ -18,9 +18,13 @@ The _Daimojin_ tyranny of Illshan does not hold absolute sway. _Danyo_ Shoda Hid
 
 The limited volume and value of inter-island shipping might have doomed the _Euijin_ to meager prospects had not the pirates lured several Red Reavers into ambushes off the coasts of Kalii and Honu and seized their galleys as prizes. The _Aili_ still had the skill of intercoastal navigation and with larger, more seaworthy ships, the _Euijin_ widened their horizons across the Sea of Kheraz.
 
-### Khanashari Pirates
+### Pashani Privateers
 
-In their perennial wars, the various city-states of Khanashar have frequently issued letters of marque and reprisal. Often, the privateers have neglected to cease operations once a peace treaty was concluded. As a result, the coastal regions of Khahashar have a long history of piracy and smuggling.
+In their perennial wars, the various city-states of Pashan have frequently issued letters of marque and reprisal. Often, privateers neglect to cease operations once a peace treaty is concluded and technically become pirates. Particularly aggressive or greedy Pashani privateers seek prey far afield of the Sea of Hazrad.
+
+### Khanashari Smugglers
+
+Governed as they are by a far-away bureaucracy with a tendency toward oppressive taxation, the coastal provinces of Khahashar west of the Golden Hills have a long tradition of smuggling. These smugglers often turn pirate, preying on merchant ships, towns, and even each other.
 
 ## Ships
 

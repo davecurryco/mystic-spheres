@@ -14,7 +14,15 @@ There are surprisingly few Quetalpa among the town's population, but there are m
 
 **Form of Government:** Democracy
 
-The town of Tortukal is governed by a form of democracy established in the Article of the Town. An Assembly meets once a week at the Great Hall. The electors to the Assembly are divided into three bodies: Captains, Merchants, and Tradesmen -- each with its own criteria for membership. At high noon on Assembly Day, the attendees from each body are counted. The number of delegates to that day's Assembly is fixed at one quarter of the attendance of the smallest representation among the three bodies. Delegates to each body are chosen by lot. A Speaker for the Assembly is elected by the body that had the highest attendance. Everyone else is sent away and the Speaker convenes the Assembly. Matters great and small are decided by a simple majority vote of the delegates. Delegates are sequestered and are compensated with 2 GP a day from the public treasury and free drinks from all the local taverns once the proceedings conclude.    
+The town of Tortukal is governed by a form of democracy established in the Article of the Town. An Assembly meets once a week at the Great Hall. The electors to the Assembly are divided into three bodies: Captains, Merchants, and Tradesmen -- each with its own criteria for membership. At high noon on Assembly Day, the attendees from each body are counted. The number of delegates to that day's Assembly is fixed at one quarter of the attendance of the smallest representation among the three bodies. Delegates to each body are chosen by lot. A Speaker for the Assembly is elected by the body that had the highest attendance. Everyone else is sent away and the Speaker convenes the Assembly. Matters great and small, except for changes to the town's Articles, are decided by a two-thirds majority vote of the delegates. Delegates are sequestered and are compensated with 2 GP a day from the public treasury and free drinks from all the local taverns once the proceedings conclude.  
+
+Once a year, on Midsummer's Day, the Assembly entertains motions to change the town's charter. These seldom pass, but the raucous debate usually leads to an all-night drinking-binge as the points are hashed and rehashed over mugs of ale and bottles of rum.
+
+A notable feature of the town's Articles is the "free shore" law. It essentially holds that any slave that sets foot on the shore of the town becomes free. The law is overwhelmingly supported by the Tradesmen, who understand that competition from slaves would decrease the value of their labor, and overwhelmingly opposed by the Merchants, who would very much like to decrease the value of labor. The Captains are split more or less evenly between those who would like to be see a slave-market in Tortukal, and those who believe that slavery is antithetical to the freedom that is the essential nature of a pirate's life. There are former slaves in each camp -- some who are adamantly opposed to slavery and others who believe that slavery is the natural order of things so why not profit from it.  
+
+It is the duty of the harbor pilots to read the Articles to an all-hands assembly of each ship before they guide it into the harbor. Beside the provisions for the Assembly and "free shore" law, the Articles basically espouse an extreme form of Libertarian philosophy -- you are free to do what you want, but if somebody else objects to it, they have the right to retaliate within limits set by the Articles. For example, a merchant is within his rights to have his guards whip, mutilate, or even kill someone who steals from him. By the same token, a ship's captain is within his rights to have his crew do the same to a merchant who cheats him. As might be expected, this arrangement leads to frequent flare-ups of violence and ruthless oppression of the weak. However, the Racketeer's Syndicate serves as an unofficial police force though various protection rackets.
+
+The town finances its operations by means of a harbor tax: 1 GP per ton of cargo capacity -- whether the ship is carrying any cargo or not. The harbor pilots assess and levy this tax.
 
 ## Professions
 
@@ -128,15 +136,22 @@ The harbor is protected by breakwaters that were built as part of the defenses o
 
 ## Organizations
 
+### Merchant's Guild
+
+**Boss:** Xiu Chui-Jiao (M, 57, Rakshasa, fiend, LE, Honor, Condescending, Sunburned)  
+_A powerful, but seldom seen, figure in the town's affairs, Xiu appears as a rugged, handsome Juchen man of mature years. In truth, the leader of the Merchant's Guild is a **rakshasa**. His current plot is to convince the Assembly to overturn Tortukal's current "free shore" policy so that he can establish a slave market._
+
 ### Racketeer's Syndicate
 
-**Boss:** Gannara Bhishuvana (M, 31, Khemez, hood, N, Loyalty, Sincere, Petite)
+**Boss:** Gannara Bhishuvana (M, 31, Khemez, hood, N, Loyalty, Sincere, Petite)  
+_Gannara is a surprisingly short man who rose through the ranks as much on his ability to win and keep allies as on his ruthlessness. He frequently acts as a diplomat among the various factions in town and has come to see himself as a kind of statesman. Nowdays, he is all about what's good for business._
 
-**Enforcer:** Arioush Abin (M, 25, Ahlrain, hood, LN, Amusement, Reflective, Stiff)
+**Enforcer:** Arioush Abin (M, 25, Ahlrain, hood, LN, Amusement, Reflective, Stiff)  
 
 ### Smugglers' Syndicate
 
-**Boss:** Luo Ying-Shui (F, 87, Juchen, master thief, LE, Survival, Condescending, Curly)
+**Boss:** Luo Ying-Shui (F, 87, Juchen, master thief, LE, Survival, Condescending, Curly)  
+_Luo had a long career as a crime boss in Khanengul, but retired to the hinterlands after making too many enemies. However, he still feared assassination and decided that it was better to be in a position where he could have protectors and enforcers. Luo's decades of experience have made him confident to the point of being arrogant, but he still takes precautions in everything he does. His ._
 
 **Enforcer:** Mei She-Su (F, 21, Juchen, master assassin, LE, Curiosity, Bitter, Narrow)
 
