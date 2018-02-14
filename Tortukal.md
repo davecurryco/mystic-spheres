@@ -4,7 +4,7 @@ _Map:_ [Tortukal Map](TortukalMap.pdf)
 
 Tortukal is a raucous town serving pirates and smugglers who sail the Kheraz Coast. It is built at the head of a sheltered harbor on the ruins of an ancient walled city. Tortukal is bordered on two sides by jungle and on one side by swamp. It is, for practical purposes, only accessible by the harbor. The jungle that surrounds the town on three sides teems with native Quetalpa tribesmen. Their chief accepts tribute to allow the town to operate unmolested. Boatmen from the town trade game and other staples along the river, but the tribesmen do not suffer intruders on their territory.
 
-There are surprisingly few Quetalpa among the town's population, but there are many Khemez, Juchen, and even Ahlrain residents. Ahlrain and Kwanshali are commonly found in the crews of pirate and smuggler ships and Aili are not infrequently among them. Slaves, mostly Kwanshali and Khemez, perform most of the laborious tasks.
+There are surprisingly few Quetalpa among the town's population, but there are many Khemez, Juchen, and even Ahlrain residents. Ahlrain and Kwanshali are commonly found in the crews of pirate and smuggler ships and Aili are not infrequently among them. Freed slaves, mostly Kwanshali and Khemez, perform most of the laborious tasks.
 
 **Settlement Name:** Tortukal
 **Population:**	4,778
@@ -14,13 +14,13 @@ There are surprisingly few Quetalpa among the town's population, but there are m
 
 **Form of Government:** Democracy
 
-The town of Tortukal is governed by a form of democracy established in the Article of the Town. An Assembly meets once a week at the Great Hall. The electors to the Assembly are divided into three bodies: Captains, Merchants, and Tradesmen -- each with its own criteria for membership. At high noon on Assembly Day, the attendees from each body are counted. The number of delegates to that day's Assembly is fixed at one quarter of the attendance of the smallest representation among the three bodies. Delegates to each body are chosen by lot. A Speaker for the Assembly is elected by the body that had the highest attendance. Everyone else is sent away and the Speaker convenes the Assembly. Matters great and small, except for changes to the town's Articles, are decided by a two-thirds majority vote of the delegates. Delegates are sequestered and are compensated with 2 GP a day from the public treasury and free drinks from all the local taverns once the proceedings conclude.  
+The town of Tortukal is governed by a form of democracy established in the Article of the Town. An Assembly meets once a week at the Great Hall. The electors to the Assembly are divided into three bodies: Captains, Merchants, and Tradesmen -- each with its own criteria for membership. At high noon on Assembly Day, the attendees from each body are counted. The number of delegates to that day's Assembly is fixed at one quarter of the attendance of the smallest representation among the three bodies. Delegates to each body are chosen by lot. A Speaker for the Assembly is elected by the body that had the highest attendance. Everyone else is sent away and the Speaker convenes the Assembly. Matters great and small, except for changes to the town's Articles, are decided by a simple majority vote of the delegates. Delegates are sequestered and are compensated with 2 GP a day from the public treasury and free drinks from all the local taverns once the proceedings conclude.  
 
-Once a year, on Midsummer's Day, the Assembly entertains motions to change the town's charter. These seldom pass, but the raucous debate usually leads to an all-night drinking-binge as the points are hashed and rehashed over mugs of ale and bottles of rum.
+Once a year, on Midsummer's Day, the Assembly entertains motions to change the town's charter, which require a two-thirds majority to carry. These seldom pass, but the raucous debate usually leads to an all-night drinking-binge as the points are hashed and rehashed over mugs of ale and bottles of rum.
 
-A notable feature of the town's Articles is the "free shore" law. It essentially holds that any slave that sets foot on the shore of the town becomes free. The law is overwhelmingly supported by the Tradesmen, who understand that competition from slaves would decrease the value of their labor, and overwhelmingly opposed by the Merchants, who would very much like to decrease the value of labor. The Captains are split more or less evenly between those who would like to be see a slave-market in Tortukal, and those who believe that slavery is antithetical to the freedom that is the essential nature of a pirate's life. There are former slaves in each camp -- some who are adamantly opposed to slavery and others who believe that slavery is the natural order of things so why not profit from it.  
+A notable feature of the town's Articles is the "free shore" law. It essentially holds that any slave that sets foot on the shore of the town becomes free. The law is overwhelmingly supported by the Tradesmen, particularly the longshoremen, who understand that competition from slaves would decrease the value of their labor. It is overwhelmingly opposed by the Merchants, who would very much like to decrease the value of labor. The Captains are split more or less evenly between those who would like to be see a slave-market in Tortukal, and those who believe that slavery is antithetical to the freedom that is the essential nature of a pirate's life. There are former slaves in each camp -- some who are adamantly opposed to slavery and others who believe that slavery is the natural order of things (so why not profit from it).  
 
-It is the duty of the harbor pilots to read the Articles to an all-hands assembly of each ship before they guide it into the harbor. Beside the provisions for the Assembly and "free shore" law, the Articles basically espouse an extreme form of Libertarian philosophy -- you are free to do what you want, but if somebody else objects to it, they have the right to retaliate within limits set by the Articles. For example, a merchant is within his rights to have his guards whip, mutilate, or even kill someone who steals from him. By the same token, a ship's captain is within his rights to have his crew do the same to a merchant who cheats him. As might be expected, this arrangement leads to frequent flare-ups of violence and ruthless oppression of the weak. However, the Racketeer's Syndicate serves as an unofficial police force though various protection rackets.
+It is the duty of the harbor pilots to read the Articles to an all-hands assembly of the crew of each ship before they guide it into the harbor. Beside the provisions for the Assembly and "free shore" law, the Articles basically espouse an extreme form of Libertarian philosophy -- you are free to do what you want, but if somebody else objects to it, they have the right to retaliate within limits set by the Articles. For example, a merchant is within his rights to have his guards whip, mutilate, or even kill someone who steals from him. By the same token, a ship's captain is within his rights to have his crew do the same to a merchant who cheats him. As might be expected, this arrangement leads to frequent flare-ups of violence and ruthless oppression of the weak. However, the Racketeer's Syndicate serves as an unofficial police force though various protection rackets.
 
 The town finances its operations by means of a harbor tax: 1 GP per ton of cargo capacity -- whether the ship is carrying any cargo or not. The harbor pilots assess and levy this tax.
 
@@ -124,7 +124,8 @@ A sign at the head of each dock reads, "Welcome to Tortukal. You have just found
 
 ### M) Fisherman's Beach
 
-**Ship:** Eyes of the Harbor (Pilot Keelboat, Medium), Captain: Koma Kujiri (M, 62, Daimojin, druid, LN, Survival, Offensive, Frail)
+**Ship:** Eyes of the Harbor (Pilot Keelboat, Medium), Captain: Koma Kujiri (M, 62, Daimojin, druid, LN, Survival, Offensive, Frail)  
+_Exiled from Illshan because of his devotion to a nature religion, Kujiri sailed with pirates and merchants alike for decades. He is familiar with all the coasts between Hannesh in the east and Palanor in the west. Wherever his travels have taken him, Kujiri has been an outsider and he has come to return the scorn with which he has been treated. He believes that some great secret of nature lies in the harbor at Tortukal and has taken his current position because it allows him to be always on the water, attuned to the winds and currents and mysterious shifting of the breakwater reef._
 
 ### N) Southgate (Wealthy Residences)
 
@@ -139,24 +140,26 @@ The harbor is protected by breakwaters that were built as part of the defenses o
 ### Merchant's Guild
 
 **Boss:** Xiu Chui-Jiao (M, 57, Rakshasa, fiend, LE, Honor, Condescending, Sunburned)  
-_A powerful, but seldom seen, figure in the town's affairs, Xiu appears as a rugged, handsome Juchen man of mature years. In truth, the leader of the Merchant's Guild is a **rakshasa**. His current plot is to convince the Assembly to overturn Tortukal's current "free shore" policy so that he can establish a slave market._
+_A powerful, but seldom seen, figure in the town's affairs, Xiu appears as a rugged, handsome Juchen man of mature years. In truth, the leader of the Merchant's Guild is a **rakshasa**. He has a (literally) fiendish plan to suborn the town government to his will. As part of this scheme, he works behind the scenes to overturn Tortukal's "free shore" policy._
 
 ### Racketeer's Syndicate
 
 **Boss:** Gannara Bhishuvana (M, 31, Khemez, hood, N, Loyalty, Sincere, Petite)  
-_Gannara is a surprisingly short man who rose through the ranks as much on his ability to win and keep allies as on his ruthlessness. He frequently acts as a diplomat among the various factions in town and has come to see himself as a kind of statesman. Nowdays, he is all about what's good for business._
+_Gannara is a surprisingly short man who rose through the ranks mainly on his ability to win and keep allies. He frequently acts as a diplomat among the various factions in town and has come to see himself as a sort of statesman. Nowdays, he is all about what's good for business and woe to the punk who doesn't show respect._
 
 **Enforcer:** Arioush Abin (M, 25, Ahlrain, hood, LN, Amusement, Reflective, Stiff)  
+_Arioush was a once a retainer of a noble family of Neunazar. After their ouster, he sailed aboard a privateer, but the privations of a life at sea were little to his taste. Here in Tortukal, Arioush indulges himself in numerous vices -- among which are sadism and brutality. However debauched he may be, Arioush still retains the manner of a prim majordomo and is scrupulously loyal to his employer._
 
 ### Smugglers' Syndicate
 
 **Boss:** Luo Ying-Shui (F, 87, Juchen, master thief, LE, Survival, Condescending, Curly)  
-_Luo had a long career as a crime boss in Khanengul, but retired to the hinterlands after making too many enemies. However, he still feared assassination and decided that it was better to be in a position where he could have protectors and enforcers. Luo's decades of experience have made him confident to the point of being arrogant, but he still takes precautions in everything he does. His ._
+_Luo had a long career as a crime boss in Khanengul, but retired to the hinterlands after making too many enemies. However, he still feared assassination and decided that it was better to be in a position where he could have protectors and enforcers. Luo's decades of experience have made him confident to the point of being arrogant, but he still takes precautions in everything he does._
 
-**Enforcer:** Mei She-Su (F, 21, Juchen, master assassin, LE, Curiosity, Bitter, Narrow)
+**Enforcer:** Mei She-Su (F, 21, Juchen, master assassin, LE, Curiosity, Bitter, Narrow)  
 
 ### Tradesman's Guild
 
-**Guild Master:** Ghamay Burtai (M, 39, Juchen, cult fanatic, LE, Justice, Matter-of-Fact, Olive)
+**Guild Master:** Ghamay Burtai (M, 39, Juchen, cult fanatic, LE, Justice, Matter-of-Fact, Olive)  
+_Ghamay was a humble blacksmith among a nomad tribe of the Golden Hills. Wronged by the tribal chieftain and forced to flee his homeland, Ghamay became a devotee of Molor and followed the god's promptings even to this most unlikely location. Here he waits for a sign that the instrument of his revenge is at hand. In the meantime, Ghamay has cornered the local trade in ironmongery and has parleyed his wealth into a position of influence._
 
 **Enforcer:** Kitbo Kurgai (M, 25, Juchen, acolyte, LE, Destiny, Malicious, Shaggy)
