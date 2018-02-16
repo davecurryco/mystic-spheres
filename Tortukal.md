@@ -94,11 +94,14 @@ A new beacon-hut 20 feet high has been built from reclaimed limestone blocks on 
 
 A sign at the head of each dock reads, "Welcome to Tortukal. You have just found a more wretched hive of scum and villany."
 
-**Ship:** The Cloud of Vengance (Pirate Galley, Excellent), Captain: Saleet Mahrana (F, 33, Khemez, bandit captain, CN, Revenge, Solemn, Gaunt)
+**Ship:** The Cloud of Vengance (Pirate Galley, Excellent), Captain: Saleet Mahrana (F, 33, Khemez, bandit captain, CN, Revenge, Solemn, Gaunt)  
+_Saleet is from a mountain-bandit tribe of Khanashar and she has the tough, wiry look and grim manner of her people. She does not revel in battle or slaughter, but she kills without compunction or remorse when she has to. Her hatred is reserved for the Emperor of Khanashar and his armies, who annihilated her clan. Saleet keeps the Cloud in top fighting shape so that she can take on Imperial warships when the occasion arises._
 
-**Ship:** The Twilight Rendevous (Smuggler Sailing Ship, Poor), Captain: Bokalee Ngulu (M, 26, Kwanshali, bandit captain, CN, Power, Malicious, Clean)
+**Ship:** The Twilight Rendevous (Smuggler Sailing Ship, Poor), Captain: Bokalee Ngulu (M, 26, Kwanshali, bandit captain, CN, Power, Malicious, Clean)  
+_Bokalee is a large, powerful man and every inch of him radiates menace. Before he took to the sea, he was head of a slaver gang that ferried captives down the Kalakiri River to the markets in Ashakala. Now, he runs human cargo from Ashakala to Masheer, carrying tea and weapons on the return trip. For all the corruption of his heart, Bokalee is fastidious about his personal appearance, as he feels that good grooming distinguishes a civilized man such as himself from the savages he delivers into bondage. The Rendevous is currently bound for Ashakala and Bokalee has stopped in Tortukal to refit, since his ship is in bad shape from the effects of a storm._
 
-**Ship:** The Saffron Dragon (Pirate Sailing Ship, Poor), Captain: Kwan Tanlon (M, 31, Juchen, bandit captain, CN, Destiny, Confused, Homely)
+**Ship:** The Saffron Dragon (Pirate Sailing Ship, Poor), Captain: Kwan Tanlon (M, 31, Juchen, bandit captain, CN, Destiny, Confused, Homely)  
+_Tanlon was leader of a band of highway robbers who preyed on merchants along the road from Khanengul to Saojung. When the authorities turned up the heat, he escaped to the sea. More through survivorship than seamanship, he became the captain of the Dragon. He was born under auspicious omens and believes that he is marked for a special destiny. This gives him confidence and an air of command, but he is a hopeless lubber. His crew respect him for his courage in battle and his useful connections for the ransom of hostages, but they have learned to ignore his inept attempts to manage the ship. Tanlon is stocky and coarse-featured -- every bit as hapless at romance as he is at sailing._
 
 ### G) Assembly Square
 
@@ -112,9 +115,11 @@ A sign at the head of each dock reads, "Welcome to Tortukal. You have just found
 
 ### J) The South Docks (Warehouses and Wharves)
 
-**Ship:** The Tides of Chaos (Smuggler Small Galley, Medium), Captain: Diwe Oyambala (F, 31, Kwanshali, pirate captain, CN, Curiosity, Cheerful, Plain)
+**Ship:** The Tides of Chaos (Smuggler Small Galley, Medium), Captain: Diwe Oyambala (F, 31, Kwanshali, pirate captain, CN, Curiosity, Cheerful, Plain)  
+_Diwe is a happy-go-lucky and impetuous woman. With her lean figure and homely features and dressed in sailor's pantaloons, Diwe can easily be mistaken for a man. She loves exploring and few captains can match her knowledge of the coast. Because of this, Diwe has been more successful as a smuggler than as a pirate. Her crew is just as happy for this since the Tides is a rather small ship._
 
-**Ship:** The Marid's Fury (Pirate Galley, Good), Captain: Badri bal-Kharjii (M, 26, Ahlrain, pirate captain, NE, Glory, Condescending, Ungainly)
+**Ship:** The Marid's Fury (Pirate Galley, Good), Captain: Badri bal-Kharjii (M, 26, Ahlrain, pirate captain, NE, Glory, Condescending, Ungainly)  
+_Badri was a privateer with letters of the marque from the King Gethzir of Neunazar. These were invalidated when the city-state fell to the Ramad Lethshanar, but Badri never even slowed down. Indeed, he has expanded his reputation since turning pirate. However, Badri's success has gone to his head. He fancies himself to be a dashing figure, although he is actually rather gawkish. Badir affects a black cloak and turban bedecked with black-dyed ostrich plumes, but the impression he makes with most people is that he resembles nothing more than some awkward buzzard._
 
 ### K) Moneybag End (Mansions)
 
