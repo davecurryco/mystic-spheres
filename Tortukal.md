@@ -58,11 +58,16 @@ A new beacon-hut 20 feet high has been built from reclaimed limestone blocks on 
 
 ### C) Temple Square
 
-**Shrine:** The Temple of the Hand of Doom - Kushyth (Poor), Priest: Ukugh Dorghu (M, 69, Juchen, priest, NE, Power, Haughty, Shaggy)
+Three stepped pyramids of weathered stone with a paved courtyard between them frame several more recent shrines built with salvaged stone and rough timbers. These are staffed by what passes for clergy in this outpost.
 
-**Shrine:** The Grotto of Our Lady of the Deeps - Yshma (Good), Priest: Che Shiouli (F, 32, Juchen, priest, CN, Revenge, Reverant, Frail)
+**Shrine:** The Temple of the Hand of Doom - Kushyth (Poor), Priest: Ukugh Dorghu (M, 69, Juchen, priest, NE, Power, Haughty, Shaggy)  
+_The worship of the god Kushyth, which was widespread in the days of the Azruun Empire, still persists among some of the Juchen nomad tribes. Ukugh came to Tortukal to build a power base for his god. He is an old man, but he is quite energetic. His fanatic gaze and unkempt white hair and beard give him the dangerous look of the wildest of nomad bandits. Despite his poor estate in Tortukal, Ukugh carries himself with an air of superiority, especially in his dealings with his minions and sycophants._
 
-**Shrine:** The Altar of the Lord of Storms - Tamirz (Poor), Priest: Dana Guradani (M, 30, Khemez, priest, N, Survival, Reflective, Spirited)
+**Shrine:** The Grotto of Our Lady of the Deeps - Yshma (Good), Priest: Che Shiouli (F, 32, Juchen, priest, CN, Revenge, Reverant, Frail)  
+_Shiouli was the abbess of a nunnery near Jeosong. She was captured and enslaved by Ahlrain pirates and suffered cruelly at their hands until their galley was driven by a freak storm to seek shelter in Tortukal's harbor. Emancipated by virtue of the "free shores" law, Shiouli came to understand that the goddess Yshma meant for her to come here. However, her ordeal shattered her health and the goddess has not seen fit to restore it. To all appearances, Shiouli leads a devout life of peace, but as with the sea, calm waters can conceal deadly deeps. The priestess bears a mortal grudge against Ahlraini pirates. Posing as a prostitute in one or another of Tortukal's many brothels, she secretly arranges for the assassination of any such as come into port._
+
+**Shrine:** The Altar of the Lord of Storms - Tamirz (Poor), Priest: Dana Guradani (M, 30, Khemez, priest, N, Survival, Reflective, Spirited)  
+_Dana once sailed with a pirate galley until a falling-out with other members of his crew led to his being marooned on an island. Rescued by circumstances that he interpreted as a miracle of Tamirz, Dana was brought to Tortukal, where he has been gifted with priestly powers and a divine mission._
 
 ### D) The Lee Ward (Businesses and Inns)
 
