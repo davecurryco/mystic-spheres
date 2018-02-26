@@ -2,9 +2,9 @@
 
 _Map:_ [Tortukal Map](TortukalMap.pdf)
 
-Tortukal is a raucous town serving pirates and smugglers who sail the Kheraz Coast. It is built at the head of a sheltered harbor on the ruins of an ancient walled city. Tortukal is bordered on two sides by jungle and on one side by swamp. It is, for practical purposes, only accessible by the harbor. The jungle that surrounds the town on three sides teems with native Quetalpa tribesmen. Their chief accepts tribute to allow the town to operate unmolested. Boatmen from the town trade game and other staples along the river, but the tribesmen do not suffer intruders on their territory.
+Tortukal is a raucous town serving pirates and smugglers who sail the Kheraz Coast. It is built at the head of a sheltered harbor on the ruins of an ancient walled city. Tortukal is bordered on two sides by jungle and on one side by swamp. It is, for practical purposes, only accessible by the harbor. 
 
-There are surprisingly few Quetalpa among the town's population, but there are many Khemez, Juchen, and even Ahlrain residents. Ahlrain and Kwanshali are commonly found in the crews of pirate and smuggler ships and Aili are not infrequently among them. Freed slaves, mostly Kwanshali and Khemez, perform most of the laborious tasks.
+The jungle that surrounds the town on three sides teems with native Quetalpa tribesmen. There are surprisingly few Quetalpa among the town's population, but there are many Khemez, Juchen, and even Ahlrain residents. Ahlrain and Kwanshali are commonly found in the crews of pirate and smuggler ships and Aili are not infrequently among them. Freed slaves, mostly Kwanshali and Khemez, perform most of the laborious tasks.
 
 **Settlement Name:** Tortukal
 **Population:**	4,778
@@ -44,17 +44,32 @@ A new beacon-hut 20 feet high has been built from reclaimed limestone blocks on 
 
 ### B) The Bilge (Slum)
 
-**Brothel:** The Copper Nail (Atrocious), Proprietor: Nyamau M'okom (F, 31, Kwanshali, commoner, CG, Fear, Matter-of-Fact, Rounded)
+**Brothel:** The Copper Nail (Atrocious), Proprietor: Nyamau M'okom (F, 31, Kwanshali, commoner, CG, Fear, Matter-of-Fact, Rounded)  
+_Nyamau was one of the wives of a tribal king who was deposed by a rival. She fled from the slaughter, but was taken by slavers and forced into prostitution in Ashakala. She was passed from one owner to another and finally ended up in Tortukal. Freed, but no longer under protection, Nyamau herself became the pander for the brothel, which she renamed after a protective superstition of her tribe. The house has not prospered and now rents a rundown, vermin-infested hut in the Bilge. Nyamau still lives in fear that the king who deposed her late husband will track her down. Like most of her slovenly trulls, she is addicted to opium. This, with worry and harship, have etched lines in her face, although she retains the plumpness that once marked her as an aristocrat among her tribe. Nyamau accepts all of this with a resigned fatalism._
 
-**Inn:** The Spear of Vihyndra Inn (Poor), Proprietor: Bisha Babhrava (M, 20, Khemez, commoner, CE, Money, Malicious, Buxom)
+**Inn:** The Spear of Vihyndra Inn (Poor), Proprietor: Bisha Babhrava (F, 20, Khemez, commoner, CE, Money, Malicious, Buxom)  
+_Bisha saved her earnings from prostitution to buy this inn in the poorest part of town. She barely makes expenses and she will do pretty much anything for cash. Although she is young and is endowed with the lush figure renowned among Khemez women, Bisha's venomous tongue and spitefulness have given her a reputation as a wench to steer cleer of._
 
-**Tavern:** Pavillion of the Monkey King (Poor), Proprietor: Asajan Puraprana (M, 49, Khemez, guard, CN, Experimentation, Bitter, Sweaty)
+**Tavern:** Pavillion of the Monkey King (Poor), Proprietor: Asajan Puraprana (M, 49, Khemez, guard, CN, Experimentation, Bitter, Sweaty)  
+_Since his days as a guardsman in Khanashar, Asajan has run many businesses, all of which have failed -- mostly due to his constant tinkering. He came to Tortukal fleeing his creditors and took proprietership of the Pavillion from his uncle, who was in ill-health and wanted to retire. Asajan was almost immediately swindled in a deal that cost him the contolling interest in the tavern. He now runs the place for his partner, but his resentement is as plain to see as the perspiration that constantly beads his forehead._
 
-**Tavern:** The Viridian Chalice (Poor), Proprietor: Buddhadka Bhaydeep (M, 32, Khemez, commoner, CG, Amusement, Matter-of-Fact, Bulging)
+**Tavern:** The Viridian Chalice (Poor), Proprietor: Buddhadka Bhaydeep (M, 32, Khemez, commoner, CG, Amusement, Matter-of-Fact, Bulging)  
+_Buddhaka is a happy-go-lucky fat man who doesn't look much beyond the pleasures of food, wine, and dancing-girls. He is the very personification of Khemez fatalism._
 
-**Opium Den:** The Red Ember (Poor), Proprietor: Wei Yun-Gao (M, 43, Juchen, thug, N, Experimentation, Malicious, Average)
+**Opium Den:** The Red Ember (Poor), Proprietor: Wei Yun-Gao (M, 43, Juchen, thug, NE, Experimentation, Malicious, Average)  
+_Yun-Gao has the sort of unexceptional look that you could pass on the street and never notice. This has served him well in his career as a petty tough and drug dealer. He always has some new hustle going, but whatever he has a hand in is guaranteed to be hurtful to someone._
 
-**Opium Den:** The Inner Eye (Atrocious), Proprietor: Suti Mahamakati (F, 31, Khemez, thug, CN, Revenge, Offensive, Plain)
+**Opium Den:** The Inner Eye (Atrocious), Proprietor: Suti Mahamakati (F, 31, Khemez, thug, CN, Revenge, Offensive, Plain)  
+_Too homely to be marriageable or even to be successful as a prostitute in a sailor town, Suti drifted into the drug trade. She has an obnoxious personality and runs the most squalid of the town's drug houses._
+
+**Drum Maker:** Kenga the Beater (Poor), Proprietor: Kenga Agamama (M, 23, Kwanshali, ruffian, CN, Boredom, Critical, Brunette)  
+_Kenga carves large drums of the kind used aboard galleys and sells them from his shack, which is on the main street on the way to the North Gate. His workmanship is only fair because this is a side-business from his main occupation, which is as the leader of a press-gang for hire. Kenga doesn't keep to anything long. His hair is bleached after the manner of some of the jungle tribes._
+
+**Leatherworker:** Mungo's Bags (Medium), Proprietor: Mungo (M, 26, Kwanshali, brigand, N, Friendship, Condescending, Dainty)  
+_Mungo is a slightly-built man who, fortunately, is well known and liked in the Bilge. Although he was born to a jungle tribe, he grew up as a household slave to a noble house in Neunazar. He was later captured and sold as a slave to a nomad tent-maker, for whom he toiled until he ran away to join first a bandit gang and then a pirate crew. He was educated along with his master's children and, although he speaks no Kwanshali, he can speak Pashani as well as the tongue of the Juchen nomads. He believes that this sets him above most other residents of The Bilge and he tends to talk down to people who are from more rustic backgrounds._
+
+**Rum Maker:** Chisa's Grog Shop (Atrocious), Proprietor: Chisa (M, 27, Kwanshali, bard, LN, Fear, Confused, Upright)  
+_Chisa was trained as a loresinger of his tribe. A born coward, he was cursed by the tribe's shaman to the effect that he runs the risk of attack by a phantasmal killer any time he uses his bardic abilities. In an attempt to escape this hex, he fled downriver to Ashakala, where joined a slaver crew and eventually ended up in Tortuakal. With his modest share of the profits of his first voyage, he set up a rum distillery. However, the local sugarcane is rather poor and Chisa's understanding of the process is even poorer. He has resorted to selling a diluted, adulterated and sub-standard rum known as grog._
 
 ### C) Temple Square
 
@@ -71,33 +86,62 @@ _Dana once sailed with a pirate galley until a falling-out with other members of
 
 ### D) The Lee Ward (Businesses and Inns)
 
-**Inn:** Vihyndra's Lightning Inn (Good), Proprietor: Dyoti Dhavarati (F, 38, Khemez, commoner, LE, Friendship, Brave, Olive)
+**Inn:** Vihyndra's Lightning Inn (Good), Proprietor: Dyoti Dhavarati (F, 38, Khemez, commoner, LE, Friendship, Brave, Olive)  
+_Dyoti was brought to Tortukal from Khanengul as a prostitute when she was in her early twenties. Her complexion is lighter than usual for a Khemez and in her day, she was considered a beauty. She had the good looks and good fortune to attract a high-ranking racketeer and she had the good sense to have him set her up in business before he came to the inevitable bad end. She also has a good disposition and no small amount of pluck, which has won her enough friends to sustain her business._
 
-**Inn:** A Thief's Luck Inn (Medium), Proprietor: Aranan Drupchandra (M, 16, Khemez, commoner, LN, Recognition, Matter-of-Fact, Ugly)
+**Inn:** A Thief's Luck Inn (Medium), Proprietor: Aranan Drupchandra (M, 16, Khemez, commoner, LN, Recognition, Matter-of-Fact, Ugly)  
+_Aranan inherited this inn from his uncle, who was an adventuring rogue. His uncle's friends, who are medium-level adventurers, made enough of an impression on the locals that no one has been willing to risk messing with the boy in the few months since he came into his inheritance. Aranan is ill-favored, but smart enough. He was apprenticed to his uncle for long enough to know how to manage the inn and he dreams of making it, and himself, famous._
+
+**Religious Items:** Mufta Ali (Excellent), Proprietor: Mufta Ali (M, 23, Ahlrain, warlock of the fiend, NE, Survival, Solemn, Ugly)  
+_Mufta was the apprentice of a hedge wizard in Pashan until a pact with a prince of the infernal regions set him on a quest to recover a lost artifact. He came to Tortukal and set himself up as a black-market dealer in religious items as a cover for his search. He has a limited time to accomplish his goal or his very soul will be forfeit. As a result, he allows himself no distractions and has adopted a grim demeanor. This is heightened by the horrific scars that disfigure the left side of his face -- a token of his unholy pact._
+
+**Armorer:** Armor of the Divine Sea (Excellent), Proprietor: Jia Su-Hao (M, 33, Juchen, veteran, LG, Loyalty, Informed, Hunched)  
+_Su-Hao crafts excellent medium and heavy armor and shields. He also buys and sells used armor, shields, and weapons, including magic varieties. He was a servitor of a deposed duke of Saojung and joined his master in exile, a road that eventually led to Tortukal. Su-Hao has picked up something of a stoop from working long hours over his forge and workbench. He is an influential member of the Tradesman's Guild and is aware of much of what goes on in the town._
+
+**Shipwright:** Janata's Shipbuilders (Good), Proprietor: Janata Apipani (M, 57, Khemez, ship captain, LN, Loyalty, Sincere, Blue-Eyed)  
+_Janata ._
 
 ### E) The North Ward (Brothels and Taverns)
 
-**Brothel:** The Maiden's Hut (Medium), Proprietor: Anot Na'Sekki (F, 25, Kwanshali, commoner, N, Self-improvement, Offensive, Shaggy)
+**Brothel:** The Maiden's Hut (Medium), Proprietor: Anot Na'Sekki (F, 25, Kwanshali, commoner, N, Self-improvement, Offensive, Shaggy)  
+_Anot was a prostitute who overcame her circumstances to be the owner of a brothel herself. Her curly black hair is a wild mop, but she is attractive enough. Unfortunately, she is wont to deliver a withering stream of profanity-laced invective at anyone who merely looks at her the wrong way. Nevertheless, she has ambitions to expand her business and take it uptown._
 
-**Brothel:** The Devi's Welcome (Medium), Proprietor: Atsanar Bhululata (M, 20, Khemez, thug, LE, Loyalty, Haughty, Manly)
+**Brothel:** The Devi's Welcome (Medium), Proprietor: Atsanar Bhululata (M, 20, Khemez, thug, LE, Loyalty, Haughty, Manly)  
+_Atsanar is brawny and strong and wears a thick, curly beard that belies his young age. A short stint as a deck-rat landed him here in Tortukal, where a few years as an goon for the Racketeers set him up to be a pimp. He still has ties to Gannara Bhishuvana, and is (dangerously) cocky in the belief that his "connections" make him "bolt-proof"._ 
 
-**Brothel:** The House of Delightful Follies (Medium), Proprietor: Baladha Havaswani (M, 31, Khemez, veteran, CE, Curiosity, Informed, Freckled)
+**Brothel:** The House of Delightful Follies (Medium), Proprietor: Baladha Havaswani (M, 31, Khemez, veteran, CE, Curiosity, Informed, Freckled)  
+_Baladha is very recognizable, being unusually light-skinned with a heavily-freckled face. He was once an officer of the Imperial Army in Khanashar, but was disgraced, stripped of his rank, and exiled. He spent several years in the city-states of Pashan, first as a brigand and then as a mercenary, before he took to the seas as a marine sergeant on a pirate vessel. After a particularly profitable, but bruising, cruise, Baladha decided to settle down. He enjoys his life these days, being amply supplied for all his wants, but a restlessness is growing in him again. He keeps up with the current happenings in town, only half-aware that he is looking for some new adventure._
 
-**Brothel:** The Crossed Palms (Good), Proprietor: Tumaha Akono (M, 31, Aili, thug, LE, Money, Fanciful, Rosy)
+**Brothel:** The Crossed Palms (Good), Proprietor: Tumaha Akono (M, 31, Aili, thug, LE, Money, Fanciful, Rosy)  
+_Tuhama is another ex-pirate turned pander. His girls are all Aili. He claims that they are his wives and that he allows his "guests" to sleep with them as an act of hospitality. The part about being married to the women may actually be true and Tuhama is assuredly something of a romantic, but he runs his operation with a sharp eye to profit. Woe to the "guest" who doesn't properly express his appreciation with suitable "gifts"._
 
-**Tavern:** Thirst of the Hydra (Atrocious), Proprietor: Pana Jityahani (F, 22, Khemez, commoner, NG, Greed, Confused, Scarred)
+**Tavern:** Thirst of the Hydra (Atrocious), Proprietor: Pana Jityahani (F, 22, Khemez, commoner, NG, Greed, Confused, Scarred)  
+_Pana is the wife of a pirate captain, although she is such a harridan that he seldom stays long in port. The Thirst is hers to run and she is slowly ruining her business with short-sighted penny-pinching. Her fondness for strong drink leaves her a bit addled at the best of times, which doesn't help things either. She was once convicted of theft in Khanashar and wears the brand of punishment on her face._
 
-**Tavern:** The Jade Flagon (Poor), Proprietor: Fumisho Hima (F, 36, Daimojin, martial arts adept, LN, Honor, Reflective, Buxom)
+**Tavern:** The Jade Flagon (Poor), Proprietor: Fumisho Hima (F, 36, Daimojin, martial arts adept, LN, Honor, Reflective, Buxom)  
+_Hima runs the Flagon as a "floating house" where guests can rent rooms to be plied with drink and entertained by female performers. Needless to say, most of the North Ward's visitors prefer less refined fare and the Flagon isn't very popular, but this suits Hima just fine since the tavern is only a cover for her occupation as a spy for Shoda Hideosu. Hima insists that her "dancing-girls" are not prostitutes and she is not a pander. More than one unruly sailor has woken up in the gutter with a dislocated arm or two after failing to observe the distinction. Hima has other secrets as well -- concealed by the constrictive silk robes she favors._
 
-**Tavern:** The Black Spear (Good), Proprietor: Kahlan Mabhabra (M, 23, Kwanshali, spy, CN, Friendship, Matter-of-Fact, Wild)
+**Tavern:** The Black Spear (Good), Proprietor: Kahlan Mabhabra (M, 23, Kwanshali, spy, CN, Friendship, Matter-of-Fact, Wild)  
+_Kahlan is a tall, strong man who bears the ritual scarification and piercings of a warrior of the Kalakiri valley tribes. Despite appearances, he is down-to-earth and friendly. However, he has ulterior motives for his naturally outgoing nature. He is a spy in the employ of Xiu Chui-Jiao._
 
-**Opium Den:** Dreams of Bliss (Good), Proprietor: Amarit Vijrapada (M, 20, Khemez, commoner, N, Destiny, Cheerful, Towering)
+**Opium Den:** Dreams of Bliss (Good), Proprietor: Amarit Vijrapada (M, 20, Khemez, commoner, N, Destiny, Cheerful, Towering)  
+_Amarit is a young man, but he is a great believer in Morrighu, the goddess of Fate. He argues that fate is predestined and unalterable so why strive and why worry? He guiltlessly caters to his patrons and accepts their eventual ruin with equanimity. Atypically for a Khemez, Amarit is very tall._
 
-**Opium Den:** Breath of the Lotus (Good), Proprietor: Ang Jucheo (F, 37, Juchen, enchanter, LG, Boredom, Fanciful, Pretty)
+**Opium Den:** Breath of the Lotus (Good), Proprietor: Ang Jucheo (F, 37, Juchen, enchanter, LN, Boredom, Fanciful, Pretty)  
+_Jucheo is attractive even at her age, but she has never been married because only her arcane studies really interest her. She runs the opium den as a front for her research into the mystic techniques of mind control. She tells herself that she will find a husband once she unlocks and controls the mysterious power that enables women to so completely enamour and enthrall men._
 
 ### F) The North Docks (Warehouses and Wharves)
 
 A sign at the head of each dock reads, "Welcome to Tortukal. You have just found a more wretched hive of scum and villany."
+
+Berths at the North Docks are charged at a daily or monthly rate by the size of the ship. The cost includes protection payments to the Racketeers:
+
+|   Size     | Daily | Monthly |
+| ---------- | ----- | ------- |
+| Large      |  3 sp |    6 gp |
+| Huge       |  5 sp |   11 gp |
+| Colossal   |  1 gp |   22 gp |
+| Gargantuan |  3 gp |   65 gp |
 
 **Ship:** The Cloud of Vengance (Pirate Galley, Excellent), Captain: Saleet Mahrana (F, 33, Khemez, bandit captain, CN, Revenge, Solemn, Gaunt)  
 _Saleet is from a mountain-bandit tribe of Khanashar and she has the tough, wiry look and grim manner of her people. She does not revel in battle or slaughter, but she kills without compunction or remorse when she has to. Her hatred is reserved for the Emperor of Khanashar and his armies, who annihilated her clan. Saleet keeps the Cloud in top fighting shape so that she can take on Imperial warships when the occasion arises._
@@ -114,11 +158,24 @@ _Tanlon was leader of a band of highway robbers who preyed on merchants along th
 
 ### I) Crossroads (Businesses and Boarding Houses)
 
-**Boarding House:** Amanant's Lodging Rooms (Poor), Proprietor: Amanant Arayati (M, 59, Khemez, priest, LG, Honor, Haughty, Barrel-Chested)
+**Boarding House:** Amanant's Lodging Rooms (Poor), Proprietor: Amanant Arayati (M, 59, Khemez, priest, LN, Honor, Haughty, Barrel-Chested)  
+_Amanant is a priest of Gilgesh, the god of law and justice. He came here to further this cause, but his message has been ill-received. He runs the boarding house to support himself and his few acolytes and only sets up a tent as a shrine on market days. Despite his rather poor estate, he is convinced of the rightness of his cause and despite his advanced years, he is still burly and strong and has been known to knock a few heads together when necessary._
 
-**Boarding House:** Jurgai's Flophouse (Atrocious), Proprietor: Jurgai Gendran (M, 47, Juchen, commoner, CG, Revenge, Cowardly, Shaggy)
+**Boarding House:** Jurgai's Flophouse (Atrocious), Proprietor: Jurgai Gendran (M, 47, Juchen, commoner, CG, Revenge, Cowardly, Shaggy)  
+_Jurgai was a deserter from the Imperial Army of Khanashar who fled to the northeast provinces and worked as a miner. Threatened with discovery, he fled again to Masheer and took to sea. After a short stint as a pirate, which was even less to his liking than being a soldier, he found his way to Tortukal, where he bought an old warehouse and converted it to this deplorable boarding-house. Jurgai still sports the unkempt appearance of a nomad. He is consumed with hatred for the Empire of Khanashar, but can vent this only in petty, secret acts of spite against Juchen from Khanengul and its surrounding provinces._
 
 ### J) The South Docks (Warehouses and Wharves)
+
+The South Docks and their adjoining warehouses have better security and more amenities. The ships that dock here typically carry more high-value cargo. 
+
+Berths at the South Docks are charged at a daily or monthly rate by the size of the ship. The cost includes protection payments to the Racketeers:
+
+|   Size     | Daily | Monthly |
+| ---------- | ----- | ------- |
+| Large      |  5 sp |   11 gp |
+| Huge       |  7 sp |   15 gp |
+| Colossal   |  2 gp |   40 gp |
+| Gargantuan |  5 gp |  112 gp |
 
 **Ship:** The Tides of Chaos (Smuggler Small Galley, Medium), Captain: Diwe Oyambala (F, 31, Kwanshali, pirate captain, CN, Curiosity, Cheerful, Plain)  
 _Diwe is a happy-go-lucky and impetuous woman. With her lean figure and homely features and dressed in sailor's pantaloons, Diwe can easily be mistaken for a man. She loves exploring and few captains can match her knowledge of the coast. Because of this, Diwe has been more successful as a smuggler than as a pirate. Her crew is just as happy for this since the Tides is a rather small ship._
@@ -130,7 +187,8 @@ _Badri was a privateer with letters of the marque from the King Gethzir of Neuna
 
 ### L) Citadel Heights (High-end Businesses and Taverns)
 
-**Brothel:** The Threefold Treasures (Excellent), Proprietor: Qiu Lishao (F, 27, Juchen, cult fanatic, CE, Loyalty, Bitter, Brunette)
+**Brothel:** The Threefold Treasures (Excellent), Proprietor: Qiu Lishao (F, 27, Juchen, cult disciple, CE, Loyalty, Bitter, Brunette)  
+_Lishao is a secret follower of Dakkar, to which worship she is fanatically devoted. Through her position as madame of the best brothel in Tortukal, she has influential contacts, which she uses to conceal the activities of her dark cult when necessary. Lishao was the daughter of a well-placed merchant of Saojung, but ran away from an arranged marriage -- right into the arms of a pirate, who sold her as a slave. Although she found her way to freedom here in Tortukal, the experience left her embittered against men in particular, but really against all humankind._
 
 ### M) Fisherman's Beach
 
@@ -145,12 +203,33 @@ _Exiled from Illshan because of his devotion to a nature religion, Kujiri sailed
 
 The harbor is protected by breakwaters that were built as part of the defenses of the ancient city. The breakwaters are arranged in three rows, each of which is comprised of several sections with gaps between them. Only the innermost row is visible above the surface and the sections mysteriously move over time. A ship that attempts to enter the harbor is likely to run aground on the breakwaters unless it is guided by someone who is intimately familiar with the harbor. Wise captains who know this wait outside the mouth of the harbor until a pilot ship comes out to guide their ship into port.
 
+### Surrounds
+
+Tortukal is bordered on the north by Beacon Ridge, which rises over 100 feet above the harbor. Beyond some plantations cleared here and there just outside the walls and a swamp on the northwest, the country quickly becomes dense jungle. This is the territory of the Tukumeltlapa tribe of the Quetalpa people. Their chief accepts tribute to allow the town to operate unmolested. Boatmen from the town trade game and other staples along the river, but the tribesmen do not suffer intruders on their territory.
+
+The current chief's grandfather, one Ompamatl, made the original treaty allowing Tortukal to be founded among the ruins, which the Tukumeltlapa shunned anyway. Ompamatl's expectation that the outlanders would be soon driven away by ghosts was disappointed, but he kept his pledge anyway. His forbearance, and that of his heirs, has been rewarded with prosperity for his tribe.
+
+**Chieftain:** Xoquima (M, 44, Quetalpa, chieftain, NG, Boredom, Condescending, Unkempt)  
+_Xoquima has ruled as chief for six years. He is corpulent and unkempt, for all his finery of feathers, beads, gold, and jade. He has begun to measure himself unfavorably against the warlike deeds of his ancestors and he feels a sense of unease at how much Tortukal has grown. The feeling that he is not the chief his fathers were leads him to overcompensate and he frequently belittles his subordinates, which is particularly unwise with regards to his two counselors._
+
+**Spirit Counselor:** Quizlixca (M, 43, Quetalpa, master druid, LE, Power, Reflective, Plain)  
+_Outwardly composed and analytical, Quizlixca seethes inwardly with a lust for personal power. He pursues ever greater mastery of the power of nature, not to benefit his tribe, but to dominate others. In secret, he has begun to revive ancient Quetalpa traditions -- rites that invoke dark spirits of nature at the cost of human sacrifice._
+
+**War Counselor:** Tlacatzin (M, 24, Quetalpa, hero, LE, Power, Reverant, Bulging)  
+_Tlacatzin is muscular and pantherish. He is careful to follow the tabus of all the gods and spirits, but he has become contemptious of his chief and wouldn't half mind deposing him._
+
+**Trade Counselor:** Tecke (M, 27, Quetalpa, tribal warrior, LN, Greed, Informed, Curly)  
+_It is possible that Tecke is a half-breed as his skin is darker than is usual with the Quetalpa and his hair is curly. However that may be, he is a shrewd negotiator and his network of informants ensures that he knows everthing that goes on in the tribe and much of what happens in Tortuakal. He exploits his influence to increase his personal wealth._
+
 ## Organizations
 
 ### Merchant's Guild
 
 **Boss:** Xiu Chui-Jiao (M, 57, Rakshasa, fiend, LE, Honor, Condescending, Sunburned)  
 _A powerful, but seldom seen, figure in the town's affairs, Xiu appears as a rugged, handsome Juchen man of mature years. In truth, the leader of the Merchant's Guild is a **rakshasa**. He has a (literally) fiendish plan to suborn the town government to his will. As part of this scheme, he works behind the scenes to overturn Tortukal's "free shore" policy._
+
+**Enforcer:** Tu Djiao-Tsu (M, 61, Juchen, illusionist, N, Friendship, Brave, Wild)  
+_As a young man, Djiao-Tsu was a marketplace trickster in Saojung. He traveled to Tolengul, where he learned the deeper secrets of illusion magic. There Xiu Chui-Jiao recruited him as a henchman. Djiao-Tsu is unaware of Chui-Jao's real nature. The rakshasa is secretly amused that an adept of illusion should himself be duped by a mere glamor, but he is also careful to limit his interactions with his henchmen so they will not see through his guise. For his part, Djiao-Tsu is well-liked among the merchants and is not afraid to confront anyone who acts against their interests. He still spends his free time dabbling with illusion. His disheveled appearance is usually the result of having recently come from some experiment._
 
 ### Racketeer's Syndicate
 
@@ -166,10 +245,12 @@ _Arioush was a once a retainer of a noble family of Neunazar. After their ouster
 _Luo had a long career as a crime boss in Khanengul, but retired to the hinterlands after making too many enemies. However, he still feared assassination and decided that it was better to be in a position where he could have protectors and enforcers. Luo's decades of experience have made him confident to the point of being arrogant, but he still takes precautions in everything he does._
 
 **Enforcer:** Mei She-Su (F, 21, Juchen, master assassin, LE, Curiosity, Bitter, Narrow)  
+_She-Su was an orphan and lived on the streets of Baimin until she was taken into an Assassin's Guild at the age of 11. After a mission gone awry in which she learned just how little her life was worth to her masters, She-Su escaped to Joseong and began a career as a goon for the smugglers. Her experiences have left her deeply cynical and embittered, especially toward men. This seems to show in her very features, which are pinched and narrow. Her slit-eyed, expressionless face never betrays her emotions even when her inquisitive nature has been aroused._
 
 ### Tradesman's Guild
 
 **Guild Master:** Ghamay Burtai (M, 39, Juchen, cult fanatic, LE, Justice, Matter-of-Fact, Olive)  
 _Ghamay was a humble blacksmith among a nomad tribe of the Golden Hills. Wronged by the tribal chieftain and forced to flee his homeland, Ghamay became a devotee of Molor and followed the god's promptings even to this most unlikely location. Here he waits for a sign that the instrument of his revenge is at hand. In the meantime, Ghamay has cornered the local trade in ironmongery and has parleyed his wealth into a position of influence._
 
-**Enforcer:** Kitbo Kurgai (M, 25, Juchen, acolyte, LE, Destiny, Malicious, Shaggy)
+**Enforcer:** Kitbo Kurgai (M, 25, Juchen, acolyte, LE, Destiny, Malicious, Shaggy)  
+_Kitbo was the roughest kind of nomad brigand until a shaman foretold that he would be killed by a horse. To avoid his fate, Kitbo took to the sea, but found it miserable. Landed in Tortukal, Kitbo was drawn to Ghamay, a fellow tribesman, and became his apprentice in both smith-work and religion. Although he pursues an honest trade these days, Kitbo still has the air of menace and unkempt appearance of a badmash of the hills. He is a terror to the apprentices and is persona non grata at most of the brothels in town due to his rough treatment of the girls._
