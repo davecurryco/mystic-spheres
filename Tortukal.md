@@ -99,7 +99,10 @@ _Mufta was the apprentice of a hedge wizard in Pashan until a pact with a prince
 _Su-Hao crafts excellent medium and heavy armor and shields. He also buys and sells used armor, shields, and weapons, including magic varieties. He was a servitor of a deposed duke of Saojung and joined his master in exile, a road that eventually led to Tortukal. Su-Hao has picked up something of a stoop from working long hours over his forge and workbench. He is an influential member of the Tradesman's Guild and is aware of much of what goes on in the town._
 
 **Shipwright:** Janata's Shipbuilders (Good), Proprietor: Janata Apipani (M, 57, Khemez, ship captain, LN, Loyalty, Sincere, Blue-Eyed)  
-_Janata ._
+_Janata's blue eyes proclaim him to be of mixed race and his bearing just as surely proclaims him a master sailor. If he has settled down to build ships, he is no less a captain of men. The workers in his shipyard are his crew now and the Tradesman's Guild is the fleet for which he sails. He is bluff, but he always means what he says and says what he means._
+
+**Animals (Mounts and Pets):** Avikan's Beasts (Excellent), Proprietor: Avikan Kandir (M, 23, Khemez, commoner, NG, Romance, Sincere, Spirited)  
+_Avikan was raised in a Khanashar circus family, the son of an elephant trainer. In Saojung, he was pressed into service aboard a merchant vessel and forcibly enlisted into the crew of a pirate that took her. By great good fortune, he arrived in Tortukal in one piece and has been waiting for an opportunity to ship out aboard a vessel with a trustworthy captain and crew. Needless to say, his wait has been long. In the meantime, has made the best of his situation. He trades with the Quetalpa natives, who capture exotic birds and animals, which he trains and sells. He also deals in animals of more mundane sorts, and keeps a stable of donkeys, which he rents by the day._
 
 ### E) The North Ward (Brothels and Taverns)
 
@@ -163,6 +166,12 @@ _Amanant is a priest of Gilgesh, the god of law and justice. He came here to fur
 
 **Boarding House:** Jurgai's Flophouse (Atrocious), Proprietor: Jurgai Gendran (M, 47, Juchen, commoner, CG, Revenge, Cowardly, Shaggy)  
 _Jurgai was a deserter from the Imperial Army of Khanashar who fled to the northeast provinces and worked as a miner. Threatened with discovery, he fled again to Masheer and took to sea. After a short stint as a pirate, which was even less to his liking than being a soldier, he found his way to Tortukal, where he bought an old warehouse and converted it to this deplorable boarding-house. Jurgai still sports the unkempt appearance of a nomad. He is consumed with hatred for the Empire of Khanashar, but can vent this only in petty, secret acts of spite against Juchen from Khanengul and its surrounding provinces._
+
+**Brewer:** Seafoam Brewery (Medium), Proprietor: Muhtaa Ameed (M, 35, Ahlrain, guard, LN, Honor, Bitter, Average)  
+_Muhtaa was a member of the city guard of Nashal before the revolution cast him adrift. He enlisted as a marine aboard a privateer galley, but his captain turned pirate at the first opportunity. An outlaw by no choice of his own, Muhtaa turned to an honest trade in Tortukal having learned the craft from his father, but he harbors a grudge against pirates in general and his former captain in particular._
+
+**Weapons:** The Shark's Teeth (Medium), Proprietor: Opuaa Kalikai (M, 27, Aili, tribal warrior, LN, Fear, Sarcastic, Smelly)  
+_Opuaa was a thief who ran away to escape justice and joined the Aili pirates. His cowardice earned him the contempt of his shipmates, who marooned him. He was rescued by a stroke of good fortune and brought to Tortukal, but dared not risk putting to sea again. He learned the martial dances of his people and has adapted them to other bladed weapons. He makes great show of this talent to display his wares, but he has no particular skill as a warrior. Opuaa is sharp-tongued and his habit of wearing a charm of smelly herbs as proof against tropical disease makes him as offensive to the nose as he is to the ear._
 
 ### J) The South Docks (Warehouses and Wharves)
 
