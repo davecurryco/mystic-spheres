@@ -149,6 +149,9 @@ Berths at the North Docks are charged at a daily or monthly rate by the size of 
 **Ship:** The Cloud of Vengance (Pirate Galley, Excellent), Captain: Saleet Mahrana (F, 33, Khemez, bandit captain, CN, Revenge, Solemn, Gaunt)  
 _Saleet is from a mountain-bandit tribe of Khanashar and she has the tough, wiry look and grim manner of her people. She does not revel in battle or slaughter, but she kills without compunction or remorse when she has to. Her hatred is reserved for the Emperor of Khanashar and his armies, who annihilated her clan. Saleet keeps the Cloud in top fighting shape so that she can take on Imperial warships when the occasion arises._
 
+_Ship's Mage:_ Abhabhin Vipatra (M, 45, Khemez, archmage, LE, Honor, Bitter, Handsome)   
+_Abhabhin was until recently a court magician proudly in the service of Shan Timuraz the Glorious. Unfortunately, he made enemies of a powerful merchant, a member of the Amel Merjan, who successfully intrigued to have Abhabhin dishonored and banished from court. Enraged and embittered, Abhabhin partnered with Saleet to revenge himself on the empire, and especially on its merchants._
+
 **Ship:** The Twilight Rendevous (Smuggler Sailing Ship, Poor), Captain: Bokalee Ngulu (M, 26, Kwanshali, bandit captain, CN, Power, Malicious, Clean)  
 _Bokalee is a large, powerful man and every inch of him radiates menace. Before he took to the sea, he was head of a slaver gang that ferried captives down the Kalakiri River to the markets in Ashakala. Now, he runs human cargo from Ashakala to Masheer, carrying tea and weapons on the return trip. For all the corruption of his heart, Bokalee is fastidious about his personal appearance, as he feels that good grooming distinguishes a civilized man such as himself from the savages he delivers into bondage. The Rendevous is currently bound for Ashakala and Bokalee has stopped in Tortukal to refit, since his ship is in bad shape from the effects of a storm._
 
@@ -191,6 +194,9 @@ _Diwe is a happy-go-lucky and impetuous woman. With her lean figure and homely f
 
 **Ship:** The Marid's Fury (Pirate Galley, Good), Captain: Badri bal-Kharjii (M, 26, Ahlrain, pirate captain, NE, Glory, Condescending, Ungainly)  
 _Badri was a privateer with letters of the marque from the King Gethzir of Neunazar. These were invalidated when the city-state fell to the Ramad Lethshanar, but Badri never even slowed down. Indeed, he has expanded his reputation since turning pirate. However, Badri's success has gone to his head. He fancies himself to be a dashing figure, although he is actually rather gawkish. Badir affects a black cloak and turban bedecked with black-dyed ostrich plumes, but the impression he makes with most people is that he resembles nothing more than some awkward buzzard._
+
+_Ship's Mage:_ Yan'ad az Wani (M, 27, Ahlrain, conjurer, CN, Destiny, Haughty, Buff)  
+_Yan'ad believes that a predicted alignment of the spheres will allow a mage possessed of an ancient, lost ritual to summon and control a cohort of mighty efreeti. He took service aboard the Fury so as to find a way to the city of Tolengul, where his research indicates that the ritual may be preserved. Although he is of humble birth and his arcane knowledge is as yet only modest, Yan'ad is sufficiently adept that he affects the superior air of the noble class. In truth, he fits the mold of the handsome and vigorous scions of Pashani aristocracy. He is tanned and well-muscled, the result of his years at sea and a Manual of Gainful Exercise that he acquired._
 
 ### K) Moneybag End (Mansions)
 
@@ -263,3 +269,8 @@ _Ghamay was a humble blacksmith among a nomad tribe of the Golden Hills. Wronged
 
 **Enforcer:** Kitbo Kurgai (M, 25, Juchen, acolyte, LE, Destiny, Malicious, Shaggy)  
 _Kitbo was the roughest kind of nomad brigand until a shaman foretold that he would be killed by a horse. To avoid his fate, Kitbo took to the sea, but found it miserable. Landed in Tortukal, Kitbo was drawn to Ghamay, a fellow tribesman, and became his apprentice in both smith-work and religion. Although he pursues an honest trade these days, Kitbo still has the air of menace and unkempt appearance of a badmash of the hills. He is a terror to the apprentices and is persona non grata at most of the brothels in town due to his rough treatment of the girls._
+
+## Adventure Hooks
+
+### A
+
