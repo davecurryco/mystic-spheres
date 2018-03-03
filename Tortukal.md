@@ -272,5 +272,14 @@ _Kitbo was the roughest kind of nomad brigand until a shaman foretold that he wo
 
 ## Adventure Hooks
 
-### A
+### Expedition to the Ruins
 
+Diwe Oyambala, captain of the Tides of Chaos, is interested in exploring the ruins of the ancient city that lie at the mouth of the Opalana River on Ykriz Bay.
+
+### Racist Rubout
+
+Che Shiouli, priestess of The Grotto of Our Lady of the Deeps shrine to Yshma, has a grudge against Ahlrain pirates and seeks to arrange (through intermediaries of course) the assassination of Badri bal-Kharjii, captain of The Marid's Fury.
+
+### Election Interference Collusion
+
+Xiu Chui-Jiao, boss of the Merchant's Guild, would like to see the repeal of the "free shores" policy. His main obstacle to this 
