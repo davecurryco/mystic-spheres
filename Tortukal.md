@@ -16,7 +16,7 @@ The jungle that surrounds the town on three sides teems with native Quetalpa tri
 
 The town of Tortukal is governed by a form of democracy established in the Article of the Town. An Assembly meets once a week at the Great Hall. The electors to the Assembly are divided into three bodies: Captains, Merchants, and Tradesmen -- each with its own criteria for membership. At high noon on Assembly Day, the attendees from each body are counted. The number of delegates to that day's Assembly is fixed at one quarter of the attendance of the smallest representation among the three bodies. Delegates to each body are chosen by lot. A Speaker for the Assembly is elected by the body that had the highest attendance. Everyone else is sent away and the Speaker convenes the Assembly. Matters great and small, except for changes to the town's Articles, are decided by a simple majority vote of the delegates. Delegates are sequestered and are compensated with 2 GP a day from the public treasury and free drinks from all the local taverns once the proceedings conclude.  
 
-Once a year, on Midsummer's Day, the Assembly entertains motions to change the town's charter, which require a two-thirds majority to carry. These seldom pass, but the raucous debate usually leads to an all-night drinking-binge as the points are hashed and rehashed over mugs of ale and bottles of rum.
+Once a year, on New Year's Day, the Assembly entertains motions to change the town's charter, which require a two-thirds majority to carry. These seldom pass, but the raucous debate usually leads to an all-night drinking-binge as the points are hashed and rehashed over mugs of ale and bottles of rum.
 
 A notable feature of the town's Articles is the "free shore" law. It essentially holds that any slave that sets foot on the shore of the town becomes free. The law is overwhelmingly supported by the Tradesmen, particularly the longshoremen, who understand that competition from slaves would decrease the value of their labor. It is overwhelmingly opposed by the Merchants, who would very much like to decrease the value of labor. The Captains are split more or less evenly between those who would like to be see a slave-market in Tortukal, and those who believe that slavery is antithetical to the freedom that is the essential nature of a pirate's life. There are former slaves in each camp -- some who are adamantly opposed to slavery and others who believe that slavery is the natural order of things (so why not profit from it).  
 
@@ -274,12 +274,18 @@ _Kitbo was the roughest kind of nomad brigand until a shaman foretold that he wo
 
 ### Expedition to the Ruins
 
-Diwe Oyambala, captain of the Tides of Chaos, is interested in exploring the ruins of the ancient city that lie at the mouth of the Opalana River on Ykriz Bay.
+Diwe Oyambala, captain of the Tides of Chaos, is interested in exploring the ruins of the ancient city that lie at the mouth of the Opalana River on Ykriz Bay. Little does she ken that sahuagin are using the ruins as a base to raid the river-tribes for pearls and human sacrifices to a dragon turtle, with which they hope to form an alliance.
+
+[Ruins of Lahoor](RuinsOfLahoor.md)
 
 ### Racist Rubout
 
-Che Shiouli, priestess of The Grotto of Our Lady of the Deeps shrine to Yshma, has a grudge against Ahlrain pirates and seeks to arrange (through intermediaries of course) the assassination of Badri bal-Kharjii, captain of The Marid's Fury.
+Che Shiouli, priestess of The Grotto of Our Lady of the Deeps shrine to Yshma, has a grudge against Ahlrain pirates and, acting the part of a prostitute at the Breath of the Lotus brothel, seeks to arrange the assassination of Badri bal-Kharjii, captain of The Marid's Fury.
 
-### Election Interference Collusion
+### Election Interference
 
-Xiu Chui-Jiao, boss of the Merchant's Guild, would like to see the repeal of the "free shores" policy. His main obstacle to this 
+Xiu Chui-Jiao, boss of the Merchant's Guild, would like to see the repeal of the "free shores" policy. He is opposed in this by Ghamay Burtai and the Tradesman's Guild. The ship's captains are the swing vote and they are divided. In the last New Year's election, a motion to amend the town charter to permit slavery got a majority of votes, but failed to achieve a two-thirds majority. Xiu calculates that he need only eliminate a few anti-slavery captains and replace them with pro-slavery captains to make the difference. One of his targets is Diwe Oyambala, captain of the Tides of Chaos.
+
+### A Dangerous Dingus
+
+Aranan Drupchandra, inherited A Thief's Luck Inn from his uncle, along with something even more dangerous. When his uncle's friends, who have called from time to time to check up on him and "the secret", stopped showing up, Aranan because suspicious. Then a recent, frightening event caused him to look for someone trustworthy and world-wise to turn to for counsel.

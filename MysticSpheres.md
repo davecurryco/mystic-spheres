@@ -56,6 +56,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Queen of the Trollfells](QueenOfTheTrollfells.md)
 
+[Ruins of Lahoor](RuinsOfLahoor.md)
+
 [Runaway Tribute](RunawayTribute.md)
 
 [Stonewatch Pass](StonewatchPass.md)
