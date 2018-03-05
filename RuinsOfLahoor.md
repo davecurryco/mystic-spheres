@@ -10,5 +10,5 @@ Lahoor was once a mighty city of the Indhrus civilization. It is now a jungle-ov
 
 ## Exploring the City
 
-_Map:_ [Lahoor Map](LahoorMap.pdf)
+_Map:_ [Lahoor Map](LahoorMap.jpg)
 
