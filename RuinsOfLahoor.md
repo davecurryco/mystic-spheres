@@ -54,7 +54,7 @@ This area is flooded along the banks of the river and its tributary. The buildin
 
 #### G) Temples
 
-This district is entirely above water and overgrown with trees. The buildings, especially the temples, were built with sandstone blocks on a base of laterite.
+This district is above water, although it is laced with small pools and slow-moving creeks. There are also many open areas separated by spaces overgrown with trees. The buildings, especially the temples, were built with sandstone blocks on a base of laterite.
 
 #### H) Tradesmen
 
@@ -100,11 +100,23 @@ This area is overgrown by thick, almost impassable jungle. The buildings here we
 
 #### 2) University
 
-The rectangular roofs of several sandstone buildings are visible above the river water.  
+The rectangular roofs of several sandstone buildings are visible above the river water. These were part of the university that once educated the city's bureaucrats and scribes. One of the central edifices was once the university's library -- a one-story building with a high roof set solidly on an eight foot high base. An eddy in the current caused by the walls of adjoining buildings upstream keeps the water flowing through the library free of silt. The clarity of the water, the stone bars covering its windows, and a cellar with a single entrance recommended the library to the sahuagin as a headquarters and a secure place to store their treasure.
+
+Twenty-four **sahuagin** patrol the grounds of the university, in groups of 2d6 warriors each. In addition, a **sahuagin baron** and his bodyguard of six **sahuagin knights** occupy the library.
+
+_Treasure:_ 900 cp, 5000 sp, 900 gp, 120 pp, 18 x Pearl (100 gp), 2 x Black Pearl (250 gp) Potion of Growth (uncommon, dmg 187), 2 x Potion of Water Breathing (uncommon, dmg 188)
 
 #### 3) Temple of the Old God
 
+The materials, construction, and architecture of this building are unlike anything else in the city. It is built with large blocks of greenish stone set without mortar so precisely that it is impossible to force even a knife-blade between them, despite their obvious antiquity. Some portions of the stone are covered with carvings of unsettlingly alien creatures depicted in acts that may be interpreted as homage to beings that look like a cross between a lamprey and a squid.
+
+A **sahuagin priestess**, six **sahaugin acolytes**, and twelve **sahugin** guards are at the site on a sort of archeological expedition. The priestess is aware of the situation with the dragon turtle, which is not common knowledge among the sahuagin.
+
 #### 4) Temple of the Snake God
+
+_Map:_ [Temple of the Snake God Map](LahoorSnakeTempleMap.jpg)
+
+Ruins of a temple to Sithryss. A coiled-serpent motif predominates the surviving ornamentation carved into the sandstone that forms the main temple.
 
 #### 5) Ampitheater
 
