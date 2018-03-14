@@ -6,7 +6,7 @@
 
 ## Ethnography
 
-_Quetalpa_ barbarians dwell in the jungles along the coast and Opalana River valley. The great majority of the city-dwellers in Tolengul are Quetalpa as well, but they are infiltrated by Yuan-ti who can pass for human.
+_Quetalpa_ barbarians dwell in the jungles along the coast and Opalana River valley. The nobles of Tolengul are the last remnant of the Indhrus, but they are infiltrated by Yuan-ti who can pass for human.
 
 ## Population Centers
 

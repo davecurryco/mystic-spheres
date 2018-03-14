@@ -1,6 +1,6 @@
 # Humans
 
-## Divisions of Humankind
+## Human Subraces
 
 ### Alhrain
 
@@ -28,9 +28,15 @@ Animism and profligate polytheism have marked Kwanshali culture. Even at their m
 
 ### Quetalpa
 
-The _Quetalpa_ have mahogany skin, straight black hair, prominent cheekbones, and aquiline noses. The tribal people are typically lean and short of stature and their women rapidly become uncomely as they age. The population of Tolengul, however, is descended from noble stock. They are taller and better-fed than their former subjects. The men of Tolengul are muscular and the women lush of hip, although small of bust.
+The _Quetalpa_ have mahogany skin, straight black hair, prominent cheekbones, and aquiline noses. The tribal people are typically lean and short of stature and their women rapidly become uncomely as they age.
 
 Whether in the city or the jungle, the Quetalpa have an unfortunate penchant for internecene warfare, which has stunted their civilization. Many Quetalpa kingdoms have ascended to dominate their neighbors, only to collapse due to internal struggles.
+
+### Indhrus
+
+The _Indrus_ once ruled over all of Ophar, but their advanced civilization crumbled a few centuries before the rise of the Azruun Empire. Today, a remnant of their race holds power in Tolengul, where they can be distinguished from their Quetalpa slaves by their lighter skin, taller stature, and finer features. The men of Tolengul are muscular and the women lush of hip, although small of bust.
+
+The remaining Indrus are inbred and have an unfortunate tendency to ennui and madness. However, many of the Indrus bloodlines carry arcane talent. Magic users, particularly sorcerers, are more common among them than any other population of humankind. Deadly rivalries among the noble families of Tolengul, exacerbated by the insidious influence of Yuan-ti infiltrators, have prevented the resurgence of Indrus civilization.
 
 ### Telenar
 
