@@ -84,7 +84,11 @@ The stone shorings along the bank of the river in this area were undermined by t
 
 #### N) Citadel
 
+_Map:_ Dodecahedron 2016 pg. 21 - Cinolth Citadel
+
 The Citadel occupies a bluff that rises 50 feet above the level of the river. The outer walls were strongly-built of large sandstone blocks facing a core of rubble bound with cement. The fortress was likewise built with blocks of sandstone with stone towers at the corners. The ground is drier here than anywhere else in the city and only a few small trees and bushes grow up among the stone-flagged streets.
+
+A flock of four **vulture harpies** and their **vulture harpy spellcaster** leader inhabit the citadel, nesting in ruined towers. They are in league with the beholder.
 
 #### O) Military
 
@@ -108,6 +112,8 @@ _Treasure:_ 900 cp, 5000 sp, 900 gp, 120 pp, 18 x Pearl (100 gp), 2 x Black Pear
 
 #### 3) Temple of the Old God
 
+_Map:_ Dodecahedron 2015 pg. 23-24 - The Asymmetric Temple
+
 The materials, construction, and architecture of this building are unlike anything else in the city. It is built with large blocks of greenish stone set without mortar so precisely that it is impossible to force even a knife-blade between them, despite their obvious antiquity. Some portions of the stone are covered with carvings of unsettlingly alien creatures depicted in acts that may be interpreted as homage to beings that look like a cross between a lamprey and a squid.
 
 A **sahuagin priestess**, six **sahaugin acolytes**, and twelve **sahugin** guards are at the site on a sort of archeological expedition. The priestess is aware of the situation with the dragon turtle, which is not common knowledge among the sahuagin.
@@ -123,6 +129,12 @@ Ruins of a temple to Sithryss. A coiled-serpent motif predominates the surviving
 #### 6) Great Bridge
 
 #### 7) Tower of the Sorcerer
+
+_Map:_ [Sorcerer's Tower Map](LahoorSorcerersTowerMap.jpg)
+
+This tower is the lair of a **beholder** named Nytharlax, a rather sorry specimen of its species who withdrew here out of fear of a conspiracy of its enemies. At a distance, Nytharlax's skinny, pale brown body and long, segmented eyestalks suggests a flying spider. Up close, its large, yellow central eye with its slitted iris and needle-like teeth give it a snakish look. As repulsive as its looks are, the beholder's personality is even more uncomfortable. It is uncommonly paranoid, even for its kind, and it speaks with an air of persecution and depression.
+
+Nytharlax has cowed the vulture harpies into serving as its watchdogs. It is aware of the sahuagin and suspects that they were sent here by its enemies. It has not yet decided what to do about them, but has instructed the vulture harpies to keep it informed of their movements.  
 
 #### 8) Palace
 
