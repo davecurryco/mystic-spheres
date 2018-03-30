@@ -4,7 +4,7 @@ _Huge plant, unaligned_
 
 ---
 
-**Armor Clas**s 17 (natural armor)  
+**Armor Class** 17 (natural armor)  
 **Hit Points** 168 (16d12 + 64)  
 **Speed** 20 ft., swim 20 ft.  
 

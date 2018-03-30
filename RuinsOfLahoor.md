@@ -115,7 +115,7 @@ _Treasure:_ 900 cp, 5000 sp, 900 gp, 120 pp, 18 x Pearl (100 gp), 2 x Black Pear
 _Map:_ [Temple of the Old Ones Map - Levels 1 & 4](LahoorTempleOfTheOldOnesMap_1.pdf)  
 _Map:_ [Temple of the Old Ones Map - Levels 2 & 3](LahoorTempleOfTheOldOnesMap_2.pdf)
 
-The materials, construction, and architecture of this building are unlike anything else in the city. It is built with large blocks of greenish stone set without mortar so precisely that it is impossible to force even a knife-blade between them, despite their obvious antiquity. 
+The materials, construction, and architecture of this building are unlike anything else in the city. It is built with large blocks of greenish stone set without mortar so precisely that it is impossible to force even a knife-blade between them, despite their obvious antiquity. The interior walls are of the same construction. The halls and chambers are windowless and unlit, without any provision for lamps, cressets, or even torch-holders. Except in the larger chambers, there are no arches and even those are reticulated. Although the architecture features rectangular shapes, the angles are seldom square. Instead, the architects seem to have favored tricks with perspective to prompt a sense of awe and unease -- heightened by the stifling atmosphere and sense of incredible ancientness.
 
 A **sahuagin priestess**, six **sahaugin acolytes**, and twelve **sahugin** guards are at the site on a sort of archeological expedition. The priestess is aware of the situation with the dragon turtle, which is not common knowledge among the sahuagin.  
 
@@ -123,7 +123,7 @@ A number of magical effects in the temple can inflict short-term or long-term ma
 
 ##### 1A) Entry Portico
 
-The stone above the entryway is decorated with a bas-relief frieze depicting unsettlingly alien humanoids engaged in acts that may be interpreted as homage to a central group of much larger figures that look like a cross between a lamprey and a squid. The capitals of the two columns are sculpted as the heads of three squid-like creatures whose tentacles snake down the pillars to a base carved in the form of humans crushed and writhing beneath an oppressive load.
+The stone above the entryway is decorated with a weathered bas-relief frieze. It depicts a group of unsettlingly alien humanoids engaged in acts that may be interpreted as homage to a central group of much larger figures that look like a cross between a lamprey and a squid. The capitals of the two columns are sculpted as the heads of three squid-like creatures whose tentacles snake down the pillars to a base carved in the form of humans crushed and writhing beneath an oppressive load.
 
 ##### 1B) Entry Hall
 
@@ -225,7 +225,36 @@ There are ten doorways in the walls of the chamber, only three of which are occu
 
 **Door 9:** Portal to Minarous. A feotid stench pervades the area of the doorway as soon as the door is opened. The doorway looks out over a vast, stinking bog under a brown sky that drizzles an acid rain that collects in oily pools and drains away in rivulets between the blasted stumps of once-mighty trees. Across a yawning chasm at the top of a cliff of sharp-edged flint is a giant-sized citadel with walls of weathered, rust-red stone.
 
-**Door 10:** This door opens on a blank wall, the surface of which looks as though it had been melted.
+**Door 10:** This door opens on a blank wall, the stones of which are cracked and blasted. This is actually an illusion placed on the entranceway to the Catacombs.
+
+##### 2D) The Catacombs
+
+The west wall of this low-ceilinged, wide hallway is honeycombed with crypts, each of which is sealed by a serpentinite marker carved with strange designs and characters of an unknown script. A character that uses _Comprehend Languages_ or similar magic to understand the writings must make a DC 16 Wisdom saving throw. On a failure, the creature is afflicted with a short-term madness due to the blasphemous names carved on the markers.
+
+Most of the crypts hold the mummified remains of a cultist or cult leader -- some of which were interred with wealth. Each crypt takes 1d3 minutes to open with a successful DC 12 skill check with thieves' tools. Undead have Individual Treasure according to their CR, while mummified corpses have Individual Treasure of CR 2d4 (roll again for results indicating treasure in cp). Traps are Wisdom(Perception) DC 15 to find and Intelligence(Investigation) DC 15 to disable.
+
+| d20 Roll | Crypt Contents                                                                                      |  
+| -------- | --------------------------------------------------------------------------------------------------- |
+| 1-2      | Empty                                                                                               |  
+| 3-16     | Mummified corpse. Roll d20: 1-10 Human; 11-15 Crocodilian; 16-18 Yuan-ti; 19-20 Humanoid aberration |  
+| 17-20    | Undead. Roll d20: 1-10 Mummy; 11-15 Wight; 16-18 Ghost; 19-20 Spawn of Kyuss                        |
+
+| d20 Roll | Trap |
+| -------- | ---- |
+| 1-6      | None |
+| 7-9      | Setback: Teleporter: Affects each creature which touches the trigger, CHA DC 12 save or be teleported to another location |   
+| 10-12    | Setback: Rune of Fear: Affects each creature in 15 ft., WIS DC 12 save or become frightened for 1d4 rounds and short-term madness | 
+| 13-14    | Dangerous: Falling Block: Affects all targets within a random 10 ft. square area, DEX DC 12 save or take 4d10 bludgeoning damage |
+| 15-16    | Dangerous: Greater Acid Spray: Affects all targets within a 20 ft. cone, DEX DC 16 save or take 2d10 acid damage for 1d4 rounds |
+| 17-18    | Deadly: Crystal Spray: Affects all targets within a 20 ft. cone, DEX DC 16 save or take 10d10 piercing and necrotic damage |
+| 19       | Weird: Face-Hugger Spore: Affects a creature within 5 ft., DEX DC 18 save or grappled (STR 18 escape), CON DC 16 or 1d6 choking damage each round, 1d4 hours later CON DC 18 or confused, 1d8 hours later CON DC 20 or indefinite madness |
+| 20       | Weird: Tentacle of Doom: Affects a creature within 15 ft., DEX DC 18 save or 4d10 bludgeoning and grappled (STR 18 escape), escape in 1 round or banished 2d6 rounds and return with short term madness |
+
+##### 2E) Crypt of the Keeper
+
+The door to the crypt seems to have been cast in one piece from a strange, purplish metal. It fits tightly into its stone frame and has no pulls, handles, or locks. The door is decorated in bas-relief in the semblance of a nightmarish monstrosity -- a squamous mass flanked by tentacles and clusters of eyes and split by a gaping mouth from which protrude long, daggerlike, interlocking teeth. A successful DC 20 Wisdom(Perception) check by a character inspecting the door within 5 feet of it will reveal that teeth are caked with dark stains.
+
+The door is a magical construct, a **guardian portal**. If a creature touches the door, it will animate and attack.
 
 #### 4) Temple of the Snake God
 

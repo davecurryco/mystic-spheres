@@ -63,7 +63,7 @@
 ### D&D
 
 [Open 5e SRD](https://open5e.com/index.html) | [D&D 5th Edition Compendium (Roll 20)](https://roll20.net/compendium/dnd5e/BookIndex) | [D&D 5th Edition Players Handbook](http://blog.onslow-web.co.uk/5e/)  
-[Tools for 5e D&D](http://slyflourish.com/tools_for_5e.html) | [donjon D&D 5e Tools](http://donjon.bin.sh/5e/)  
+[Tools for 5e D&D](http://slyflourish.com/tools_for_5e.html) | [donjon D&D 5e Tools](http://donjon.bin.sh/5e/) | [Traps Masterpost](https://arazireader.tumblr.com/post/169662906882/traps-masterpost)    
 [Dyson's Dodecahedron Blog](https://rpgcharacters.wordpress.com/) | [RPG Virtual Tabletop](http://rpgvirtualtabletop.wikidot.com/maps) | [Dundjinni Mapping Software - Forums](http://dundjinni.com/forums/)  
 [Medieval Demographics Made Easy](http://www222.pair.com/sjohn/blueroom/demog.htm) | [Hexographer Map Creation Software](http://www.hexographer.com/) | [D&D Official Homepage](http://dnd.wizards.com)  
 [Fantastic Maps](http://www.fantasticmaps.com/) | [Roll20](http://roll20.net/) | [Obsidian Portal](http://www.obsidianportal.com/)  

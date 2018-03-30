@@ -144,6 +144,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Greater Lamia](GreaterLamia.md)
 
+[Guardian Portal](GuardianPortal.md)
+
 [Hags](Hags.md)
 
 [Iron Hellhound](IronHellhound.md)
