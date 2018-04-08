@@ -1,6 +1,6 @@
 # Ethereal Tunnel
 
-_8th-level conjuratio_n
+_8th-level conjuration_
 
 **Casting time:** 1 action  
 **Range:** 60 feet  

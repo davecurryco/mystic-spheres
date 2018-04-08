@@ -199,7 +199,7 @@ This wide hallway slopes down past three portals on the left and one on the righ
 
 ##### 2B) The Great Vestibule
 
-The ceiling of this large chamber is barely 10 feet high. The west wall features a mural that depicts a nightmarishly alien city that, strangely, appears devoid of inhabitants. The north and south walls are covered by massive curtains of black silk woven in an intricate, but irregular, texture. The posts between the portals on the east wall are carved in the shape of plants, or perhaps creatures, with winding tendrils that end in saw-toothed leaflets and bulbous pods, obscenely dehiscent. 
+The ceiling of this large chamber is barely 10 feet high. The north and south walls are covered by massive curtains of black silk woven in an intricate, but irregular, texture. The posts between the portals on the east wall are carved in the shape of plants, or perhaps creatures, with winding tendrils that end in saw-toothed leaflets and bulbous pods, obscenely dehiscent. 
 
 ##### 2C) The Assembly Chamber
 
@@ -248,13 +248,95 @@ Most of the crypts hold the mummified remains of a cultist or cult leader -- som
 | 15-16    | Dangerous: Greater Acid Spray: Affects all targets within a 20 ft. cone, DEX DC 16 save or take 2d10 acid damage for 1d4 rounds |
 | 17-18    | Deadly: Crystal Spray: Affects all targets within a 20 ft. cone, DEX DC 16 save or take 10d10 piercing and necrotic damage |
 | 19       | Weird: Face-Hugger Spore: Affects a creature within 5 ft., DEX DC 18 save or grappled (STR 18 escape), CON DC 16 or 1d6 choking damage each round, 1d4 hours later CON DC 18 or confused, 1d8 hours later CON DC 20 or indefinite madness |
-| 20       | Weird: Tentacle of Doom: Affects a creature within 15 ft., DEX DC 18 save or 4d10 bludgeoning and grappled (STR 18 escape), escape in 1 round or banished 2d6 rounds and return with short term madness |
+| 20       | Weird: Beacon of the Beyond: Affects a creature within 20 ft., CHA DC 18 save or 4d6 psychic and charmed (CHA 18 break), break in 1 round or banished 2d6 rounds and return with short term madness |
 
 ##### 2E) Crypt of the Keeper
 
 The door to the crypt seems to have been cast in one piece from a strange, purplish metal. It fits tightly into its stone frame and has no pulls, handles, or locks. The door is decorated in bas-relief in the semblance of a nightmarish monstrosity -- a squamous mass flanked by tentacles and clusters of eyes and split by a gaping mouth from which protrude long, daggerlike, interlocking teeth. A successful DC 20 Wisdom(Perception) check by a character inspecting the door within 5 feet of it will reveal that teeth are caked with dark stains.
 
 The door is a magical construct, a **guardian portal**. If a creature touches the door, it will animate and attack.
+
+Beyond the door is a small, richly decorated antechamber. Everything is pristine, as though it were newly-made. The floors are black marble and the ceiling is covered in ceramic tiles glazed with lapis lazuli. Slender, gilded columns of cedarwood stand in each corner, supporting architraves of the same material. The walls are covered in frescoes depicting bizarre hyrids of human and crocodile or human and snake in acts of homage to larger creatures who are themselves hybrids with heads like birds of prey, black-skinned human torsos and arms, snakelike lower bodies, and black-feathered wings.
+
+In the center of the chamber is a obelisk-like pedestal of alabaster four feet high carved on all four sides with an inscription in a bizarre, flowing script. The script is written in an extinct language, but _comprehend languages_ or similar magic will reveal that it reads:
+
+_May that which is hidden stay concealed and they who are asleep, may they wake not. In the name of Yaggoth and of Geb-Asar and of Nyalzarid of the Void may these things be until the end of days._ 
+
+The peak of the obelisk is flat and is covered by a hollow crystal pyramid, beneath which is a fist-sized lump of rock, black and pitted, but glittering with flecks of greenish-silver metal. The crystal cover is not trapped and can be easily lifted from the pedistal. The rock does not radiate magic, but it is far heavier (20 lbs.) than its size would suggest. This is because it is actually a meteorite containing _abditumite_, an extra-terrestrial metal. A character that uses _detect magic_, _identify_ or similar divination magic on the rock must make a DC 18 Charisma saving throw or be stunned for 1d4 rounds as the magic reverberates on itself in a sort of feedback squawk. A creature that carries or wears the rock cannot be targeted by _scry_ or similar divination magic. The pedestal and cover serve as a sort of amplifier for this effect, extending the protection from divination magic to a radius of 20 feet.
+
+An archway in the southwest corner of the antechamber leads to the crypt. It has no door, but a thick curtain of green brocade with gold thread blocks the view. On the lintel of the archway is an inscription in the same script as found on the pedestal. It reads:
+
+_In the name of Phrazon of the Dusk and of Ry'pnoth the Ancient, may the Crawling Curse be upon he who violates the Crypt of the Keeper._ 
+
+Inside the green outer curtain hangs a veil that appears to be made of translucent shot silk in pale blue and green. The veil shimmers with its own pale light and its colors shift in an unsettling way. A successful DC 13 Wisdom(Perception) check reveals that the veil is not actually fabric, but some kind of supernatural effect. It is, in fact, a permanent _chthonic veil_ (DC 16; colors: blue, purple, orange).
+
+The crypt is furnished in even more splendor than the antechamber. Most of the frescoes depict more of the hybrid crocodile creatures engaged in arcane pursuits, but on the North wall, two of the hybrid bird creatures, a male and a female, stand on either side of a portal, from which black rays emerge.
+
+In the center of the crypt is a serpentinite dais decorated with inlay of gold and enamel on which a rests a translucent crystal sarcophagus. The figure within can be vaguely discerned when the sarcophagus is lit from behind. It is human in form, but has a flat head with a long snout. This is the Keeper, a Speaker to the Old Ones, who was entombed here as a **chthonic mummy** to await the proper alignment of the spheres to call them back from the Void Between the Stars. He's perfectly capable of defending himself in the meantime however. The rending of the _chthonic veil_ or any other desecration of the Crypt or its antechamber will bring the Keeper's spirit back from the Astral Plane, where it wanders. On the next round, the Keeper will attack, using its Horror Aura to get some space or _gaseous form_ (a bonus action) to exit the sarcophagus, which has vent-holes for just this purpose. 
+
+_Treasure:_ copper bowl (6 gp), enameled gold collar (1,000 gp), enameled gold crocodile mask (2,300 gp), gold inlaid ivory rod (900 gp), Amber (100 gp), 4 x Chrysoberyl (100 gp), 3 x Coral (100 gp), 3 x Garnet (100 gp), Jade (100 gp), 2 x Pearl (100 gp), 2 x Spinel (100 gp), Tourmaline (100 gp), Potion of Resistance (poison) (uncommon, dmg 188)
+
+_Tome:_ The Chthonic Apocrypha of Zuri the Seer: _This folio is comprised of writings in an unknown script incised on thin sheets of platinum bound by platinum wire in cover of a strange, thick, greenish-brown leather covered in bumps and warts with platinum fittings. An individual who reads this tome, which requires 48 hours over a minimum of 6 days, gains a +3 bonus on Intelligence(Arcana) checks to identify aberrations. A humanoid creature other than an elf who reads this book must make a DC 16 Charisma saving throw for each 12 hours of reading or be afflicted with a short-term madness. If the save fails by 5 or more, the madness is long-term instead. Creatures that suffer from such a madness have disadvantage on saving throws against psychic attacks made by abberations._
+
+##### 2F) Chamber of Murals
+
+This room features a several murals. The colors are faded and the paint has flaked off in patches, but the artwork is still plainly discernable.
+
+The mural on the diagonal wall depicts a bizarre city on a bluff overlooking a raging sea under a moonlight sky. Strangely, the city appears devoid of inhabitants.
+
+Another large mural spans the north and east walls. Along the bottom, it depicts creatures with crocodilian heads and humanoid bodies engaged in everday activities such as weaving baskets, making bark cloth, and fishing from reed boats. A second band with a different background portrays the same creatures pursuing more elevated arts such as writing, carving monuments, and dancing. A third band, near the top, depicts more elaborately dressed crocodilians offering bloody sacrifices of unknown provinence at an ornate well-head, beneath which are depicted deep caverns and dark pools populated by worm-like beings with many tentacles and eyes.
+
+##### 2G) Chamber of Guardians
+
+In this room, two statues of black stone occupy thrones of polished serpentinite along the north wall. The larger-than-life statues, which face south, are carved in the form of creatures with crocodilian heads and human bodies, one male and the other female. The carved figures wear elaborate headdresses and collars. The male wears a kilt and holds a curved sword and the female wears a close-fitting dress and holds a mirror. Although the work is not anatomically precise, both statues convey an attitude of watchfulness and forbiddance.
+
+A creature that starts its turn in the room beneath the imperious gaze of the statues must make a DC 16 Charisma saving throw. On a failed save, the target is overwhelmed with awe and feelings of insignificance for 1 minute. During this time, it can't attack or target any creature with harmful abilities, spells, or other magical effects. This used to be much more effective in the old days when this effect was coupled with the attack of a dozen or so guards.
+
+##### 2H) Gate Chamber
+
+Three of the walls of this chamber are hung with a single floor-to-ceiling curtain of faded red silk with gold fringe. The material is so deteriorated that it can easily be ripped down from the patinated brass rings that secure it to a rail of the same metal fastened to the wall. This curtain conceals a locked (DC 16) bronze door that opens onto the stairway. The curtain also deadens echoes in the room.
+
+In a large alcove in the north wall, a corbeled archway carved with a motif of twisted tentacles interlaced around skulls human and not-so-human opens onto a blank wall. Seven large, white gemstones are set in the keystone of the arch in a rather irregular patten. There is an empty socket near the center of the group that would hold another such gem the size of a woman's fist. A successful DC 18 Intelligence(Arcana) check will reveal that the gems are arranged in the same pattern as the stars of the constellation _Sencherb_, the Watcher.
+
+_Treasure:_ 7 x large Quartz (250 gp)
+
+##### 2I) Corridor of Pain
+
+This entire corridor is a trap designed to slay intruders.
+
+######Path of Flails
+
+_Complex trap (level 5-10, dangerous threat)_
+
+This 35 foot long corridor has a floor of multi-colored stone tiles in bizarre shapes and patterns. Its barrel-vaulted ceiling 10 feet high and is divided down its length by a curtain of bronze chains that runs down the length of the corridor 5 feet above the floor. The chains hang from crossbars spaced at intervals of six inches along a thick bronze rod that traverses the length of the corridor. These chains are weighted at the free end. The rod is supported at each end by an octagonal pillar of bronze and at intervals of 5 feet by pylons that descend from the ceiling. The passageways on the east and west end of the corridor are framed in bronze as well.
+
+**Trigger.** The trap is triggered by means of scores of pressure plates concealed among the floor tiles in the center 15 feet of the corridor. It activates as soon as more than 10 pounds of pressure is applied to any of these plates. A humanoid creature is 25% likely to trigger one of the plates for each 5-foot section it walks over.
+
+**Initiative.** The trap acts on initiatives 20 and 10.
+
+**Active Elements.** When the trap is triggered, a hidden portcullis drops down into the door frames at either end of the corridor, each of which reveals a rune of fear above the dooway. Simultaneously, gears concealed in the pillars revolve the bronze rod rapidly. The crossbars spin with this axle like the spokes of a wheel, causing the chains to whip out under centrifugal force.    
+
+_Portcullis._ (Initiative 20). Each portcullis drops vertically from a slot in the doorframe, blocking its doorway. This same action reveals a _rune of fear_ above the portcullis. 
+
+_Whirling Chains._ (Initiative 20). The chains attack each creature in the corridor, with a +8 bonus to the attack roll and dealing 11 (2d10) bludgeoning damage on a hit.
+
+_Rune of Fear._ (Initiative 10). Each creature within 15 feet of a rune must make a DC 15 Wisdom saving throw. On a failed saving throw, the creature is frightened of the rune, and the creature must immediately use its reaction to move its speed away from the rune. The frightened creature can’t move closer to the end of the hallway where the rune is until it uses an action to succeed on a DC 15 Wisdom saving throw, which ends the frightened condition on itself.
+
+**Dynamic Elements.**
+
+_Chains Miss_ The chains move with increasing speed, slowing only when they hit a target. Each time the chains miss all attacks in a round, increase their damage by 5 (1d10) and their attack bonus by +2. These benefits last until the chains hit a target.
+
+**Constant Elements.** After the first round, the whirling chains and the rune of fear affect creatures that end their turns in the elements’ areas. The whirling chains only stay active for 10 rounds, but the runes are permanent.
+
+**Countermeasures.**  There are 5 pressure plates in each 5-foot square section of the trigger area. A DC 20 Wisdom (Perception) check made within 5 feet of a section of the trigger area reveals a pressure plate. A subsequent DC 20 Wisdom (Perception) check on the same area reveals that there are multiple pressure plates. A DC 20 Dexterity check made with thieves’ tools disables a pressure plate, but a check result of 5 or less triggers the trap. Each pressure plate disabled reduces the risk of triggering the trap in that section by 5%.
+
+Each of the trap’s active elements also offers potential countermeasures.
+
+_Portcullis._ A DC 18 Wisdom (Perception) check reveals the hidden portcullis. A DC 16 Dexterity check made with thieves’ tools disables it, but a check result of 5 or less triggers the trap.
+
+_Whirling Blades._ Characters can destroy or jam the chains or crossbars, or damage the axle rod. The simple expedient of securing the free end of each chain to the crossbar near the axle will provide a 2 1/2 foot path along each wall free of danger. A character can make a DC 14 Dexterity check to throw himself prone along the wall and crawl the length of the corridor without suffering any attacks. 
+
+_Rune of Fear._ A rune can be effaced from the wall by dealing it 10 points of damage. A character who attempts this while within 5 feet of the rune makes saving throws against the rune's effects at disadvantage. Alternatively, the rune can be disabled with three successful castings of _dispel magic_ (DC 13) targeting the rune.
 
 #### 4) Temple of the Snake God
 

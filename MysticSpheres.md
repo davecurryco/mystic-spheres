@@ -114,6 +114,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Chain of Binding](ChainOfBinding.md)
 
+[Chthonic Mummy](ChthonicMummy.md)
+
 [Cyanosphinx](Cyanosphinx.md)
 
 [Devil, Flamethorn](DevilFlamethorn.md)
