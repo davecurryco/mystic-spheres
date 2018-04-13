@@ -270,6 +270,10 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Zone of Deception](ZoneOfDeception.md)
 
+## Traps
+
+[Path of Flails](PathOfFlails.md)
+
 ## Treasure
 
 [Artifacts](Artifacts.md)

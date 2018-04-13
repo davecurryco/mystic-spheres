@@ -229,9 +229,9 @@ There are ten doorways in the walls of the chamber, only three of which are occu
 
 ##### 2D) The Catacombs
 
-The west wall of this low-ceilinged, wide hallway is honeycombed with crypts, each of which is sealed by a serpentinite marker carved with strange designs and characters of an unknown script. A character that uses _Comprehend Languages_ or similar magic to understand the writings must make a DC 16 Wisdom saving throw. On a failure, the creature is afflicted with a short-term madness due to the blasphemous names carved on the markers.
+The west wall of this low-ceilinged, wide hallway is honeycombed with 24 crypts, each of which is sealed by a serpentinite marker carved with strange designs and characters of an unknown script. A character that uses _Comprehend Languages_ or similar magic to understand the writings must make a DC 16 Wisdom saving throw. On a failure, the creature is afflicted with a short-term madness due to the blasphemous names carved on the markers.
 
-Most of the crypts hold the mummified remains of a cultist or cult leader -- some of which were interred with wealth. Each crypt takes 1d3 minutes to open with a successful DC 12 skill check with thieves' tools. Undead have Individual Treasure according to their CR, while mummified corpses have Individual Treasure of CR 2d4 (roll again for results indicating treasure in cp). Traps are Wisdom(Perception) DC 15 to find and Intelligence(Investigation) DC 15 to disable.
+Most of the crypts hold the mummified remains of a cultist or cult leader -- some of which were interred with wealth. Each crypt takes 1d3 minutes to open with a successful DC 12 skill check with thieves' tools. Undead have Individual Treasure according to their CR, while mummified corpses have Individual Treasure of CR 2d4 (roll again for results where the treasure is in cp). Traps are Wisdom(Perception) DC 15 to find and Intelligence(Investigation) DC 15 to disable.
 
 | d20 Roll | Crypt Contents                                                                                      |  
 | -------- | --------------------------------------------------------------------------------------------------- |
@@ -239,8 +239,8 @@ Most of the crypts hold the mummified remains of a cultist or cult leader -- som
 | 3-16     | Mummified corpse. Roll d20: 1-10 Human; 11-15 Crocodilian; 16-18 Yuan-ti; 19-20 Humanoid aberration |  
 | 17-20    | Undead. Roll d20: 1-10 Mummy; 11-15 Wight; 16-18 Ghost; 19-20 Spawn of Kyuss                        |
 
-| d20 Roll | Trap |
-| -------- | ---- |
+| d20 Roll | Trap                                                                                                |
+| -------- | --------------------------------------------------------------------------------------------------- |
 | 1-6      | None |
 | 7-9      | Setback: Teleporter: Affects each creature which touches the trigger, CHA DC 12 save or be teleported to another location |   
 | 10-12    | Setback: Rune of Fear: Affects each creature in 15 ft., WIS DC 12 save or become frightened for 1d4 rounds and short-term madness | 
@@ -296,47 +296,43 @@ A creature that starts its turn in the room beneath the imperious gaze of the st
 
 Three of the walls of this chamber are hung with a single floor-to-ceiling curtain of faded red silk with gold fringe. The material is so deteriorated that it can easily be ripped down from the patinated brass rings that secure it to a rail of the same metal fastened to the wall. This curtain conceals a locked (DC 16) bronze door that opens onto the stairway. The curtain also deadens echoes in the room.
 
-In a large alcove in the north wall, a corbeled archway carved with a motif of twisted tentacles interlaced around skulls human and not-so-human opens onto a blank wall. Seven large, white gemstones are set in the keystone of the arch in a rather irregular patten. There is an empty socket near the center of the group that would hold another such gem the size of a woman's fist. A successful DC 18 Intelligence(Arcana) check will reveal that the gems are arranged in the same pattern as the stars of the constellation _Sencherb_, the Watcher.
+In a large alcove in the north wall, a corbeled archway carved with a motif of twisted tentacles interlaced around skulls human and not-so-human opens onto a blank wall. Seven large, white gemstones are set in the keystone of the arch in a rather irregular patten. There is an empty socket near the center of the group that would hold another such gem the size of a woman's fist. A successful DC 18 Intelligence(Arcana) check will reveal that the gems are arranged in the same pattern as the stars of the constellation known in Khanashar as _Sencherb_, The Watcher.
 
 _Treasure:_ 7 x large Quartz (250 gp)
 
 ##### 2I) Corridor of Pain
 
-This entire corridor is a trap designed to slay intruders.
+This entire corridor is a [Path of Flails](PathOfFlails.md) trap designed to slay intruders.
 
-######Path of Flails
+##### 2J) Ritual chamber
 
-_Complex trap (level 5-10, dangerous threat)_
+This room was once used for rituals, including mummification. It is empty now except for a stone table at the center of the west wall and some broken ceramic urns in the southeast corner that once held natron, bitmen, and other chemicals used in mummification.
 
-This 35 foot long corridor has a floor of multi-colored stone tiles in bizarre shapes and patterns. Its barrel-vaulted ceiling 10 feet high and is divided down its length by a curtain of bronze chains that runs down the length of the corridor 5 feet above the floor. The chains hang from crossbars spaced at intervals of six inches along a thick bronze rod that traverses the length of the corridor. These chains are weighted at the free end. The rod is supported at each end by an octagonal pillar of bronze and at intervals of 5 feet by pylons that descend from the ceiling. The passageways on the east and west end of the corridor are framed in bronze as well.
+The walls of this chamber were once decorated with a fresco, but the plaster has long ago cracked and peeled so only splotches of faded color remain.
 
-**Trigger.** The trap is triggered by means of scores of pressure plates concealed among the floor tiles in the center 15 feet of the corridor. It activates as soon as more than 10 pounds of pressure is applied to any of these plates. A humanoid creature is 25% likely to trigger one of the plates for each 5-foot section it walks over.
+##### 2K) Guard Chamber
 
-**Initiative.** The trap acts on initiatives 20 and 10.
+Guards were once stationed in this room. The only remant of this use is a stone bench along the center section of the east wall.
 
-**Active Elements.** When the trap is triggered, a hidden portcullis drops down into the door frames at either end of the corridor, each of which reveals a rune of fear above the dooway. Simultaneously, gears concealed in the pillars revolve the bronze rod rapidly. The crossbars spin with this axle like the spokes of a wheel, causing the chains to whip out under centrifugal force.    
+##### 2L) Antechamber
 
-_Portcullis._ (Initiative 20). Each portcullis drops vertically from a slot in the doorframe, blocking its doorway. This same action reveals a _rune of fear_ above the portcullis. 
+This room was once used as a common room for the cult priests and as a reception room for visitors. The remains of a low, oval, wooden table in the northwest corner is the only hint that remains.
 
-_Whirling Chains._ (Initiative 20). The chains attack each creature in the corridor, with a +8 bonus to the attack roll and dealing 11 (2d10) bludgeoning damage on a hit.
+##### 2M) Hallway
 
-_Rune of Fear._ (Initiative 10). Each creature within 15 feet of a rune must make a DC 15 Wisdom saving throw. On a failed saving throw, the creature is frightened of the rune, and the creature must immediately use its reaction to move its speed away from the rune. The frightened creature can’t move closer to the end of the hallway where the rune is until it uses an action to succeed on a DC 15 Wisdom saving throw, which ends the frightened condition on itself.
+The west wall of this hallway had a fresco, but this too has deteriorated beyond recognition.
 
-**Dynamic Elements.**
+##### 2N) Priest's Cell
 
-_Chains Miss_ The chains move with increasing speed, slowing only when they hit a target. Each time the chains miss all attacks in a round, increase their damage by 5 (1d10) and their attack bonus by +2. These benefits last until the chains hit a target.
+This room was the living quarters of a cult priest. An ancient, worm-eaten wooden bedframe in the north end of the room and an armoire in similarly sad shape in the south are all that remains.
 
-**Constant Elements.** After the first round, the whirling chains and the rune of fear affect creatures that end their turns in the elements’ areas. The whirling chains only stay active for 10 rounds, but the runes are permanent.
+##### 2O) High Priest's Quarters
 
-**Countermeasures.**  There are 5 pressure plates in each 5-foot square section of the trigger area. A DC 20 Wisdom (Perception) check made within 5 feet of a section of the trigger area reveals a pressure plate. A subsequent DC 20 Wisdom (Perception) check on the same area reveals that there are multiple pressure plates. A DC 20 Dexterity check made with thieves’ tools disables a pressure plate, but a check result of 5 or less triggers the trap. Each pressure plate disabled reduces the risk of triggering the trap in that section by 5%.
+The cult high priest lived here in the temple's heyday. This room was appointed in a rich, if macabre style. The furnishings were of higher quality and so have survived the centuries in better shape than elsewhere, but this merely gives evidence that the place has been ransacked. Dressers of laquered wood flank the north doorway. Their drawers have all been pulled out and several were smashed. A low writing desk in the southwest corner is overturned. However, the high priest's bedframe, a sinister-looking affair of black iron inlaid with silver, is in good condition, although the bedding has long since gone to dust. This is because the bedframe is enchanted. A creature that sleeps in this bed cannot be targeted by _dream_ or similar magic.
 
-Each of the trap’s active elements also offers potential countermeasures.
+##### 2P) High Priest's Study
 
-_Portcullis._ A DC 18 Wisdom (Perception) check reveals the hidden portcullis. A DC 16 Dexterity check made with thieves’ tools disables it, but a check result of 5 or less triggers the trap.
-
-_Whirling Blades._ Characters can destroy or jam the chains or crossbars, or damage the axle rod. The simple expedient of securing the free end of each chain to the crossbar near the axle will provide a 2 1/2 foot path along each wall free of danger. A character can make a DC 14 Dexterity check to throw himself prone along the wall and crawl the length of the corridor without suffering any attacks. 
-
-_Rune of Fear._ A rune can be effaced from the wall by dealing it 10 points of damage. A character who attempts this while within 5 feet of the rune makes saving throws against the rune's effects at disadvantage. Alternatively, the rune can be disabled with three successful castings of _dispel magic_ (DC 13) targeting the rune.
+This room was once used by the high priest as an antechamber and study. 
 
 #### 4) Temple of the Snake God
 
