@@ -298,6 +298,8 @@ Three of the walls of this chamber are hung with a single floor-to-ceiling curta
 
 In a large alcove in the north wall, a corbeled archway carved with a motif of twisted tentacles interlaced around skulls human and not-so-human opens onto a blank wall. Seven large, white gemstones are set in the keystone of the arch in a rather irregular patten. There is an empty socket near the center of the group that would hold another such gem the size of a woman's fist. A successful DC 18 Intelligence(Arcana) check will reveal that the gems are arranged in the same pattern as the stars of the constellation known in Khanashar as _Sencherb_, The Watcher.
 
+The stairway ascends to Level 4.
+
 _Treasure:_ 7 x large Quartz (250 gp)
 
 ##### 2I) Corridor of Pain
@@ -332,7 +334,51 @@ The cult high priest lived here in the temple's heyday. This room was appointed 
 
 ##### 2P) High Priest's Study
 
-This room was once used by the high priest as an antechamber and study. 
+This room was once used by the high priest as an antechamber and study. Like the High Priest's Quarters, the study has been ransacked long ago. A low, round table of laquered wood stands in the southeast corner and there is a writing-desk of similar height in the northwest corner. The moldered remains of leather-covered cushions lie about them. Two laquered wooden chests with patinated bronze fittings lie broken open and upended, one in the northeast corner and the other in the southwest. An overturned bronze brazier lies just north of a bronze door in the west wall. The door is locked and the lock mechanism is corroded (DC 20 Dexterity check with thieve's tools to open).  
+
+A scroll cabinet, also of laquered wood, carven and gilded in unsettling designs, stands near the desk. Its locked doors were forced open and its shelves are empty. Rollers of wood and ivory litter the floor in front of it among the flaked and rotted remains of papyrus scrolls. The long-decayed corpse of a humanoid with a serpent-like head lies face-up on the floor in front of the shelves. His cloth kilt and leather belt are decayed, but a character who makes a successful DC 16 Wisdom (Perception) check will notice that the belt has several straps that were apparently unfastened.  
+
+##### 3A) Sanctum
+
+Curtains rotted. Evil altar.
+
+##### 3B) Staging Room
+
+The stairwell beyond descends into a water-filled shaft.
+
+##### 3C) Fount Chamber
+
+Pyramidical, corbeled ceiling at the apex of which is a crystal that casts a dim, sickly, yellow-green light.
+
+Southwest corner occupied by an evil-looking fountain of reddish porphyry that still trickles an oily, milky-colored liquid.
+
+##### 3D) 
+
+##### 3E)
+
+##### 3F)
+
+##### 3G)
+
+##### 3H)
+
+##### 3I)
+
+##### 4A) Treasure Chamber
+
+Loot.
+
+##### 4B) Hall of Death
+
+Heavily-trapped hallway
+
+##### 4C) Hall of Mysteries
+
+Filled with mist
+
+##### 4D) Inner Sanctum
+
+Frescoes depicting nightmarish monstrosities, each with a cartouche containing the name of an Old One. The Keeper is supposed to use the frescos to summon them when the stars are right.
 
 #### 4) Temple of the Snake God
 
