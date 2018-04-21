@@ -354,9 +354,20 @@ Southwest corner occupied by an evil-looking fountain of reddish porphyry that s
 
 ##### 3D) 
 
-##### 3E)
+##### 3E) West Sanctum
 
-##### 3F)
+Large chunk of volcanic rock riddled with holes. A colony of aberrant worm-like creatures inhabiting the rock attack anyone that comes into the room. Effectively, the colony acts as a **mindflayer** with AC 20 that cannot move.
+
+##### 3F) East Sanctum
+
+Stele of greenish stone inscribed with hieroglyphs of an unknown tongue. Much of the script is effaced by the wear of long millinea. A _comprehend languages_ or similar magic is required to read the words that can still be deciphered. Among them is this snippet:
+
+_Beyond the Veil, the Ancient Ones await_  
+
+_That is not dead, which can eternal lie,_  
+_And with strange eons, even death may die._  
+
+Any creature that starts its turn within 5 feet of the stele and can see the stele is affected as by a _symbol (insanity)_. 
 
 ##### 3G)
 
@@ -366,19 +377,27 @@ Southwest corner occupied by an evil-looking fountain of reddish porphyry that s
 
 ##### 4A) Treasure Chamber
 
-Loot.
+The door to this chamber is a formidable-looking affair of bronze-adamantine alloy. Its surface is covered with bas-relief designs that are remniscent of the carapace and segmented legs of crabs and the encrustations of barnacles. At the center of the door is an oddly-faceted yellow-green crystal that glows with a sickly light. A successful DC 16 Wisdom (Perception) check will reveal that the "decorations" are not simple bas-relief, but are separate components. They are, in fact, part of the mechanism that bolts the door. The crystal is necrotite and it is the focus of a ritual that must be cast to open the door.
+
+_Treasure:_ 800 cp, 5000 sp, 2000 gp, 130 pp, Amethyst (100 gp), 2 x Coral (100 gp), 3 x Garnet (100 gp), Jet (100 gp), 2 x Pearl (100 gp), Spinel (100 gp), Spell Scroll (Planar Ally) (very rare, dmg 200)
+
+_Tomes:_ The Demonic Esoterica of Thundu: _This set of cracking parchment manuscripts bound in a cover of basilisk hide is contained in a pewter coffer set with chrysoberyl. It is locked by magic, and can be opened only by tracing a pattern inscribed upon it. This spellbook contains the spells Antipathy/Sympathy, Clone, Demiplane, Maze, Imprison, and Telepathy. An arcane spellcaster who reads this tome, which requires 54 hours over a minimum of 8 days, gains a +2 bonus on saving throws against Fear and similar effects originating from fiends. A humanoid creature who reads this book must make a DC 16 Wisdom saving throw for each 12 hours of reading or attract the attention of a **succubus/incubus** that will begin to stalk the reader._ 
 
 ##### 4B) Hall of Death
 
-Heavily-trapped hallway
+The door to this hallway is made of bronze with inscribed decorations. Suspiciously, it is entirely free of corrosion. The door is locked (Dexterity DC 18 with thieve's tools to open) and is also trapped. It actually pushes open, but false hinges and the presence of a door pull give the appearance that it is meant to be pulled open. If someone pulls the door pull, a hidden panel attached to the pull will open and release a **swarm of stygian darts**. These insect-like crystalline constructs attack as a swarm of wasps, except that their armor class is 16, their attacks are +6 to hit, and they have the same damage and condition immunities as a stone golem. In addition to the piercing damage, a creature that is hit by an attack from these constructs suffers 7 (2d6) necrotic damage.
+
+Inside the door, the entrance to the hall is protected by a _veil of withering_ spell (DC 16).
+
+The hall is guarded by an **unseen guardian** that has orders to attack any creature who enters the room without showing the token of the Keeper. The guardian will wait invisibly until the creature gets to the center of the hall, at which point it will slam the door closed to prevent escape and then attack on the next round.  
 
 ##### 4C) Hall of Mysteries
 
-Filled with mist
+This hall is filled with a purplish mist that heavily obscures vision beyond 5 feet. Vague whispers imparting insidious knowledge seem to come from various points in the room. Creatures that start their turns in the mist must succeed on a DC 16 Wisdom saving throw or be afflicted with a short-term madness.
 
 ##### 4D) Inner Sanctum
 
-Frescoes depicting nightmarish monstrosities, each with a cartouche containing the name of an Old One. The Keeper is supposed to use the frescos to summon them when the stars are right.
+Frescoes depicting seven nightmarish monstrosities, each with a cartouche containing the name of an Old One. The Keeper is supposed to use the frescos to summon them when the stars are right.
 
 #### 4) Temple of the Snake God
 
