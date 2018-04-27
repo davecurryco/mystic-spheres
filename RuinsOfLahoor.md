@@ -397,9 +397,11 @@ _And with strange eons, even death may die._
 
 Any creature that starts its turn within 5 feet of the stele and can see the stele must succeed on a DC 16 Charisma saving throw or be affected as by a _symbol (insanity)_. A creature that displays the Token of the Bearer and any creature in its company automatically succeeds on this saving throw.  
 
-##### 3I) Vault of the Keeper
+##### 3I) Librarium
 
-Token of the Keeper
+The door of this chamber is made of bronze and is like those of the Assembly Hall, but it is unlocked. The interior walls of this small chamber are lined with bookcases and scroll-cabinets of red-lacquered wood, carven and gilded in unsettling designs. The shelves and cabinets are packed with the mouldered remains of books and scrolls.
+
+A pedistal of black onyx stands in the center of the room. On it is a large, open book with black leather covers and bronze bindings. In front of the pedistal is a petrified thief.
 
 ##### 4A) Treasure Chamber
 
