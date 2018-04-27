@@ -82,6 +82,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Combat](Combat.md)
 
+[Magic](Magic.md)
+
 [Nautical](Nautical.md)
 
 [Spells](Spells.md)
@@ -239,6 +241,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 ## Spells
 
 [Beacon of Despair](BeaconOfDespair.md)
+
+[Chthonic Veil](ChthonicVeil.md)
 
 [Curse Focus](CurseFocus.md)
 

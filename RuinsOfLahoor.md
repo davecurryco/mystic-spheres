@@ -229,7 +229,11 @@ There are ten doorways in the walls of the chamber, only three of which are occu
 
 ##### 2D) The Catacombs
 
-The west wall of this low-ceilinged, wide hallway is honeycombed with 24 crypts, each of which is sealed by a serpentinite marker carved with strange designs and characters of an unknown script. A character that uses _Comprehend Languages_ or similar magic to understand the writings must make a DC 16 Wisdom saving throw. On a failure, the creature is afflicted with a short-term madness due to the blasphemous names carved on the markers.
+The north door of this low-ceiling, wide hallway is made of stone and fits flush with the stone frame of the archway. The door is smooth and plain except for a circular recess at its center. Within the recess, a seal of soft silver-grey metal covers the bronze latch. The seal bears the Symbol of the Keeper within a circle of inscribed hieroglyphics. Anyone who breaks the seal must make a DC 18 Constitution save or be affected by a rotting curse. An affected creature loses 3d6 hit points from its hit point maximum and 1d4 points of Charisma. The effects are permanent unless cured by a _greater restoration_ or similar magic. 
+
+The door to the Assembly Chamber is exactly the same as its counterpart in the chamber. It too opens on a blank wall, but a DC 11 Wisdom(Perception) check will reveal that objects or creatures can pass through the wall into the next room. This effect is due to what is effectively a permanent, one-way _passwall_ spell.   
+
+The west wall is honeycombed with 18 crypts, each of which is sealed by a serpentinite marker carved with strange designs and characters of an unknown script. A character that uses _Comprehend Languages_ or similar magic to understand the writings must make a DC 16 Wisdom saving throw. On a failure, the creature is afflicted with a short-term madness due to the blasphemous names carved on the markers.
 
 Most of the crypts hold the mummified remains of a cultist or cult leader -- some of which were interred with wealth. Each crypt takes 1d3 minutes to open with a successful DC 12 skill check with thieves' tools. Undead have Individual Treasure according to their CR, while mummified corpses have Individual Treasure of CR 2d4 (roll again for results where the treasure is in cp). Traps are Wisdom(Perception) DC 15 to find and Intelligence(Investigation) DC 15 to disable.
 
@@ -250,6 +254,8 @@ Most of the crypts hold the mummified remains of a cultist or cult leader -- som
 | 19       | Weird: Face-Hugger Spore: Affects a creature within 5 ft., DEX DC 18 save or grappled (STR 18 escape), CON DC 16 or 1d6 choking damage each round, 1d4 hours later CON DC 18 or confused, 1d8 hours later CON DC 20 or indefinite madness |
 | 20       | Weird: Beacon of the Beyond: Affects a creature within 20 ft., CHA DC 18 save or 4d6 psychic and charmed (CHA 18 break), break in 1 round or banished 2d6 rounds and return with short term madness |
 
+One of the undead sealed within the crypts bears the Token of the Bearer, a medallion of meteoric iron on a thick chain of the same material. The medallion is fashioned in the shape of a flat, blobbish monstrosity with a central, sucker-like mouth surrounded by seven bulging eyes at the bases of seven writhing tentacles.
+
 ##### 2E) Crypt of the Keeper
 
 The door to the crypt seems to have been cast in one piece from a strange, purplish metal. It fits tightly into its stone frame and has no pulls, handles, or locks. The door is decorated in bas-relief in the semblance of a nightmarish monstrosity -- a squamous mass flanked by tentacles and clusters of eyes and split by a gaping mouth from which protrude long, daggerlike, interlocking teeth. A successful DC 20 Wisdom(Perception) check by a character inspecting the door within 5 feet of it will reveal that teeth are caked with dark stains.
@@ -260,7 +266,7 @@ Beyond the door is a small, richly decorated antechamber. Everything is pristine
 
 In the center of the chamber is a obelisk-like pedestal of alabaster four feet high carved on all four sides with an inscription in a bizarre, flowing script. The script is written in an extinct language, but _comprehend languages_ or similar magic will reveal that it reads:
 
-_May that which is hidden stay concealed and they who are asleep, may they wake not. In the name of Yaggoth and of Geb-Asar and of Nyalzarid of the Void may these things be until the end of days._ 
+_May that which is hidden stay concealed and they who are asleep, may they wake not. In the name of Yaggoth and of Geb-Asar and of Nyalzarid of the Void may these things be until the Day Appointed._ 
 
 The peak of the obelisk is flat and is covered by a hollow crystal pyramid, beneath which is a fist-sized lump of rock, black and pitted, but glittering with flecks of greenish-silver metal. The crystal cover is not trapped and can be easily lifted from the pedistal. The rock does not radiate magic, but it is far heavier (20 lbs.) than its size would suggest. This is because it is actually a meteorite containing _abditumite_, an extra-terrestrial metal. A character that uses _detect magic_, _identify_ or similar divination magic on the rock must make a DC 18 Charisma saving throw or be stunned for 1d4 rounds as the magic reverberates on itself in a sort of feedback squawk. A creature that carries or wears the rock cannot be targeted by _scry_ or similar divination magic. The pedestal and cover serve as a sort of amplifier for this effect, extending the protection from divination magic to a radius of 20 feet.
 
@@ -268,9 +274,9 @@ An archway in the southwest corner of the antechamber leads to the crypt. It has
 
 _In the name of Phrazon of the Dusk and of Ry'pnoth the Ancient, may the Crawling Curse be upon he who violates the Crypt of the Keeper._ 
 
-Inside the green outer curtain hangs a veil that appears to be made of translucent shot silk in pale blue and green. The veil shimmers with its own pale light and its colors shift in an unsettling way. A successful DC 13 Wisdom(Perception) check reveals that the veil is not actually fabric, but some kind of supernatural effect. It is, in fact, a permanent _chthonic veil_ (DC 16; colors: blue, purple, orange).
+Inside the green outer curtain hangs a veil that appears to be made of translucent shot silk in pale blue and green. The veil shimmers with its own pale light and its colors shift in an unsettling way. A successful DC 13 Wisdom(Perception) check reveals that the veil is not actually fabric, but some kind of supernatural effect. It is, in fact, a permanent _chthonic veil_ (DC 16; colors: blue, purple, orange). The veil will allow a creature bearing the Token of the Keeper to pass in either direction.
 
-The crypt is furnished in even more splendor than the antechamber. Most of the frescoes depict more of the hybrid crocodile creatures engaged in arcane pursuits, but on the North wall, two of the hybrid bird creatures, a male and a female, stand on either side of a portal, from which black rays emerge.
+The crypt is furnished in even more splendor than the antechamber. Most of the frescoes depict more of the hybrid crocodile creatures engaged in arcane pursuits, but on the North wall, two of the hybrid bird creatures, a male and a female, are pictured standing on either side of a portal from which black rays emerge.
 
 In the center of the crypt is a serpentinite dais decorated with inlay of gold and enamel on which a rests a translucent crystal sarcophagus. The figure within can be vaguely discerned when the sarcophagus is lit from behind. It is human in form, but has a flat head with a long snout. This is the Keeper, a Speaker to the Old Ones, who was entombed here as a **chthonic mummy** to await the proper alignment of the spheres to call them back from the Void Between the Stars. He's perfectly capable of defending himself in the meantime however. The rending of the _chthonic veil_ or any other desecration of the Crypt or its antechamber will bring the Keeper's spirit back from the Astral Plane, where it wanders. On the next round, the Keeper will attack, using its Horror Aura to get some space or _gaseous form_ (a bonus action) to exit the sarcophagus, which has vent-holes for just this purpose. 
 
@@ -348,32 +354,52 @@ The stairwell beyond descends into a water-filled shaft.
 
 ##### 3C) Fount Chamber
 
-Pyramidical, corbeled ceiling at the apex of which is a crystal that casts a dim, sickly, yellow-green light.
+This chamber has a pyramidical, corbeled ceiling at the apex of which is a crystal that casts a dim, sickly-yellow light.
 
-Southwest corner occupied by an evil-looking fountain of reddish porphyry that still trickles an oily, milky-colored liquid.
+The southwest corner is occupied by an fountain of reddish porphyry carved in the form of a plant-like creature like those depicted in the pillars of the Great Vestibule. The fount's carved stamen trickle an oily, opalescent liquid into a "pitcher" at its base.
 
-##### 3D) 
+The liquid is actually **opal goo**, a kind of aberrant slime that devours living flesh. A living creature that comes into contact with opal goo takes 5 (1d10) necrotic damage. The creature takes the damage again at the start of each of its turns until the goo is wiped off or destroyed. Any effect that cures disease destroys a patch of opal goo. Creatures that approach within 10 feet of **opal goo** must succeed on a DC 16 Charisma saving throw or be charmed by the goo. A charmed creature regards the opal goo as an immensely benefical substance and is compelled to anoint itself with the slime. A charmed creature may repeat the saving throw at the end of any turn in which it takes damage from the opal goo. On a successful saving throw, the charm ends and the creature may take actions to counter the effects of the opal ooze.
+
+At the bottom of the "pitcher" are the skeletal remains of the most recent of the opal goo's victims -- a small human female. Among the bones are the victim's jewelry.
+
+_Treasure:_ Jade necklace (100 gp), Jade earplugs (50 gp), Jade girdle (150 gp), Jade headdress (200 gp)   
+
+##### 3D) Elevator 1
+
+The interior of this chamber is a cage of bronze wrought in a fantastic openwork pattern. This is effectively an elevator car paired to an identical car in Elevator 2. The car is, by default, at the level of the south hallway. One turn after anyone enters the chamber, the room descends 20 feet over the course of two turns to the level of the north hallway. At the same time, the car in Elevator 2 ascends from its default position to its raised position. Once there are no creatures remaining in this car, it will ascend again -- at which time the car in Elevator 2 will descend.
+
+The action of the elevator is driven by massive counterweights and magically-controlled gears behind the stone walls in the area between the chambers. A creature or object caught in the doorway when the elevator rises or descends will take 27 (5d10) bludgeoning damage on the elevator's initiative (10) in each round. 
 
 ##### 3E) West Sanctum
 
-Large chunk of volcanic rock riddled with holes. A colony of aberrant worm-like creatures inhabiting the rock attack anyone that comes into the room. Effectively, the colony acts as a **mindflayer** with AC 20 that cannot move.
+A huge chunk of meteoric rock riddled with holes occupies the center of the room. A colony of aberrant worm-like creatures, each a foot long, inhabits the rock. The worms cannot leave the rock, but will assail any creature that comes into the room using their ranged attacks. Collectively, the colony acts as a **mindflayer** with AC 20 that cannot move. The colony will not attack a creature that displays the Token of the Bearer or creatures in its company.
 
 ##### 3F) East Sanctum
 
-Stele of greenish stone inscribed with hieroglyphs of an unknown tongue. Much of the script is effaced by the wear of long millinea. A _comprehend languages_ or similar magic is required to read the words that can still be deciphered. Among them is this snippet:
+This room also contains a chunk of meteoric rock riddled with holes. It too contains a colony of the worm-like creatures that are similarly indisposed toward intruders. What significance there may be in the presence of these creatures and the strange separation of the two colonies may only be guessed at. 
+
+##### 3G) Elevator 2
+
+The counterpart to Elevator 1.
+
+##### 3H) Chamber of the Stelae
+
+At the center of this high-ceilinged chamber is a 10-foot tall stele of greenish stone shaped with odd angles and inscribed with hieroglyphs of an unknown tongue. Much of the script is effaced by the wear of long millinea, although it is unclear how that could have happened in its current protected location. A _comprehend languages_ or similar magic is required to read the words that can still be deciphered. Among them is this snippet:
 
 _Beyond the Veil, the Ancient Ones await_  
+_Their time, appointed by the stars of fate._  
+
+_The Dead Gods spawning worlds within their dreams,_  
+_As death to those of mortal compass seems._  
 
 _That is not dead, which can eternal lie,_  
 _And with strange eons, even death may die._  
 
-Any creature that starts its turn within 5 feet of the stele and can see the stele is affected as by a _symbol (insanity)_. 
+Any creature that starts its turn within 5 feet of the stele and can see the stele must succeed on a DC 16 Charisma saving throw or be affected as by a _symbol (insanity)_. A creature that displays the Token of the Bearer and any creature in its company automatically succeeds on this saving throw.  
 
-##### 3G)
+##### 3I) Vault of the Keeper
 
-##### 3H)
-
-##### 3I)
+Token of the Keeper
 
 ##### 4A) Treasure Chamber
 
@@ -387,9 +413,9 @@ _Tomes:_ The Demonic Esoterica of Thundu: _This set of cracking parchment manusc
 
 The door to this hallway is made of bronze with inscribed decorations. Suspiciously, it is entirely free of corrosion. The door is locked (Dexterity DC 18 with thieve's tools to open) and is also trapped. It actually pushes open, but false hinges and the presence of a door pull give the appearance that it is meant to be pulled open. If someone pulls the door pull, a hidden panel attached to the pull will open and release a **swarm of stygian darts**. These insect-like crystalline constructs attack as a swarm of wasps, except that their armor class is 16, their attacks are +6 to hit, and they have the same damage and condition immunities as a stone golem. In addition to the piercing damage, a creature that is hit by an attack from these constructs suffers 7 (2d6) necrotic damage.
 
-Inside the door, the entrance to the hall is protected by a _veil of withering_ spell (DC 16).
+Inside the door, the entrance to the hall is protected by a _veil of withering_ spell (DC 16). The spell will allow a single creature that bears the Token of the Keeper
 
-The hall is guarded by an **unseen guardian** that has orders to attack any creature who enters the room without showing the token of the Keeper. The guardian will wait invisibly until the creature gets to the center of the hall, at which point it will slam the door closed to prevent escape and then attack on the next round.  
+The hall is guarded by an **unseen guardian** that has orders to attack any creature who enters the room unless the creature is a crocodilian that displays the Token of the Keeper. The guardian will wait invisibly until the intruder gets to the center of the hall, at which point it will slam the door closed to prevent escape and then attack on the next round.  
 
 ##### 4C) Hall of Mysteries
 

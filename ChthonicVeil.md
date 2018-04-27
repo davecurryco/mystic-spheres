@@ -1,6 +1,6 @@
 # Chthonic Veil
 
-_6th-level abjuration_
+_6th-level chthonic_
 
 **Casting time:** 1 action  
 **Range:** 60 feet  
@@ -11,9 +11,11 @@ An iridescent curtain of pale light forms a vertical translucent wall-up to 20 f
 
 The veil sheds dim light out to a range of 5 feet. You and creatures you designate at the time you cast the spell can pass through the veil without harm. If another creature that can see the wall moves to within 5 feet of it or starts its turn there, the creature must succeed on an Intelligence saving throw or be disoriented for 1 minute. While so disoriented, the creature automatically goes last in initiative order and has disadvantage on Wisdom and Intelligence saving throws and ability checks.
 
-The veil shimmers with three colors, which you must chose from the following options. When a creature attempts to reach into or pass through the veil, it must pass through the colors one at a time in a random sequence.
+The veil shimmers with three colors, which you must chose from the following options. When a creature attempts to reach into or pass through the veil, it must pass through the colors one at a time in a random sequence. You can choose to allow creatures or objects with specified observable characteristics to pass the veil in either direction without triggering its effects and without disturbing it.
 
 The veil can be destroyed, one randomly-chosen color at a time. The color is determined after the creature attempting to destroy the veil announces the attack. Once a color is destroyed, it remains so for the duration of the spell. A _rod of cancellation_ destroys a _chthonic veil_ and an _antimagic field_ temporarily suppresses its effects.
+
+When you cast this spell, you must succeed on a DC 14 Charisma saving throw or be afflicted with a short-term madness. 
 
 **1. Green.** The creature must make a Constitution saving throw. On a failed save, the target is afflicted with a disease as per the _contagion_ spell. The disease takes effect immediately and lasts for 1 day. This color is destroyed by casting _lesser restoration_ or an equivalent spell of equal or greater level. It may also be destroyed by dealing at least 20 radiant damage to it.
 
