@@ -78,6 +78,10 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Weapons](Weapons.md)
 
+## Hazards
+
+[Opal Goo](OpalGoo.md)
+
 ## House Rules
 
 [Combat](Combat.md)
@@ -180,6 +184,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Stone Watcher](StoneWatcher.md)
 
+[Swarm of Mind Worms](SwarmOfMindWorms.md)
+
 [Tennyo](Tennyo.md)
 
 [Troll Blade Rager](TrollBladeRager.md)
@@ -187,6 +193,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 [Troll, Fell](TrollFell.md)
 
 [Troll, War](TrollWar.md)
+
+[Unseen Guardian](UnseenGuardian.md)
 
 [Vampire Spawn Variants](VampireSpawnVariants.md)
 
@@ -239,6 +247,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 [Varog the Destroyer](VarogTheDestroyer.md)
 
 ## Spells
+
+[Awaken Crystal](AwakenCrystal.md)
 
 [Beacon of Despair](BeaconOfDespair.md)
 

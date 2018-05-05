@@ -1,0 +1,5 @@
+# Opal Goo
+
+Opal Goo is a kind of aberrant slime that devours living flesh.
+
+A living creature that comes into contact with opal goo takes 5 (1d10) necrotic damage. The creature takes the damage again at the start of each of its turns until the goo is wiped off or destroyed. Any effect that cures disease destroys a patch of opal goo. Creatures that approach within 10 feet of a patch of opal goo must succeed on a DC 16 Charisma saving throw or be charmed by the goo. A charmed creature regards the opal goo as an immensely benefical substance and is compelled to anoint itself with the slime. A charmed creature may repeat the saving throw at the end of any turn in which it takes damage from the opal goo. On a successful saving throw, the charm ends and the creature may take actions to counter the effects of the opal ooze.

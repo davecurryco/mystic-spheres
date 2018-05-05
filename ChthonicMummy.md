@@ -48,7 +48,7 @@ Cantrips (at will): _eldritch blast, mage hand, minor illusion, poison spray, sh
 
 ## Actions
 
-**Bone-Chilling Grasp.** Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (3d6) cold damage and the target must make succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute.
+**Bone-Chilling Grasp.** _Melee Spell Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 10 (3d6) cold damage and the target must make succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute.
 
 **Psychic Blast (Recharge 5-6).** The chthonic mummy magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or be affected as per the _confusion_ spell for up to 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A target that fails three of these saves is afflicted by a long-term madness once the effects of the spell end.
 
@@ -57,4 +57,7 @@ Cantrips (at will): _eldritch blast, mage hand, minor illusion, poison spray, sh
 ---
 
 High priests of the dark cults of elder gods once knew eldrich rituals to preserve desceased members of their circle as **Chthonic Mummies** to lie in ageless slumber until awoken to fulfill some unspeakable destiny. Such a mummy is not a mindless undead, but rather retains the memories and personality of its former self. Because their cults are dead and their gods too lie asleep, chthonic mummies do not have the resources that a mummy lord has. On the other hand, a chthonic mummy does not share a mummy lord's weaknesses -- particularly its vulnerability to fire.
-life, 
+
+**Heart of the Chthonic Mummy.** Similar to a mummy lord's heart, a chthonic mummy's brain is placed in a canopic jar made of jade. As long as the brain remains intact, the chthonic mummy can't be permanently destroyed. When it drops to 0 hit points, the chthonic mummy re-forms at full strength 24 hours later, rising out of dust in close proximity to the canopic jar containing its brain. For this reason, a chthonic mummy usually keeps its canopic jar in a hidden tomb or vault.
+
+The chthonic mummy's brain has AC 5, 25 hit points, and immunity to all damage except radiant.

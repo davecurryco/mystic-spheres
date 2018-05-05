@@ -280,7 +280,9 @@ The crypt is furnished in even more splendor than the antechamber. Most of the f
 
 In the center of the crypt is a serpentinite dais decorated with inlay of gold and enamel on which a rests a translucent crystal sarcophagus. The figure within can be vaguely discerned when the sarcophagus is lit from behind. It is human in form, but has a flat head with a long snout. This is the Keeper, a Speaker to the Old Ones, who was entombed here as a **chthonic mummy** to await the proper alignment of the spheres to call them back from the Void Between the Stars. He's perfectly capable of defending himself in the meantime however. The rending of the _chthonic veil_ or any other desecration of the Crypt or its antechamber will bring the Keeper's spirit back from the Astral Plane, where it wanders. On the next round, the Keeper will attack, using its Horror Aura to get some space or _gaseous form_ (a bonus action) to exit the sarcophagus, which has vent-holes for just this purpose. 
 
-_Treasure:_ copper bowl (6 gp), enameled gold collar (1,000 gp), enameled gold crocodile mask (2,300 gp), gold inlaid ivory rod (900 gp), Amber (100 gp), 4 x Chrysoberyl (100 gp), 3 x Coral (100 gp), 3 x Garnet (100 gp), Jade (100 gp), 2 x Pearl (100 gp), 2 x Spinel (100 gp), Tourmaline (100 gp), Potion of Resistance (poison) (uncommon, dmg 188)
+In addition to his personal ornaments, the Keeper wears the Token of the Keeper, a medallion identical to the Token of the Bearer, except that it is made of platinum.
+
+_Treasure:_ Copper bowl (6 gp), Enameled gold collar (1,000 gp), Enameled gold crocodile mask (2,300 gp), Enameled gold wristlets (50 gp), Enameled gold belt (150 gp),  Gold inlaid ivory rod (900 gp), Amber (100 gp), 4 x Chrysoberyl (100 gp), 3 x Coral (100 gp), 3 x Garnet (100 gp), Jade (100 gp), 2 x Pearl (100 gp), 2 x Spinel (100 gp), Tourmaline (100 gp), Potion of Resistance (poison) (uncommon, dmg 188)
 
 _Tome:_ The Chthonic Apocrypha of Zuri the Seer: _This folio is comprised of writings in an unknown script incised on thin sheets of platinum bound by platinum wire in cover of a strange, thick, greenish-brown leather covered in bumps and warts with platinum fittings. An individual who reads this tome, which requires 48 hours over a minimum of 6 days, gains a +3 bonus on Intelligence(Arcana) checks to identify aberrations. A humanoid creature other than an elf who reads this book must make a DC 16 Charisma saving throw for each 12 hours of reading or be afflicted with a short-term madness. If the save fails by 5 or more, the madness is long-term instead. Creatures that suffer from such a madness have disadvantage on saving throws against psychic attacks made by abberations._
 
@@ -334,6 +336,8 @@ The west wall of this hallway had a fresco, but this too has deteriorated beyond
 
 This room was the living quarters of a cult priest. An ancient, worm-eaten wooden bedframe in the north end of the room and an armoire in similarly sad shape in the south are all that remains.
 
+Buried beneath a flagstone in the center of the floor of this cell is the canopic jar of the Keeper. This hiding place was not intended to be accessed and so it can only be found by a successful DC 25 Wisdom (Perception) check. The only clue is that the successive priests who dwelt in this room could not bring themselves to walk on the spot where the Keeper's relic lay and so this flagstone is less worn than the others surrounding it.
+
 ##### 2O) High Priest's Quarters
 
 The cult high priest lived here in the temple's heyday. This room was appointed in a rich, if macabre style. The furnishings were of higher quality and so have survived the centuries in better shape than elsewhere, but this merely gives evidence that the place has been ransacked. Dressers of laquered wood flank the north doorway. Their drawers have all been pulled out and several were smashed. A low writing desk in the southwest corner is overturned. However, the high priest's bedframe, a sinister-looking affair of black iron inlaid with silver, is in good condition, although the bedding has long since gone to dust. This is because the bedframe is enchanted. A creature that sleeps in this bed cannot be targeted by _dream_ or similar magic.
@@ -358,7 +362,7 @@ This chamber has a pyramidical, corbeled ceiling at the apex of which is a cryst
 
 The southwest corner is occupied by an fountain of reddish porphyry carved in the form of a plant-like creature like those depicted in the pillars of the Great Vestibule. The fount's carved stamen trickle an oily, opalescent liquid into a "pitcher" at its base.
 
-The liquid is actually **opal goo**, a kind of aberrant slime that devours living flesh. A living creature that comes into contact with opal goo takes 5 (1d10) necrotic damage. The creature takes the damage again at the start of each of its turns until the goo is wiped off or destroyed. Any effect that cures disease destroys a patch of opal goo. Creatures that approach within 10 feet of **opal goo** must succeed on a DC 16 Charisma saving throw or be charmed by the goo. A charmed creature regards the opal goo as an immensely benefical substance and is compelled to anoint itself with the slime. A charmed creature may repeat the saving throw at the end of any turn in which it takes damage from the opal goo. On a successful saving throw, the charm ends and the creature may take actions to counter the effects of the opal ooze.
+The liquid is actually **opal goo**.
 
 At the bottom of the "pitcher" are the skeletal remains of the most recent of the opal goo's victims -- a small human female. Among the bones are the victim's jewelry.
 
@@ -372,11 +376,11 @@ The action of the elevator is driven by massive counterweights and magically-con
 
 ##### 3E) West Sanctum
 
-A huge chunk of meteoric rock riddled with holes occupies the center of the room. A colony of aberrant worm-like creatures, each a foot long, inhabits the rock. The worms cannot leave the rock, but will assail any creature that comes into the room using their ranged attacks. Collectively, the colony acts as a **mindflayer** with AC 20 that cannot move. The colony will not attack a creature that displays the Token of the Bearer or creatures in its company.
+A huge chunk of meteoric rock riddled with holes occupies the center of the room. A **swarm of mind worms** inhabits the rock. The worms cannot leave the rock, but will use their ranged powers to assail any creature that comes into the room using their ranged attacks. The colony will not attack a creature that displays the Token of the Bearer or creatures in its company.
 
 ##### 3F) East Sanctum
 
-This room also contains a chunk of meteoric rock riddled with holes. It too contains a colony of the worm-like creatures that are similarly indisposed toward intruders. What significance there may be in the presence of these creatures and the strange separation of the two colonies may only be guessed at. 
+This room also contains a chunk of meteoric rock infested with mind worms. What significance there may be in the presence of these aberrant creatures and the strange separation of the two colonies may only be guessed at. 
 
 ##### 3G) Elevator 2
 
@@ -401,21 +405,33 @@ Any creature that starts its turn within 5 feet of the stele and can see the ste
 
 The door of this chamber is made of bronze and is like those of the Assembly Hall, but it is unlocked. The interior walls of this small chamber are lined with bookcases and scroll-cabinets of red-lacquered wood, carven and gilded in unsettling designs. The shelves and cabinets are packed with the mouldered remains of books and scrolls.
 
-A pedistal of black onyx stands in the center of the room. On it is a large, open book with black leather covers and bronze bindings. In front of the pedistal is a petrified thief.
+A pedistal of black onyx stands in the center of the room. On it is a large, open book with black leather covers and bronze bindings. In front of the pedistal is a petrified human rogue. The rogue is apparently of the Alhrain race and wears classic adventuring gear. The look on his face is one of horror and surprise.
+
+The pedistal is enchanted to protect any book placed on it. Any creature other than the book's owner that touches a book placed on the pedistal must make a DC 16 Constitution saving throw or be instantly petrified. The petrification lasts until the creature is freed by the greater restoration spell or other magic.
+
+A band of apparently decorative hieroglyphs that runs along the top of the walls of the chamber actually forms a sort of Faraday cage for magic. Spells of 3rd level or less that originate from outside the room cannot affect objects or creatures inside the room and vice-versa.
+
+Besides the book on the pedistal, a single scroll case survives among a jumble of rotted parchment in one of the scroll-cabinets.
+
+_Tome:_ The Abyssal Manuscripts of Eadhas: _This libram is written upon vellum and bound in rowan wood covered in monstrous hide and trimmed with brass studded with tourmalines. It can only be opened with a drop of blood. Many of its pages are marked with indecipherable scrawls. This spellbook contains the spells Chthonic Veil, Etherealness, Finger of Death, Mirage Arcane, Plane Shift, Project Image, and Reverse Gravity._
+
+_Scroll:_ The Apocryphal Scrolls of Umud: _These scrolls are locked within a case of ivory fitted with a silver clasp and silver hinges. This spellbook contains the spells Clone, Control Weather, Maze, Mind Blank, and Power Word Stun. It also contains Awaken Crystal, the ritual necessary to open the door to the Treasure Chamber._
 
 ##### 4A) Treasure Chamber
 
-The door to this chamber is a formidable-looking affair of bronze-adamantine alloy. Its surface is covered with bas-relief designs that are remniscent of the carapace and segmented legs of crabs and the encrustations of barnacles. At the center of the door is an oddly-faceted yellow-green crystal that glows with a sickly light. A successful DC 16 Wisdom (Perception) check will reveal that the "decorations" are not simple bas-relief, but are separate components. They are, in fact, part of the mechanism that bolts the door. The crystal is necrotite and it is the focus of a ritual that must be cast to open the door.
+The door to this chamber is a formidable-looking affair of bronze-adamantine alloy. Its surface is covered with bas-relief designs that are remniscent of the carapace and segmented legs of crabs and the encrustations of barnacles. At the center of the door is a large, oddly-faceted yellow-green crystal that glows with a sickly light. A successful DC 16 Wisdom (Perception) check will reveal that the "decorations" are not simple bas-relief, but are separate components. They are, in fact, part of the mechanism that bolts the door.
+
+The crystal is necrotite and it is the intended target of an Awaken Crystal ritual that must be cast to open the door. Once the crystal is awakened, it can be instructed to direct its energy to work the lock mechanism on the door. Otherwise, a DC 25 Wisdom(Perception) check will reveal that the crystal is both a trap and the key to opening the door. The crystal can be disarmed with a successful DC 30 Dexterity check with thieves' tools. An unsuccessful check causes the crystal to explode. Each creature in a 30 foot radius from the crystal when it explodes must make a DC 16 Constitution saving throw. On a failed save, the target takes 55 (10d10) necrotic damage or half as much damage on a successful one. If the crystal explodes, the door cannot be opened by any means other than destroying it. Otherwise, the door can be opened by a successful DC 35 Dexterity check with thieves' tools. Failure on this check also causes the crystal to explode. 
 
 _Treasure:_ 800 cp, 5000 sp, 2000 gp, 130 pp, Amethyst (100 gp), 2 x Coral (100 gp), 3 x Garnet (100 gp), Jet (100 gp), 2 x Pearl (100 gp), Spinel (100 gp), Spell Scroll (Planar Ally) (very rare, dmg 200)
 
-_Tomes:_ The Demonic Esoterica of Thundu: _This set of cracking parchment manuscripts bound in a cover of basilisk hide is contained in a pewter coffer set with chrysoberyl. It is locked by magic, and can be opened only by tracing a pattern inscribed upon it. This spellbook contains the spells Antipathy/Sympathy, Clone, Demiplane, Maze, Imprison, and Telepathy. An arcane spellcaster who reads this tome, which requires 54 hours over a minimum of 8 days, gains a +2 bonus on saving throws against Fear and similar effects originating from fiends. A humanoid creature who reads this book must make a DC 16 Wisdom saving throw for each 12 hours of reading or attract the attention of a **succubus/incubus** that will begin to stalk the reader._ 
+_Tomes:_ The Demonic Esoterica of Thundu: _This set of cracking parchment manuscripts bound in a cover of basilisk hide is contained in a pewter coffer set with chrysoberyl. It is locked by magic, and can be opened only by tracing a pattern inscribed upon it. This spellbook contains the spells Antipathy/Sympathy, Clone, Demiplane, Maze, Imprison, and Telepathy. An arcane spellcaster who reads this tome, which requires 54 hours over a minimum of 8 days, gains a +2 bonus on saving throws against Fear and similar effects originating from fiends. A humanoid creature who reads this book must make a DC 16 Wisdom saving throw for each 12 hours of reading or attract the attention of a **succubus/incubus** that will begin to stalk the reader._
 
 ##### 4B) Hall of Death
 
 The door to this hallway is made of bronze with inscribed decorations. Suspiciously, it is entirely free of corrosion. The door is locked (Dexterity DC 18 with thieve's tools to open) and is also trapped. It actually pushes open, but false hinges and the presence of a door pull give the appearance that it is meant to be pulled open. If someone pulls the door pull, a hidden panel attached to the pull will open and release a **swarm of stygian darts**. These insect-like crystalline constructs attack as a swarm of wasps, except that their armor class is 16, their attacks are +6 to hit, and they have the same damage and condition immunities as a stone golem. In addition to the piercing damage, a creature that is hit by an attack from these constructs suffers 7 (2d6) necrotic damage.
 
-Inside the door, the entrance to the hall is protected by a _veil of withering_ spell (DC 16). The spell will allow a single creature that bears the Token of the Keeper
+Inside the door, the entrance to the hall is protected by a _veil of withering_ spell (DC 16). The spell will allow a single creature that bears the Token of the Keeper to pass.
 
 The hall is guarded by an **unseen guardian** that has orders to attack any creature who enters the room unless the creature is a crocodilian that displays the Token of the Keeper. The guardian will wait invisibly until the intruder gets to the center of the hall, at which point it will slam the door closed to prevent escape and then attack on the next round.  
 
