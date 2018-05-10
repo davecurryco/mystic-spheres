@@ -11,4 +11,4 @@ You choose one object with a crystalline molecular structure, such as a chunk of
 
 The awakened crystal is absolutely obedient to your command for the duration.
 
-When you cast this spell, you must succeed on a DC 10 Charisma saving throw or be imprisoned (as per the _imprisonment (minimus containment)_ spell) for the duration of the spell. While imprisoned, you can still command the awakened crystal, but it cannot free you. 
+When you cast this spell, you must succeed on a DC 10 Charisma saving throw or be imprisoned (as per the _imprisonment (minimus containment)_ spell) for the duration of the spell. While imprisoned, you cannot command the awakened crystal and it cannot free you. 

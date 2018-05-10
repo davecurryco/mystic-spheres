@@ -61,3 +61,5 @@ High priests of the dark cults of elder gods once knew eldrich rituals to preser
 **Heart of the Chthonic Mummy.** Similar to a mummy lord's heart, a chthonic mummy's brain is placed in a canopic jar made of jade. As long as the brain remains intact, the chthonic mummy can't be permanently destroyed. When it drops to 0 hit points, the chthonic mummy re-forms at full strength 24 hours later, rising out of dust in close proximity to the canopic jar containing its brain. For this reason, a chthonic mummy usually keeps its canopic jar in a hidden tomb or vault.
 
 The chthonic mummy's brain has AC 5, 25 hit points, and immunity to all damage except radiant.
+
+**Revenge of the Chthonic Mummy.** A chthonic mummy will rise either to avenge a desecration of its crypt or to overcome some obstacle to its special destiny. In such cases, the mummy always knows the direction and distance between it and the target of its vengeance or the obstacle to its destiny. In cases where the mummy seeks revenge against more than one adversary or obstacle, it pursues them one at a time, prioritizing the greatest threats to its special destiny.

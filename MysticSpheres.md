@@ -62,6 +62,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Stonewatch Pass](StonewatchPass.md)
 
+[Temple of the Old Ones](TempleOfTheOldOnes.md)
+
 ## Classes
 
 [Warlock](Warlock.md)
@@ -251,6 +253,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 [Awaken Crystal](AwakenCrystal.md)
 
 [Beacon of Despair](BeaconOfDespair.md)
+
+[Blasphemous Name](BlasphemousName.md)
 
 [Chthonic Veil](ChthonicVeil.md)
 

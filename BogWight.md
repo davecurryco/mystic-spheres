@@ -32,7 +32,7 @@ _Medium undead, neutral evil_
 
 **Multiattack.** The bog wight makes two claw attacks. It can use its Life Drain in place of one claw attack.
 
-**Claw.** _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20 ft./60 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+**Claw.** _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20 ft./60 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
 **Life Drain.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 

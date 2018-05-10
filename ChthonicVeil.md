@@ -7,7 +7,7 @@ _6th-level chthonic_
 **Components:** V, S, M (a piece of nacre)  
 **Duration:** 10 minutes  
 
-An iridescent curtain of pale light forms a vertical translucent wall-up to 20 feet long, 20 feet high, and tissue-thin. The veil remains in place for the duration. If you position the veil so that it passes through a space occupied by a creature or object, the spell fails, and your action and the spell slot are wasted.
+An iridescent curtain of pale light forms a vertical translucent wall up to 20 feet long, 20 feet high, and tissue-thin. The veil remains in place for the duration. If you position the veil so that it passes through a space occupied by a creature or object, the spell fails, and your action and the spell slot are wasted.
 
 The veil sheds dim light out to a range of 5 feet. You and creatures you designate at the time you cast the spell can pass through the veil without harm. If another creature that can see the wall moves to within 5 feet of it or starts its turn there, the creature must succeed on an Intelligence saving throw or be disoriented for 1 minute. While so disoriented, the creature automatically goes last in initiative order and has disadvantage on Wisdom and Intelligence saving throws and ability checks.
 
