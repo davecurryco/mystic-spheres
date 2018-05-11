@@ -120,7 +120,9 @@ _Map:_ [Temple of the Snake God Map](LahoorSnakeTempleMap.jpg)
 
 Ruins of a temple to Sithryss. A coiled-serpent motif predominates the surviving ornamentation carved into the sandstone that forms the main temple.
 
-The ruins are the haunt of a **medusa**, who will take advantage of her knowledge of the terrain to strike from ambush.
+The ruins are the haunt of a spell-casting **medusa**, once a high priestess of the sect, and her construct lover, a handsome man cast of silver. The construct has the stats of a **shield guardian**, except that it is Medium and has INT 10 (+0) and CHA 14 (+2). The pair will take advantage of their knowledge of the terrain to strike from ambush.
+
+The temple sanctum itself is guarded by a **bone naga**, even though there is nothing left to loot.
 
 #### 5) Ampitheater
 
