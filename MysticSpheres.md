@@ -122,6 +122,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Chain of Binding](ChainOfBinding.md)
 
+[Chthonic Claw](ChthonicClaw.md)
+
 [Chthonic Mummy](ChthonicMummy.md)
 
 [Cyanosphinx](Cyanosphinx.md)
@@ -179,6 +181,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 [Shadow Unicorn](ShadowUnicorn.md)
 
 [Shadow Weird](ShadowWeird.md)
+
+[Silver Bard](SilverBard.md)
 
 [Snake Priestess](SnakePriestess.md)
 
@@ -283,6 +287,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 [Thorn Strike](ThornStrike.md)
 
 [Unholy Flame](UnholyFlame.md)
+
+[Withering Veil](WitheringVeil.md)
 
 [Wreath of Hellfire](WreathOfHellfire.md)
 
