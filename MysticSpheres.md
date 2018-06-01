@@ -122,6 +122,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Chain of Binding](ChainOfBinding.md)
 
+[Chaos Wierd](ChaosWierd.)
+
 [Chthonic Claw](ChthonicClaw.md)
 
 [Chthonic Mummy](ChthonicMummy.md)
@@ -166,7 +168,7 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Lesser Wight](LesserWight.md)
 
-[Lycanthrope Weremuskrat](LycanthropeWeremuskrat.md)
+[Lycanthrope, Weremuskrat](LycanthropeWeremuskrat.md)
 
 [Mummified Monk](MummifiedMonk.md)
 
@@ -264,6 +266,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Curse Focus](CurseFocus.md)
 
+[Directed Reincarnation](DirectedReincarnation.md)
+
 [Eternal Darkness](EternalDarkness.md)
 
 [Ethereal Tunnel](EtherealTunnel.md)
@@ -272,19 +276,23 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Hell Briar](HellBriar.md)
 
-[Mordenkainens Baffling Passage](MordenkainensBafflingPassage.md)
-
 [Minor Darkness](MinorDarkness.md)
+
+[Mordenkainens Baffling Passage](MordenkainensBafflingPassage.md)
 
 [Obsession](Obsession.md)
 
 [Rain of Terror](RainOfTerror.md)
+
+[Raise Greater Undead](RaiseGreaterUndead.md)
 
 [Stank Eye](StankEye.md)
 
 [Summon Swarm](SummonSwarm.md)
 
 [Thorn Strike](ThornStrike.md)
+
+[Transfuse Youth](TransfuseYouth.md)
 
 [Unholy Flame](UnholyFlame.md)
 

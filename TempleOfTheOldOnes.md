@@ -202,9 +202,11 @@ Three of the walls of this chamber are hung with a single floor-to-ceiling curta
 
 In a large alcove in the north wall, a corbeled archway carved with a motif of twisted tentacles interlaced around skulls human and not-so-human opens onto a blank wall. Seven large, white gemstones are set in the keystone of the arch in a rather irregular patten. There is an empty socket near the center of the group that would hold another such gem the size of a woman's fist. A successful DC 18 Intelligence(Arcana) check will reveal that the gems are arranged in the same pattern as the stars of the constellation known in Khanashar as _Sencherb_, The Watcher.
 
-The stairway ascends to Level 4.
+If the quartz gem from the Keeper's canopic jar is placed in the empty socket, it will activate this portal, which opens on an otherwise inaccessable region of the Astral Plane adjacent to the Far Realm. This is the place to which the Keeper is meant to repair to invite the Old Ones into the world at the appointed time.
 
 _Treasure:_ 7 x large Quartz (250 gp)
+
+The stairway ascends to Level 4.
 
 ### 2I) Corridor of Pain
 
@@ -232,7 +234,9 @@ The west wall of this hallway had a fresco, but this too has deteriorated beyond
 
 This room was the living quarters of a cult priest. An ancient, worm-eaten wooden bedframe in the north end of the room and an armoire in similarly sad shape in the south are all that remains.
 
-Buried beneath a flagstone in the center of the floor of this cell is the canopic jar of the Keeper. This hiding place was not intended to be accessed and so it can only be found by a successful DC 25 Wisdom (Perception) check. The only clue is that the successive priests who dwelt in this room could not bring themselves to walk on the spot where the Keeper's relic lay and so this flagstone is less worn than the others surrounding it.
+Buried beneath a flagstone in the center of the floor of this cell is the canopic jar of the Keeper. This hiding place was not intended to be accessed and so it can only be found by a successful DC 30 Wisdom (Perception) check. The only clue is that the successive priests who dwelt in this room could not bring themselves to walk on the spot where the Keeper's relic lay and so this flagstone is less worn than the others surrounding it.
+
+The Keeper's canopic jar is made of alabaster inlaid and footed with gold. A golden seal stamped with the Keeper's hieroglyph secures the lid. Inside, the Keeper's brain, shrunk to the size of a walnut, is preserved along with a huge, strangely faceted quartz gemstone (1,000 gp). This gem is the key to the portal in the Gate Chamber.
 
 ### 2O) High Priest's Quarters
 
@@ -303,7 +307,7 @@ Any creature that starts its turn within 5 feet of the stele and can see the ste
 
 The door of this chamber is made of bronze and is like those of the Assembly Hall, but it is unlocked. The interior walls of this small chamber are lined with bookcases and scroll-cabinets of red-lacquered wood, carven and gilded in unsettling designs. The shelves and cabinets are packed with the mouldered remains of books and scrolls.
 
-A pedistal of black onyx stands in the center of the room. On it is a large, open book with black leather covers and bronze bindings. In front of the pedistal is a petrified human rogue. The rogue is apparently of the Alhrain race and wears classic adventuring gear. The look on his face is one of horror and surprise.
+A pedistal of black onyx stands in the center of the room. On it is a large, open book with black leather covers and bronze bindings. In front of the pedestal is a petrified human rogue. The rogue is apparently of the Alhrain race and wears classic adventuring gear. The look on his face is one of horror and surprise.
 
 The pedistal is enchanted to protect any book placed on it. Any creature other than the book's owner that touches a book placed on the pedistal must make a DC 16 Constitution saving throw or be instantly petrified. The petrification lasts until the creature is freed by the greater restoration spell or other magic.
 
@@ -322,6 +326,8 @@ _Scroll:_ The Apocryphal Scrolls of Umud: _These scrolls are locked within a cas
 The door to this chamber is a formidable-looking affair of bronze-adamantine alloy. Its surface is covered with bas-relief designs that are remniscent of the carapace and segmented legs of crabs and the encrustations of barnacles. At the center of the door is a large, oddly-faceted yellow-green crystal that glows with a sickly light. A successful DC 16 Wisdom (Perception) check will reveal that the "decorations" are not simple bas-relief, but are separate components. They are, in fact, part of the mechanism that bolts the door.
 
 The crystal is necrotite and it is the intended target of an Awaken Crystal ritual that must be cast to open the door. Once the crystal is awakened, it can be instructed to direct its energy to work the lock mechanism on the door. Otherwise, a DC 25 Wisdom(Perception) check will reveal that the crystal is both a trap and the key to opening the door. The crystal can be disarmed with a successful DC 30 Dexterity check with thieves' tools. An unsuccessful check causes the crystal to explode. Each creature in a 30 foot radius from the crystal when it explodes must make a DC 16 Constitution saving throw. On a failed save, the target takes 55 (10d10) necrotic damage or half as much damage on a successful one. If the crystal explodes, the door cannot be opened by any means other than destroying it. Otherwise, the door can be opened by a successful DC 35 Dexterity check with thieves' tools. Failure on this check also causes the crystal to explode. 
+
+The room is finished with tiles of dark stone, behind which a thin sheets of lead have been laid to prevent its contents from being scried. The room is bare except for a pedestal of pale orange crystal about 3 1/2 feet high and 18 inches wide. The crystal has many vertical facets and is jagged at the top. A chest fashioned from smooth black stone sits nestled in a slot carved in the top of the crystal. A band of curious symbols of an unknown language is carved around the circumference of the chest near its top. Otherwise, the chest is featureless -- without hinges, hasp, or lock. The chest is, of course, magically trapped. If the chest is disturbed in any way without first reciting the incantation printed on the band of symbols in a prescribed order, a cyclone of purple flame will erupt and swirl around the pedestal at the end of turn in which the chest was disturbed and in each of the next two rounds. Creatures within 5 feet of the pedestal (but not in the space of the pedestal itself) when the cyclone is active must make a DC 16 Charisma saving throw. On a failed save, the target takes 55 (10d10) force damage or half as much damage on a successful one. Non-magical objects in the area of effect that aren't being worn or carried are disintegrated.    
 
 _Treasure:_ 800 cp, 5000 sp, 2000 gp, 130 pp, Amethyst (100 gp), 2 x Coral (100 gp), 3 x Garnet (100 gp), Jet (100 gp), 2 x Pearl (100 gp), Spinel (100 gp), Spell Scroll (Planar Ally) (very rare, dmg 200)
 
@@ -357,5 +363,5 @@ The names of the depicted Old Ones and their descriptions, in clockwise order fr
 
 **Zotha** "Traveler of the Void" _A gargantuan creature with a cigar-shaped body ringed by five moth-like wings and terminated at both ends by a shark-toothed maw surrounded by helical tendrils. Zotha flies through the cold dark of space at impossible speed on unfathomable errands, leaving a contrail of disrupted reality in its wake. Astronomers of many worlds have mistaken the approach of this elder being as that of an unknown comet, rightly identifying it as a portent of doom, but incalculably misapprehending the scope of that doom._
 
-**Shee-Hoggua** "The Floating One" _A behemouth cogeries of myriad bubbles, each of which encapsulates a miniature world that spawns, lives, and expires in a brief space of seconds. It is said that each of these bubbles is an actual world of the multi-verse, but it is unclear what Shee-Hoggua's relationship to these worlds might be. Of all the Old Ones, Shee-Hoggua is perhaps the most benign -- and the most inscrutable._
+**Shee-Hoggua** "The Floating One" _A behemouth cogeries of myriad bubbles, each of which encapsulates a miniature world that spawns, lives, and expires in a brief space of seconds. It is said that each of these bubbles is an actual world of the multi-verse, but it is unclear what Shee-Hoggua's relationship to these worlds might be. Some say that the bubbles merely reflect a reality remote in time and space fro Shee-Hoggua's presence. Others say that Shee-Hoggua's presence continually creates new realities that are incredibly compressed in time and space. Whatever the truth may be, all who have studies such things agree that of all the Old Ones, Shee-Hoggua is the most benign -- and the most inscrutable._
 
