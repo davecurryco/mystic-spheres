@@ -106,19 +106,23 @@ This area is overgrown by thick, almost impassable jungle. The buildings here we
 
 The rectangular roofs of several sandstone buildings are visible above the river water. These were part of the university that once educated the city's bureaucrats and scribes. One of the central edifices was once the university's library -- a one-story building with a high roof set solidly on an eight foot high base. An eddy in the current caused by the walls of adjoining buildings upstream keeps the water flowing through the library free of silt. The clarity of the water, the stone bars covering its windows, and a cellar with a single entrance recommended the library to the sahuagin as a headquarters and a secure place to store their treasure.
 
-Twenty-four **sahuagin** patrol the grounds of the university, in groups of 2d6 warriors each. In addition, a **sahuagin baron** and his bodyguard of six **sahuagin knights** occupy the library.
+Twenty-four **sahuagin** patrol the grounds of the university, in groups of 2d6 warriors each. In addition, a **sahuagin baron** and his bodyguard of six **sahuagin knights** occupy the library. The baron, who is called "He Who Disembowels His Foes", has been charged to maintain a base of operations in the ruins and conduct raids on coastal villages to gather the captives and treasure needed to ransom his city from the dragon turtle.
 
-_Treasure:_ 900 cp, 5000 sp, 900 gp, 120 pp, 18 x Pearl (100 gp), 2 x Black Pearl (250 gp) Potion of Growth (uncommon, dmg 187), 2 x Potion of Water Breathing (uncommon, dmg 188)
+_Treasure:_ 900 cp, 5000 sp, 900 gp, 120 pp, 18 x Pearl (100 gp), 2 x Black Pearl (250 gp), Potion of Growth (uncommon, dmg 187), 2 x Potion of Water Breathing (uncommon, dmg 188)
 
 #### 3) Temple of the Old Ones
 
 [Temple of the Old Ones](TempleOfTheOldOnes.md)
 
+This temple built of massive blocks of greenish stone is in better structural condition than any of the surrounding ruins, but the weathered bas-relief carvings that decorate its front suggest enormous antiquity.
+
+A **sahuagin priestess**, six **sahaugin acolytes**, and twelve **sahugin** guards are at the site on a sort of archeological expedition. The priestess is called "She Who Commands Sharks" in the inhuman language of her kind. She is aware of the situation with the dragon turtle, which is not common knowledge among the sahuagin.
+
 #### 4) Temple of the Snake God
 
-_Map:_ [Temple of the Snake God Map](LahoorSnakeTempleMap.jpg)
+_Map:_ [Temple of the Snake God Map](LahoorSnakeTempleMap.pdf)
 
-Ruins of a temple to Sithryss. A coiled-serpent motif predominates the surviving ornamentation carved into the sandstone that forms the main temple.
+Amid the many wandering branches of a small creek that feeds into the river are the ruins of a temple to Sithryss. A coiled-serpent motif predominates the surviving ornamentation carved into the sandstone that sheaths the main temple.
 
 The ruins are the haunt of a spell-casting **medusa**, once a high priestess of the sect, and her construct lover, a **silver bard**. The pair will take advantage of their knowledge of the terrain to strike from ambush.
 
@@ -130,7 +134,7 @@ The temple sanctum itself is guarded by a **bone naga**, even though there is no
 
 #### 7) Tower of the Sorcerer
 
-_Map:_ [Sorcerer's Tower Map](LahoorSorcerersTowerMap.jpg)
+_Map:_ [Sorcerer's Tower Map](LahoorSorcerersTowerMap.pdf)
 
 This long-abandoned wizard's tower is now the lair of a **beholder** named Nytharlax, a rather sorry specimen of its species who withdrew here out of fear of a conspiracy of its enemies. At a distance, Nytharlax's skinny, pale brown body and long, segmented eyestalks suggests a flying spider. Up close, its large, yellow central eye with its slitted iris and needle-like teeth give it a snakish look. As repulsive as its looks are, the beholder's personality is even more uncomfortable. It is uncommonly paranoid, even for its kind, and it speaks with an air of persecution and depression.
 

@@ -9,8 +9,6 @@ _Map:_ [Temple of the Old Ones Map - Levels 2 & 3](LahoorTempleOfTheOldOnesMap_2
 
 The materials, construction, and architecture of this building are unlike anything else in the city. It is built with large blocks of greenish stone set without mortar so precisely that it is impossible to force even a knife-blade between them, despite their obvious antiquity. The interior walls are of the same construction. The halls and chambers are windowless and unlit, without any provision for lamps, cressets, or even torch-holders. Except in the larger chambers, there are no arches and even those are reticulated. Although the architecture features rectangular shapes, the angles are seldom square. Instead, the architects seem to have favored tricks with perspective to prompt a sense of awe and unease -- heightened by the stifling atmosphere and sense of incredible ancientness.
 
-A **sahuagin priestess**, six **sahaugin acolytes**, and twelve **sahugin** guards are at the site on a sort of archeological expedition. The priestess is aware of the situation with the dragon turtle, which is not common knowledge among the sahuagin.  
-
 A number of magical effects in the temple can inflict short-term or long-term madness on a character. If the number of times a character is so afflicted while in the temple exceeds 2 plus the character's Wisdom or Charisma bonus (whichever is higher), the character acquires an indefinite madness. 
 
 ## Level 1
