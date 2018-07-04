@@ -64,6 +64,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Temple of the Old Ones](TempleOfTheOldOnes.md)
 
+[Temple of the Snake God](TempleOfTheSnakeGod.md)
+
 ## Classes
 
 [Warlock](Warlock.md)

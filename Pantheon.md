@@ -48,3 +48,4 @@
 | Vecna          | NE        | Secrets, Undeath                       | Kushyth  | Old Kingdom | Male          | Eye in palm of hand   |
 | Zehir          | NE        | Darkness, Poison, Serpents             | Shrivra  | Khanashar   | Female        | Two-headed serpent    |
 | Zehir          | NE        | Mystery, Poison, Serpents              | Sithryss | Ophar       | Female        | Coiled serpent        |
+| Zehir          | NE        | Power, Serpents, Treachery             | Zaghir   | Ophar       | Male          | Hooded cobra          |

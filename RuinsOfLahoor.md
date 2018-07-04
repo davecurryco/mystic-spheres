@@ -120,9 +120,7 @@ A **sahuagin priestess**, six **sahaugin acolytes**, and twelve **sahugin** guar
 
 #### 4) Temple of the Snake God
 
-_Map:_ [Temple of the Snake God Map](LahoorSnakeTempleMap.pdf)
-
-Amid the many wandering branches of a small creek that feeds into the river are the ruins of a temple to Sithryss. A coiled-serpent motif predominates the surviving ornamentation carved into the sandstone that sheaths the main temple.
+Amid the many wandering branches of a small creek that feeds into the river are the ruins of a temple to Zaghir. A hooded-cobra motif predominates the surviving ornamentation carved into the sandstone that sheaths the main temple.
 
 The ruins are the haunt of a spell-casting **medusa**, once a high priestess of the sect, and her construct lover, a **silver bard**. The pair will take advantage of their knowledge of the terrain to strike from ambush.
 
