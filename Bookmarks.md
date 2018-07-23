@@ -12,8 +12,8 @@
 
 ### Social Media
 
-[Facebook](http://www.facebook.com/) | [LinkedIn](http://www.linkedin.com/home) | [Twitter](http://www.twitter.com/)   
-[Naymz](http://www.naymz.com)
+[Facebook](http://www.facebook.com/) | [LinkedIn](http://www.linkedin.com/home) | [Twitter](http://www.twitter.com/) | [Naymz](http://www.naymz.com)  
+[Shannon Instagram](https://www.instagram.com/_shancurry/)
 
 ### Programming
 
