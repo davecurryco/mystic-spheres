@@ -2,7 +2,9 @@
 
 _Map:_ [Tolengul Map](TolengulMap.pdf)
 
-Tolengul is the last refuge of the Xochuaco civilization. It lies on Lake Tepeco at the confluence of the Huantalte and Tumba rivers.
+Tolengul is the former capital and last refuge of the Xochuaco civilization. It lies on Lake Tepeco at the confluence of the Huantalte and Tumba rivers.
+
+The walled city is occupied by Xochuaco elites and their Quetalpa slaves. Outside the wall, Quetalpa freeman merchants, tradesmen, and untouchables provide for the city's material needs. A Xochuaco military order based in the citadel that sits atop a bluff south of the lake defends the city. In its shadow lies a seedy warehouse district that was once the city's main financial center.     
 
 **Settlement Name:** Tolengul
 **Population:** 10,173
@@ -52,6 +54,14 @@ Bakers 12, Coopers 5, Locksmiths 6, Saddlers 6, Barbers 26, Copyists 5, Magic Sh
 ### Q) Tradesmen
 
 ### R) Citadel
+
+### S) South Docks
+
+### T) South Warehouse
+
+### U) Exchange
+
+### V) Foreigners
 
 ## People
 
