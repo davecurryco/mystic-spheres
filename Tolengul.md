@@ -4,7 +4,7 @@ _Map:_ [Tolengul Map](TolengulMap.pdf)
 
 Tolengul is the former capital and last refuge of the Xochuaco civilization. It lies on Lake Tepeco at the confluence of the Huantalte and Tumba rivers.
 
-The walled city is occupied by Xochuaco elites and their Quetalpa slaves. Outside the wall, Quetalpa freeman merchants, tradesmen, and untouchables provide for the city's material needs. A Xochuaco military order based in the citadel that sits atop a bluff south of the lake defends the city. In its shadow lies a seedy warehouse district that was once the city's main financial center.     
+Only the Xochuaco elites and their Quetalpa slaves are allowed into the walled city. Outside the walls and over the bridges, Quetalpa freeman merchants, tradesmen, and untouchables provide for the city's material needs. A Xochuaco military order based in the citadel that sits atop a bluff south of the lake defends the city, mostly from the threat of Quetalpa uprising. In the shadow of the citidel lies a seedy warehouse district that was once the city's main financial center when trade flowed along the rivers between the mountains and the coast.     
 
 **Settlement Name:** Tolengul
 **Population:** 10,173
@@ -21,23 +21,45 @@ Bakers 12, Coopers 5, Locksmiths 6, Saddlers 6, Barbers 26, Copyists 5, Magic Sh
 
 ### A) North Gate
 
+Outside the gate Quetalpa freemen have built wattle-and-daub dwellings and animal pens. There are also a few large communal houses used by the traveling merchants. 
+
 ### B) Aristocrats
+
+In this section of the city, limestone buildings predominate. Many of them are centuries old and almost all are meticulously maintained by slaves.
 
 ### C) Wealthy
 
+Many of the buildings in this distict are laterite faced with limestone. Most are well-maintained, but some show signs of the declining fortunes of their owners. A few are even abandoned.
+
 ### D) East Bridge
+
+This district is mostly populated by Quetalpa rivermen.
 
 ### E) Pleasure Palace
 
+Emperor Teuchuatzin maintains a luxurous palace at the edge of an artificial pond surrounded by lush gardens and outbuildings for his many servitors, guards, and slaves.
+
 ### F) Temples
 
-### G) West Bridge
+Temples and shrines to the city's myriad gods are jammed together in this district. The architecture and construction of these buildings varies greatly according to the power and status of the gods and their worshipers.
+
+Many of the Xochuaco gods are related to one another in sometimes mysterious and counter-intuitive ways. For example, Matlacapo (NG Goddess of New Corn), Malancuelhe (LE Goddess of Jealousy), and Morrighu (N Goddess of Death), are often worshipped together as a divine triad. 
+
+### G) Huantalte Bridges
+
+The bridges that span the Huantalte River are most frequently trafficked by servitors and slaves of the palace and aristocrat districts. 
 
 ### H) High-End Shops
 
-### I) Palace
+Members of the Xochuaco trade and merchant classes have permanent shops in this district.
+
+### I) Palace of the Emperor
+
+The Emperor's main palace is an extremely impressive affair. Its architecture, construction, and materials are similar to, but more advanced than that of the most extravagent mansions and temples elsewhere in the city.
 
 ### J) Scribes
+
+The city's bureaucracts and court scholars have their homes here.
 
 ### K) East Docks
 
@@ -59,7 +81,7 @@ Bakers 12, Coopers 5, Locksmiths 6, Saddlers 6, Barbers 26, Copyists 5, Magic Sh
 
 ### T) South Warehouse
 
-### U) Exchange
+### U) Court of the Scholars
 
 ### V) Foreigners
 
@@ -85,9 +107,9 @@ Bakers 12, Coopers 5, Locksmiths 6, Saddlers 6, Barbers 26, Copyists 5, Magic Sh
 
 **High Priest:** Itzihuatl (M, 29, Xochuaco, archpriest, LG, Honor, Critical, Matted)
 
-**High Priestess:** Maloxoche (F, 25, Xochuaco, archpriest, CG, Honor, Condescending, Voluptuous)
+**High Priestess (Matlacapo):** Maloxoche (F, 25, Xochuaco, archpriest, NG, Honor, Condescending, Voluptuous)
 
-**High Priestess:** Acatzina (F, 36, Xochuaco, archpriest, LE, Power, Malicious, Buff)
+**High Priestess (Malancuelhe):** Acatzina (F, 36, Xochuaco, archpriest, LE, Power, Malicious, Buff)
 
 ### Arcane
 
