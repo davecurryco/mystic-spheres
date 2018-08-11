@@ -172,6 +172,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Lycanthrope, Weremuskrat](LycanthropeWeremuskrat.md)
 
+[Medusa Priestess](MedusaPriestess.md)
+
 [Mummified Monk](MummifiedMonk.md)
 
 [Naiad](Naiad.md)
@@ -209,6 +211,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 [Vampire Spawn Variants](VampireSpawnVariants.md)
 
 [Vulture Harpy](VultureHarpy.md)
+
+[Yuan-Ti Deceiver](YuanTiDeceiver.md)
 
 ## NPCs
 
