@@ -117,8 +117,10 @@ The city's bureaucracts and court scholars have their homes here.
 
 **Wizard:** Xometoa (M, 61, Xochuaco, mage, CG, Justice, Bitter, Light)
 
-**Wizard:** Mazquetzqui (M, 28, Xochuaco, warlock of the archfey, CN, Loyalty, Bitter, Barrel-chestged)
+**Wizard:** Mazquetzqui (M, 28, Xochuaco, warlock of the archfey, CN, Loyalty, Bitter, Barrel-chested)
 
 **Witch:** Tlacoxoche (F, 33, Xochuaco, diviner, N, Revenge, Sincere, Pretty)
 
 **Witch:** Apalxochin (F, 41, Xochuaco, necromancer, LE, Acceptance, Brave, Blonde)
+
+**Witch:** Malocihe (F, 68, Xochuaco, necromancer, NE, Destiny, Bitter, Frizzy)

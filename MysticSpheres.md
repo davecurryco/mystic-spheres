@@ -60,6 +60,10 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Runaway Tribute](RunawayTribute.md)
 
+[Snares of Women](SnaresOfWomen.md)
+
+[Smoke on the Sea](SmokeOnTheSea.md)
+
 [Stonewatch Pass](StonewatchPass.md)
 
 [Temple of the Old Ones](TempleOfTheOldOnes.md)
