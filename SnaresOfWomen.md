@@ -4,7 +4,7 @@
 
 ### Puzzle
 
-_Map:_ [Malocihes Cave](MalochihesCaveMap.pdf)
+_Map:_ [Malocihes Cave](MalocihesCaveMap.pdf)
 
 ### Boss Fight
 
