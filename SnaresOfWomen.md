@@ -8,4 +8,4 @@ _Map:_ [Malocihes Cave](MalocihesCaveMap.pdf)
 
 ### Boss Fight
 
-_Map:_ [Chambers of the Untouchables](ChambersOfTheUntouchables.pdf) 
+_Map:_ [Chambers of the Untouchables](ChambersOfTheUntouchablesMap.pdf) 
