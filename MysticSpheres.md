@@ -218,6 +218,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Yuan-Ti Deceiver](YuanTiDeceiver.md)
 
+[Yuan-Ti Pretender](YuanTiPretender.md)
+
 ## NPCs
 
 [NPC Generation](NPCGeneration.md)
