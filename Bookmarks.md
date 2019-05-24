@@ -43,7 +43,7 @@
 
 ### Internet
 
-[Internet Archive](https://archive.org)
+[Internet Archive](https://archive.org) | [Horntip Collection](http://www.horntip.com/html/books_&_MSS/2000s/2004.htm)
 
 ### Entertainment
 
