@@ -51,7 +51,7 @@
 
 ### Language
 
-[British Library](http://www.bl.uk/onlinegallery/virtualbooks/index.html) | [Merriam-Webster Dictionary and Thesaurus](http://www.merriam-webster.com)
+[British Library](http://www.bl.uk/onlinegallery/virtualbooks/index.html) | [Merriam-Webster Dictionary and Thesaurus](http://www.merriam-webster.com) | [World Wide Words](http://www.worldwidewords.org/genindex.htm)
 
 ### Literature
 
