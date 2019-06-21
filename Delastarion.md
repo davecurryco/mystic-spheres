@@ -1,5 +1,7 @@
 # Delastarion
 
+_Map:_ DDH 2014 pg 44 Joseph's Inlet
+
 Delastarion was formerly a fortified frontier town of the Telenar Colonies that was recently overrun by goblins and related monsters. Under the leadership of an exceptionally large and intelligent ogre named Gorbast, the town has become a trading center where the goblin tribes, ogres, orcs, hobgoblins and other races set aside their differences for mutual profit. The goblins renamed the place Bar-Krorgroshir (Dwelling Between Waters) after their fashion.
 
 ## Layout
@@ -30,7 +32,7 @@ This is Gorbast's stronghold. Its foundations are massive blocks of the green st
 
 Nevertheless, the castle is strong enough to secure its master as the law in Delastarion. Gorbast's ogre guard and other henchmen are stationed here in garrison buildings that stretch along the inside of the south wall.
 
-### Delastarion Castle
+### Delastarion Keep
 
 Gorbast's Keep is the seat of power. It is here that the ogre-king lives, holds court, administers what passes for justice, plots shakedowns, and generally knocks heads as needed to keep things running smoothly.
 
@@ -334,6 +336,8 @@ Hobgoblin Pact Hag (Level 11 Controller - Leader) - Zanatha
 
 The Orc Hunt (M5)
 
+_Map:_ DDH 2016 pg 40 The Quisling Duck Tavern
+
 The ruins of the Orc Hunt are here. The foundations of the building can be recognized by the inscription "sons of Thorol" in dwarf-runes on the fire-damaged cornerstone of a burned-out building. The doors and windows are boarded up and the roof is collapsed. Inside, the floor is a litter of charred beams and debris. Goblin transients were squatting here until they were driven out. Some of them cleared the way to the cellar (Dungeoneering DC 17 to find their entrance) and a few were killed when the floor-beams above them collapsed.
 
 Moving around inside the abandoned building is dangerous (d20 for each 5 squares of movement)
@@ -365,7 +369,6 @@ A solid gatehouse set in the southeast wall between two corner horseshoe-shaped 
 Half-Orc Fell Assassin (Level 10 Elite Lurker) - Thurug
 
 Hobgoblin Fleshcarver Champion (Level 8 Elite Controller - Champion)- Hrakrad
-
 
 10 Hobgoblin Archers (Level 3 Artillery)
 
