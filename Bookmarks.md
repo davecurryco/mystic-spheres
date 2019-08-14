@@ -56,7 +56,7 @@
 ### Literature
 
 [Encyclopedia Mythica](http://www.pantheon.org) | [LOTR Project](http://lotrproject.com) | [Shakespeare Navigators](http://www.shakespeare-navigators.com)  
-[NoiseTrade](http://books.noisetrade.com/) | [Project Gutenberg](http://www.gutenberg.org/)
+[NoiseTrade](http://books.noisetrade.com/) | [Project Gutenberg](http://www.gutenberg.org/) | [One More Library - Andrew Lang Collection](https://onemorelibrary.com/index.php/en/books/major-collections/andrew-lang-collection-316)
 
 ## Entertainment
 
