@@ -48,6 +48,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Jade Serpent](JadeSerpent.md)
 
+[Lost Valley](LostValley.md)
+
 [Monastery of the Silver Falls](MonasteryOfTheSilverFalls.md)
 
 [Pirates of the Kheraz Coast](PiratesOfTheKherazCoast.md)
