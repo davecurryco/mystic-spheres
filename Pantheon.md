@@ -29,7 +29,8 @@
 | Pelor          | NG        | Agriculture, Life, Spring              | Matlacapo   | Xochuaco    | Female        | Corn shoot            |
 | Raven Queen    | UN (E)    | Death, Fate, Winter                    | Morrighu    | All         | Female        | Raven                 |
 | Sehanine       | UN (C)    | Autumn, Love, Moon, Trickery           | Sheileen    | Halfling    | Female        | Crescent moon         |
-| Shaira         | UN (C)    | Autumn, Love, Moon, Women              | Shaira      | Pashan      | Female        | Full moon             |
+| Sehanine       | UN (C)    | Autumn, Love, Moon, Women              | Shahira     | Pashan      | Female        | Full moon             |
+| Sehanine       | UN (C)    | Love, Moon, Women, Treachery           | Asher-ai    | Old Kingdom | Female        | Crecent moo           |
 | Asmodeus       | LE        | Domination, Power, Tyranny             | Ayashina    | Ilshan      | Female        | Triskelion of axes    |
 | Asmodeus       | LE        | Domination, Power, Tyranny             | Malakor     | Goblin      | Male          | Double-bladed axe     |
 | Asmodeus       | LE        | Domination, Power, Tyranny             | Gilzarad    | Khanashar   | Male          | Axe                   |
