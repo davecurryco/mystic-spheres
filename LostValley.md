@@ -30,6 +30,6 @@ Liallith plans to establish worship of herself among all the denizens of the val
 
 ## Places
 
-_Map:_ [Lost Valley Map](LostValleyMap.pdf)
+_Map:_ [Lost Valley Map](LostValleyMap.jpg)
 
 [Halls of Kazaz-druul](HallsOfKazaz-druul.md)
