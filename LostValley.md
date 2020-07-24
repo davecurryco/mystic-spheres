@@ -33,3 +33,7 @@ Liallith plans to establish worship of herself among all the denizens of the val
 _Map:_ [Lost Valley Map](LostValleyMap.jpg)
 
 [Halls of Kazaz-druul](HallsOfKazaz-druul.md)
+
+[Keep of the Feminauts](KeepOfTheFeminauts.md)
+
+[Tower of the Sorceress](TowerOfTheSorceress.md)
