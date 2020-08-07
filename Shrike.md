@@ -22,19 +22,11 @@ _Medium monstrosity, neutral evil_
 
 ---
 
-**Ariel Evasion.** If the shrike is flying and is subjected to an effect that allows it to make a Dex saving throw to take only half damage, the shrike instead takes no damage if it succeeds on the saving throw and half if it fails.
+**Ariel Evasion.** If the shrike is flying and is subjected to an effect that allows it to make a Dex saving throw to take only half damage, the shrike instead takes no damage if it succeeds on the saving throw and half if she fails.
 
 **Flyby.** The shrike doesn't provoke an opportunity attack when she flies out of an enemy's reach.  
 
-**Innate Spellcasting.** The shrike's innate spell casting ability is Constitution (spell save DC 17). The shrike can innately cast the following spells, requiring no material components:
-
-At will: _message, eldrich blast (3 beams), true strike_
-3/day each: _dispel magic, hellish rebuke, mirror image_
-1/day each: _heat metal, tongues_
-
 **Sneak Attack (1/Turn).** The shrike deals an extra 21 (6d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the shrike that isn’t incapacitated and the shrike doesn’t have disadvantage on the attack roll.
-
-**Surprise Swoop.** During her first turn if the shrike dives at least 30 feet before its attack, she has advantage on attack rolls against any creature that hasn’t taken a turn.
 
 ---
 
@@ -48,6 +40,8 @@ At will: _message, eldrich blast (3 beams), true strike_
 The net has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the net drops to 0 hit points, it is destroyed.  
 
 **Shortsword.** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) piercing damage, plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the _lesser restoration_ spell or similar magic.
+
+**Shriek of Doom (Recharge 5-6).** The shrike emits sonic energy in a 60-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or take 54 (12d8) force damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ---
 

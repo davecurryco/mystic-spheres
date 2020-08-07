@@ -190,9 +190,13 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Priest of the Black Fane](PriestOfTheBlackFane.md)
 
+[Primal Lamia](PrimalLamia.md)
+
 [Shadow Unicorn](ShadowUnicorn.md)
 
 [Shadow Weird](ShadowWeird.md)
+
+[Shrike](Shrike.md)
 
 [Silver Bard](SilverBard.md)
 
