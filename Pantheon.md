@@ -22,6 +22,7 @@
 | Melora         | UN (C)    | Life, Sea, Wilderness                  | Unye        |  Elf        | Female        | Acorn, Seashell       |
 | Melora         | UN (C)    | Life, Mystery, Sea                     | Yshma       | Khanashar   | Female        | Wave                  |
 | Moradin        | LG        | Craft, Creation, Family, Protection    | Thrar       | Dwarf       | Male          | Hammer and anvil      |
+| -              | CN        | Mountains, Wind, Sun, Thunder          | Zoldin      | Dwarf       | Male          | Mountain, Thunderbolt |
 | Pelor          | NG        | Agriculture, Life, Summer, Sun, Time   | Brenna      | Halfling    | Female        | Cornucopia            |
 | Pelor          | NG        | Life, Music, Summer, Sun, Time         | Lirindol    | Elf         | Male          | Sun                   |
 | Pelor          | NG        | Agriculture, Life, Summer              | Selenna     | Telenar     | Female        | Sheaf of wheat        |
