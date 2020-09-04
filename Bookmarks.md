@@ -69,7 +69,7 @@
 [Fantastic Maps](http://www.fantasticmaps.com/) | [Roll20](http://roll20.net/) | [Obsidian Portal](http://www.obsidianportal.com/)  
 [Five Iconic 1st Edition AD&D Illustrations](http://www.tor.com/blogs/2011/09/saladins-sundrarium-five-iconic-1st-edition-adad-illustrations-proving-david-a-trampier-is-one-of-the-best-fantasy-artists-of-all-time) | [Core List: Monsters](https://spreadsheets.google.com/pub?key=p6th3bqNYPfmt_CdY8qDUZw&gid=0) | [Hypertext d20 SRD](http://www.d20srd.org/index.htm)  
 [Dungeon Mastering](http://www.dungeonmastering.com/) | [The Museum of Role Playing Games](http://rdushay.home.mindspring.com/Museum/Index.html) | [Monster Building 201](http://theangrygm.com/monster-building-201-the-dd-monster-dissection-lab/)  
-[DnD Beyond: First Dungeon](https://www.dndbeyond.com/posts/211-designing-the-dungeon-your-first-dungeon)  
+[DnD Beyond: First Dungeon](https://www.dndbeyond.com/posts/211-designing-the-dungeon-your-first-dungeon) | [5e Monster Manual on a Card](http://blogofholding.com/?p=7338) 
 
 ## Computer
 
