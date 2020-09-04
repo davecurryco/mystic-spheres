@@ -84,6 +84,14 @@ Madrezakar IV delved a fortified power-plant and distribution center for his pro
 
 [Halls of Kazaz-druul](HallsOfKazaz-druul.md)
 
+#### Adraz-nar
+
+[Necropolis of Adraz-nar](Adraz-nar.md)
+
+#### Elgrim's Tower
+
+[Elgrim's Tower](ElgrimsTower.md)
+
 ### ni-Shemar
 
 The city-state of ni-Shemar lives in a state of uneasy truce with the lizard-folk to the south and east. Its Amazon warriors patrol the woodlands and skies in vigilance against the occasional raiding-parties that cross the rivers at the borders. 
