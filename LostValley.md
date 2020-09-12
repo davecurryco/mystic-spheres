@@ -88,9 +88,9 @@ Madrezakar IV delved a fortified power-plant and distribution center for his pro
 
 [Necropolis of Adraz-nar](Adraz-nar.md)
 
-#### Elgrim's Tower
+#### Ezgrim's Tower
 
-[Elgrim's Tower](ElgrimsTower.md)
+[Ezgrim's Tower](EzgrimsTower.md)
 
 ### ni-Shemar
 
