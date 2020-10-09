@@ -2,8 +2,10 @@
 
 ## Campaign Magic Items A-Z
 
-[MaulOfMaiming](MaulOfMaiming.md)
+[Lariat of Teleportation](LariatOfTeleportation.md)
 
-[PitcherOfPurity](PitcherOfPurity.md)
+[Maul of Maiming](MaulOfMaiming.md)
 
-[StaffOfSickness](StaffOfSickness.md)
+[Pitcher of Purity](PitcherOfPurity.md)
+
+[Staff of Sickness](StaffOfSickness.md)

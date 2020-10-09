@@ -206,6 +206,8 @@ This is a D&D campaign that I started for some old RPG buddies.
 
 [Stone Watcher](StoneWatcher.md)
 
+[Storm Hag](StormHag.md)
+
 [Swarm of Mind Worms](SwarmOfMindWorms.md)
 
 [Tennyo](Tennyo.md)
